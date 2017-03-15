@@ -1,0 +1,266 @@
+{
+	"lang_name_short": "FR",
+	"lang_name_english": "French",
+	"lang_name_localized": "Français",
+	
+	"language" : "Langue",
+
+	"paused": "Pause",
+	"main_menu": "Menu Principal",
+	"purge_the_remnants": "Purgez les Remnants",
+	"practice_lair": "Repaire d'entraînement",
+	"speedrun": "Speedrun",
+	"custom_levels": "Niveaux de la Communauté",
+	"global_rankings": "Classements Mondiaux",
+	"settings": "Paramètres",
+	"credits": "Crédits",
+	"level_editor": "Éditeur de Niveaux",
+	"quit": "Quitter",
+
+	"level_selection": "Choix des Niveaux",
+	"speedrun_selection": "Choix de Speedrun",
+	"speedrun_lb": "Classements Speedrun",
+
+	"tutorial": "Tutorial",
+	"tutorial_texts": {
+		"hold_hook_to_swing": "Maintenez le GRAPPIN pour vous BALANCER",
+		"hold_hook_and_jump_to_pull": "Maintenez GRAPPIN + SAUT pour TIRER",
+		"dash_jump": "DASH + SAUT pour faire un SAUT DASHÉ",
+		"dash_to_surf": "DASHEZ pour SURFER",
+		"jump_during_surf": "SAUTEZ pendant le SURF"
+	},
+
+	"global_ranks": {
+		"descendant": "Descendant de Naezith",
+		"inhuman": "Inhumain",
+		"grandmaster": "Grand Maître",
+		"master": "Maître",
+		"expert": "Expert",
+		"veteran": "Vétéran",
+		"adept": "Adepte",
+		"apprentice": "Apprenti",
+		"novice": "Novice"
+	},
+
+	"yes": "Oui",
+	"no": "Non",
+	"enabled": "Activé",
+	"disabled": "Désactivé",
+	"on": "On",
+	"off": "Off",
+	"all": "Tout",
+	"bottom": "Bas",
+	"middle": "Milieu",
+	"personal_best": "Mon Meilleur Temps",
+	"shadow": "Ombre",
+
+	"only_in_replays": "Seulement dans les Replays",
+	"only_in_speedrun": "Seulement en Speedrun",
+	"better_than_me": "Un joueur meilleur que moi",
+	"line": "Ligne",
+	"lightning": "Foudre",
+	"line_and_lightning": "Ligne & Foudre",
+
+	"action": {
+		"LEFT": "Gauche",
+		"RIGHT": "Droite",
+		"JUMP": "Saut",
+		"HOOK": "Grappin",
+		"DASH": "Dash",
+		"RESET": "Recommencer",
+		"APPLY": "Appliquer",
+		"PAUSE": "Pause",
+		"BACK": "Retour",
+		"MENU UP": "Menu Haut",
+		"MENU DOWN": "Menu Bas",
+		"MENU LEFT": "Menu Gauche",
+		"MENU RIGHT": "Menu Droit",
+		"LEADERBOARD": "Classements",
+		"LEVEL SEARCH": "Recherche de niveaux",
+		"SKIP TRACK": "Piste suivante",
+
+		"WATCH": "Regarder",
+		"APPLY CHANGES": "Appliquer les changements",
+		"CHANGE SPEED": "Changer la vitesse",
+		"RESTART REPLAY": "Recommencer le Replay"
+	},
+
+	"promoted": "Promu",
+	"demoted": "Relégué",
+
+	"inspect": "Inspectez",
+	"inspecting": "Inspection",
+	"complete_the_chapter": "Finissez le chapitre",
+	"complete_a_chapter": "Finissez un chapitre",
+
+	"purged": "Purgé",
+	"name": "Nom",
+	"rating": "Note",
+	"rank": "Rang",
+	"your_time": "Votre Temps",
+	"mastery_time": "Temps de Maître",
+	"total_time": "Temps Total",
+	"dominance": "Dominance",
+	"locked": "Vérouillé",
+	"author": "Auteur",
+
+	"menu": {
+		"settings": {
+			"gameplay": {
+				"title": "Jeu",
+				"camera_ignores_borders": "la Caméra Ignore les Bords",
+				"input_indicator": "la Caméra Ignore les Bords",
+				"allow_checkpoints": "la Caméra Ignore les Bords",
+				"speedometer": "la Caméra Ignore les Bords",
+				"energy_as_number": "Énergie en tant que Nombre",
+				"ghost_replay": "Replay Fantôme",
+				"ghost_visibility": "la Caméra Ignore les Bords",
+				"hook_indicator": "Indiquer le Chemin du Grappin",
+				"dash_bar": "barre de rechargement du Dash",
+				"minimap": "Mini-map"
+			},
+
+			"customization": {
+				"title": "Personnalisation",
+				"beam_style": "Style Rayon du Grappin",
+				"main_color": "Couleur Principale",
+				"secondary_color": "Couleur Secondaire"
+			},
+
+			"sound": {
+				"title": "Son",
+				"master_volume": "Volume Principal",
+				"sfx_volume": "Volume Effets sonores",
+				"music_volume": "Volume Musique"
+			},
+
+			"graphics": {
+				"title": "Graphismes",
+				"display_mode": "Mode d'affichage",
+				"fullscreen_resolution": "Résolution Plein Écran",
+				"windowed_mode_resolution": "Résolution Fenêtré",
+				"vertical_sync": "Synchronisation Verticale",
+				"view_height": "Hauteur de Caméra",
+				"fps_cap": "Limitation du framerate",
+				"show_fps": "Afficher les FPS",
+				"bloom": "Bloom",
+				"background_blur": "Flou d'arrière plan",
+				"ambient_coloring": "Coloration ambiante",
+				"vignette_rgb_split": "Vignette & Aberration Chromatique",
+				"render_deco_layers": "Afficher les décorations",
+				"render_bg_layers": "Afficher les arrières plans",
+				"render_parallax_layers": "Afficher les arrières plans défilants",
+				"texture_smoothing_filter": "Filtre de lissage des textures",
+
+				"windowed": "Fenêtré",
+				"borderless": "Sans bords",
+				"fullscreen": "Plein Écran"
+			},
+
+			"controls": {
+				"title": "Contrôles",
+				"gamepad_layout": "Agencement de la Manette",
+				"disable_gamepad": "Désactiver la Manette",
+
+				"xbox": "Xbox",
+				"dualshock": "Dualshock"
+			},
+
+			"search_settings": {
+				"title": "Paramètres de Recherche"
+			}
+		}
+	},
+
+	"offline_mode": "MODE HORS-LIGNE",
+	"offline_mode_warning": "ATTENTION: vous ne pouvez pas publier vos scores en mode hors-ligne",
+
+	"page": "Page",
+	"cancel": "Annuler",
+	"loading": "Chargement",
+	"resume": "Reprendre",
+	"restart": "Recommencer",
+	"refresh": "Rafraîchir",
+	"retry": "Réessayer",
+	"play": "Jouer",
+	"search": "Chercher",
+	"scroll": "Dérouler",
+	"rotate": "Tourner",
+	"scale": "Échelle",
+	"boost": "Boost",
+	"recording": "Enregistrement",
+
+	"show_top_players": "Afficher les meilleurs joueur",
+	"player_rank_text": ["Vous êtes #", " sur ", " joueurs!"],
+	"lb_disabled_offline": "les classements sont désactivés dans le mode HORS-LIGNE",
+	"no_record": "Vous n'avez pas de record",
+
+	"best": "Meilleur",
+	"best_player": "Meilleur Joueur",
+	"next level": "Niveau Suivant",
+	"rated": "Noté",
+	"already_rated_level": ["Vous avez donné à ce niveau la note ", "!  Changer pour "],
+	"finish_first": "Finissez ce niveau une fois pour lui attribuer une note!",
+	"watch_last_run": "Regarder ma dernière course",
+	"race_against_ghost": "Faire la course contre un fantôme",
+	"mastered_the_level": "Maîtrisé",
+	"mastery_ghost_is_beaten": "le Fantôme Maître est battu!",
+
+	"all_levels": "Tous les niveaux",
+	"everyone": "Tout le monde",
+	"sort_property": "Propriété de Classement",
+	"most_played": "Les plus joués",
+	"most_recent": "Les plus récents",
+	"most_voted": "Les mieux notés",
+	"default": "Défaut",
+	"hide_finished": "Cacher les niveaux complétés",
+	"show_finished": "Afficher les niveaux complétés",
+
+	"order": "Ordre",
+	"ascending": "Ascendant",
+	"descending": "Descendant",
+
+	"gr_info": "Mise à jour des classements ",
+	"hourly": "toutes les heures",
+	"daily": "quotidien",
+	"monthly": "mensuel",
+	"every": "tous les",
+	"hours": "heures",
+	"days": "jours",
+	"months": "mois",
+
+	"capped": "limité",
+	"non_capped": "illimité",
+
+	"expired_session": {
+		"connection_lost": "La connexion à été perdue",
+		"new_patch": "Un nouveau correctif a sûrement été publié",
+		"restart": "Veuillez Redémarrer le Jeu"
+	},
+
+	"editor": {
+		"tiles": "tuiles",
+		"curr_size": "Taille Actuelle",
+		
+		"helper_ghost_will_draw": "Dessinez un rectangle qui va activer le replay FANTÔME que vous venez d'enregistrer",
+		"helper_ghost_record": "Appuyez sur U pendant l'essai du niveau pour enregistrer un replay FANTÔME",
+		"helper_ghost_stop_record": "Appuyez sur U pour arrêter l'enregistrement et sauvegarder le replay du FANTÔME",
+
+		"binds": {
+			"rotate_object": "tourner",
+			"play": "Jouer",
+			"obj_portal": "Portail",
+			"obj_hook_band": "Ruban de Grappin",
+			"obj_colorize": "Colorier le niveau",
+			"record_ghost": "Enregistrer le fantôme",
+
+			"select_playground_tile_layer": "Zone de jeu",
+			"select_static_bg_tile_layer": "Arrière plan statique",
+			"select_parallax_bg1_tile_layer": "Arrière plan défilant #1",
+			"select_parallax_bg2_tile_layer": "Arrière plan défilant #2",
+			"select_playground_deco_tile_layer": "Calque d'avant plan"
+		}
+	},
+	"crédits cachés": "Lucas Parsy, dédicace à Pipo"
+
+}
