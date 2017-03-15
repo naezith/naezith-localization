@@ -2,8 +2,8 @@
 	"lang_name_short": "EN",
 	"lang_name_english": "English",
 	"lang_name_localized": "English",
-	
-	"language" : "Language",
+
+	"language": "Language",
 
 	"paused": "Paused",
 	"main_menu": "Main Menu",
@@ -53,6 +53,8 @@
 	"middle": "Middle",
 	"personal_best": "Personal Best",
 	"shadow": "Shadow",
+	"done": "Done",
+	"failed": "Failed",
 
 	"only_in_replays": "Only in Replays",
 	"only_in_speedrun": "Only in Speedrun",
@@ -175,6 +177,7 @@
 	"offline_mode": "OFFLINE MODE",
 	"offline_mode_warning": "WARNING: Can't submit scores in the offline mode!",
 
+	"new": "New",
 	"page": "Page",
 	"cancel": "Cancel",
 	"loading": "Loading",
@@ -189,6 +192,12 @@
 	"scale": "Scale",
 	"boost": "Boost",
 	"recording": "Recording",
+	"upload": "Upload",
+	"save": "Save",
+	"load": "Load",
+	"resize": "Resize",
+	"create": "Create",
+	"delete": "Delete",
 
 	"show_top_players": "Show top players",
 	"player_rank_text": ["You're #", " in ", " players!"],
@@ -238,13 +247,89 @@
 		"restart": "Please Restart the Game"
 	},
 
+	"width": "Width",
+	"height": "Height",
+	"front": "Front",
+	"behind": "Behind",
+	"first": "First",
+	"second": "Second",
+	"both": "Both",
+	"properties": "Properties",
+	"accel": "Acceleration",
+	"speed": "Speed",
+	"rotation": "Rotation",
+	"working": "Working",
+	"movement": "Movement",
+	"radius": "Radius",
+	"in": "In",
+	"out": "Out",
+	"add": "Add",
+	"set": "Set",
+	"type": "Type",
+	"gravity": "Gravity",
+	"rectangle": "Rectangle",
+	"circle": "Circle",
+	"direction": "Direction",
+	"size": "Size",
+	"range": "Range",
+	"offset": "Offset",
+
 	"editor": {
-		"tiles": "tiles",
+		"hide_layers": "Hide Layers",
+		"show_layers": "Show Layers",
+
+		"stick": "Stick",
+
+		"homing": "Homing",
+		"straight": "Straight",
+		"rotating": "Rotating",
+		"toggling": "Toggling",
+		"tracking": "Tracking",
+
+		"active_time": "Active Time",
+		"passive_time": "Passive Time",
+		"max_length": "Max Length",
+		"iter_count": "Iteration Count",
+		"start_delay": "Start Delay",
+		"phase_offset": "Phase Offset",
+		"height_diff": "Height Difference",
+		"linear": "Linear",
+		"ease": "Ease",
+
+		"tiles": "Tiles",
+		"objects": "Objects",
 		"curr_size": "Current Size",
-		
+
+		"snap": "Snap",
+
 		"helper_ghost_will_draw": "Draw a rectangle which will trigger the GHOST replay you just recorded",
 		"helper_ghost_record": "Press U during Play-test to record a GHOST replay",
 		"helper_ghost_stop_record": "Press U to stop recording and save the GHOST replay",
+
+		"tile_names": {
+			"earth": "Earth",
+			"no_grap": "No Grappling",
+			"spike": "Spike",
+			"limited_grap": "Limited Grappling",
+			"surface": "Surface",
+			"no_walljump": "No Walljump",
+			"hookable": "Hookable",
+			"decoration": "Decoration",
+			"props": "Props"
+		},
+
+		"object_names": {
+			"blade": "Blade",
+			"turret": "Turret",
+			"killer_bomb": "Killer Bomb",
+			"walter_bomb": "Walter Bomb",
+			"laser": "Laser",
+			"accelerator": "Accelerator",
+			"water": "Water",
+			"waterfall": "Waterfall",
+			"jump_pad": "Jump Pad",
+			"end_remnant": "End Remnant"
+		},
 
 		"binds": {
 			"rotate_object": "Rotate",
@@ -259,6 +344,28 @@
 			"select_parallax_bg1_tile_layer": "Parallax Background #1",
 			"select_parallax_bg2_tile_layer": "Parallax Background #2",
 			"select_playground_deco_tile_layer": "Front Layer"
-		}
-	}
+		},
+
+		"file_name": "File Name",
+		"level_name": "Level Name",
+
+		"upload_level": "Upload Level",
+		"upload_level_warning": "Upload Level Warning",
+		"upload_level_label1": "Warning: Leaderboard will be cleaned if you update the level.",
+		"upload_level_label2": "You must finish the level once to upload.",
+
+		"clear_everything": "Clear Everything",
+		"save_level": "Save Level",
+		"load_level": "Load Level",
+		"load_level_label1": "Warning: File name is a combination of author's username and level name.",
+		"load_level_label2": ["e.g. \"username-levelname\" like \"naezith-Stalactites\" (File should be at the ", " folder)"],
+
+		"resize_level": "Resize Level",
+		"new_size": "New Size",
+		"new_level": "New Level",
+		"delete_uploaded_level": "Delete Uploaded Level"
+	},
+
+	"translation": "Translation",
+	"translated_by": " "
 }
