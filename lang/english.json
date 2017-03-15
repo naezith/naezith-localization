@@ -173,7 +173,7 @@
 	},
 
 	"offline_mode": "OFFLINE MODE",
-	"offline_mode_warning": "WARNING: New scores won't be sent!",
+	"offline_mode_warning": "WARNING: Can't submit scores in the offline mode!",
 
 	"page": "Page",
 	"cancel": "Cancel",
@@ -192,7 +192,7 @@
 
 	"show_top_players": "Show top players",
 	"player_rank_text": ["You're #", " in ", " players!"],
-	"lb_disabled_offline": "Leaderboards are disabled in OFFLINE MODE",
+	"lb_disabled_offline": "Leaderboards are disabled in the OFFLINE MODE",
 	"no_record": "You have no record",
 
 	"best": "Best",
