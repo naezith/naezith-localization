@@ -105,10 +105,6 @@
 	"author": "Author",
 
 	"menu": {
-		"paused": {
-			"resume": "Resume"
-		},
-
 		"settings": {
 			"gameplay": {
 				"title": "Gameplay",
@@ -182,6 +178,7 @@
 	"page": "Page",
 	"cancel": "Cancel",
 	"loading": "Loading",
+	"resume": "Resume",
 	"restart": "Restart",
 	"refresh": "Refresh",
 	"retry": "Retry",
