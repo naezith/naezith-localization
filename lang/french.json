@@ -2,8 +2,8 @@
 	"lang_name_short": "FR",
 	"lang_name_english": "French",
 	"lang_name_localized": "Français",
-	
-	"language" : "Langue",
+
+	"language": "Langue",
 
 	"paused": "Pause",
 	"main_menu": "Menu Principal",
@@ -53,6 +53,8 @@
 	"middle": "Milieu",
 	"personal_best": "Mon Meilleur Temps",
 	"shadow": "Ombre",
+	"done": "Done",
+	"failed": "Failed",
 
 	"only_in_replays": "Seulement dans les Replays",
 	"only_in_speedrun": "Seulement en Speedrun",
@@ -175,6 +177,7 @@
 	"offline_mode": "MODE HORS-LIGNE",
 	"offline_mode_warning": "ATTENTION: vous ne pouvez pas publier vos scores en mode hors-ligne",
 
+	"new": "New",
 	"page": "Page",
 	"cancel": "Annuler",
 	"loading": "Chargement",
@@ -189,6 +192,12 @@
 	"scale": "Échelle",
 	"boost": "Boost",
 	"recording": "Enregistrement",
+	"upload": "Upload",
+	"save": "Save",
+	"load": "Load",
+	"resize": "Resize",
+	"create": "Create",
+	"delete": "Delete",
 
 	"show_top_players": "Afficher les meilleurs joueur",
 	"player_rank_text": ["Vous êtes #", " sur ", " joueurs!"],
@@ -238,13 +247,89 @@
 		"restart": "Veuillez Redémarrer le Jeu"
 	},
 
+	"width": "Width",
+	"height": "Height",
+	"front": "Front",
+	"behind": "Behind",
+	"first": "First",
+	"second": "Second",
+	"both": "Both",
+	"properties": "Properties",
+	"accel": "Acceleration",
+	"speed": "Speed",
+	"rotation": "Rotation",
+	"working": "Working",
+	"movement": "Movement",
+	"radius": "Radius",
+	"in": "In",
+	"out": "Out",
+	"add": "Add",
+	"set": "Set",
+	"type": "Type",
+	"gravity": "Gravity",
+	"rectangle": "Rectangle",
+	"circle": "Circle",
+	"direction": "Direction",
+	"size": "Size",
+	"range": "Range",
+	"offset": "Offset",
+
 	"editor": {
-		"tiles": "tuiles",
+		"hide_layers": "Hide Layers",
+		"show_layers": "Show Layers",
+
+		"stick": "Stick",
+
+		"homing": "Homing",
+		"straight": "Straight",
+		"rotating": "Rotating",
+		"toggling": "Toggling",
+		"tracking": "Tracking",
+
+		"active_time": "Active Time",
+		"passive_time": "Passive Time",
+		"max_length": "Max Length",
+		"iter_count": "Iteration Count",
+		"start_delay": "Start Delay",
+		"phase_offset": "Phase Offset",
+		"height_diff": "Height Difference",
+		"linear": "Linear",
+		"ease": "Ease",
+
+		"tiles": "Tuiles",
+		"objects": "Objects",
 		"curr_size": "Taille Actuelle",
-		
+
+		"snap": "Snap",
+
 		"helper_ghost_will_draw": "Dessinez un rectangle qui va activer le replay FANTÔME que vous venez d'enregistrer",
 		"helper_ghost_record": "Appuyez sur U pendant l'essai du niveau pour enregistrer un replay FANTÔME",
 		"helper_ghost_stop_record": "Appuyez sur U pour arrêter l'enregistrement et sauvegarder le replay du FANTÔME",
+
+		"tile_names": {
+			"earth": "Earth",
+			"no_grap": "No Grappling",
+			"spike": "Spike",
+			"limited_grap": "Limited Grappling",
+			"surface": "Surface",
+			"no_walljump": "No Walljump",
+			"hookable": "Hookable",
+			"decoration": "Decoration",
+			"props": "Props"
+		},
+
+		"object_names": {
+			"blade": "Blade",
+			"turret": "Turret",
+			"killer_bomb": "Killer Bomb",
+			"walter_bomb": "Walter Bomb",
+			"laser": "Laser",
+			"accelerator": "Accelerator",
+			"water": "Water",
+			"waterfall": "Waterfall",
+			"jump_pad": "Jump Pad",
+			"end_remnant": "End Remnant"
+		},
 
 		"binds": {
 			"rotate_object": "tourner",
@@ -259,8 +344,28 @@
 			"select_parallax_bg1_tile_layer": "Arrière plan défilant #1",
 			"select_parallax_bg2_tile_layer": "Arrière plan défilant #2",
 			"select_playground_deco_tile_layer": "Calque d'avant plan"
-		}
-	},
-	"crédits cachés": "Lucas Parsy, dédicace à Pipo"
+		},
 
+		"file_name": "File Name",
+		"level_name": "Level Name",
+
+		"upload_level": "Upload Level",
+		"upload_level_warning": "Upload Level Warning",
+		"upload_level_label1": "Warning: Leaderboard will be cleaned if you update the level.",
+		"upload_level_label2": "You must finish the level once to upload.",
+
+		"clear_everything": "Clear Everything",
+		"save_level": "Save Level",
+		"load_level": "Load Level",
+		"load_level_label1": "Warning: File name is a combination of author's username and level name.",
+		"load_level_label2": ["e.g. \"username-levelname\" like \"naezith-Stalactites\" (File should be at the ", " folder)"],
+
+		"resize_level": "Resize Level",
+		"new_size": "New Size",
+		"new_level": "New Level",
+		"delete_uploaded_level": "Delete Uploaded Level"
+	},
+
+	"translation": "Translation",
+	"translated_by": "Lucas Parsy, dédicace à Pipo"
 }
