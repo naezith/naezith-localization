@@ -119,13 +119,13 @@
 		"settings": {
 			"gameplay": {
 				"title": "Jeu",
-				"camera_ignores_borders": "la Caméra Ignore les Bords",
-				"input_indicator": "la Caméra Ignore les Bords",
-				"allow_checkpoints": "la Caméra Ignore les Bords",
-				"speedometer": "la Caméra Ignore les Bords",
+				"camera_ignores_borders": "La Caméra Ignore les Bords",
+				"input_indicator": "Indicateur de Touches",
+				"allow_checkpoints": "Checkpoints",
+				"speedometer": "Compteur de Vitesse",
 				"energy_as_number": "Énergie en tant que Nombre",
 				"ghost_replay": "Replay Fantôme",
-				"ghost_visibility": "la Caméra Ignore les Bords",
+				"ghost_visibility": "Visibilité du Fantôme",
 				"hook_indicator": "Indicateur de Chemin du Grappin",
 				"dash_bar": "Barre de rechargement du Dash",
 				"minimap": "Mini-map"
