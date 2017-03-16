@@ -31,12 +31,12 @@
 	},
 	
 	"tips" : [
-		"Landing a hook grants you a double jump.",
-		"Jump during the dash to jump higher.",
-		"The longer your hook beam is, the more speed you'll gain when you swing.",
-		"Release the hook when you are at bottom of the swing to have more horizontal speed.",
-		"Dash during swing is most effective when you are at bottom of the swing, to gain speed and height.",
-		"Use your double jump late as possible, you might need it any time."
+		"Attacher le Grappin vous redonne un Double Saut.",
+		"Sautez pendant un Dash pour gagner plus de hauteur.",
+		"Plus le rayon du Grappin est long, plus vous gagnerez de vitesse.",
+		"Lâchez le Grappin en bas du balancement pour obtenir le plus de vitesse horizontale.",
+		"Le Dash donne le plus de vitesse et de hauteur quand il est utilisé en bas du balancement.",
+		"Utilisez votre Double Saut aussi tard que possible, vous pouvez en avoir besoin a n'importe quel moment."
 	],
 
 	"global_ranks": {
