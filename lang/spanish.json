@@ -1,0 +1,382 @@
+{
+	"lang_name_short": "EN",
+	"lang_name_english": "English",
+	"lang_name_localized": "English",
+
+	"language": "Language",
+
+	"paused": "Paused",
+	"main_menu": "Main Menu",
+	"purge_the_remnants": "Purge the Remnants",
+	"practice_lair": "Practice Lair",
+	"speedrun": "Speedrun",
+	"custom_levels": "Custom Levels",
+	"global_rankings": "Global Rankings",
+	"settings": "Settings",
+	"credits": "Credits",
+	"level_editor": "Level Editor",
+	"quit": "Quit",
+
+	"level_selection": "Level Selection",
+	"speedrun_selection": "Speedrun Selection",
+	"speedrun_lb": "Speedrun Leaderboard",
+
+	"tutorial": "Tutorial",
+	"tutorial_texts": {
+		"hold_hook_to_swing": "Hold HOOK to SWING",
+		"hold_hook_and_jump_to_pull": "Hold HOOK + JUMP to PULL",
+		"dash_jump": "DASH + JUMP to DASH-JUMP",
+		"dash_to_surf": "DASH to SURF",
+		"jump_during_surf": "JUMP during the SURF"
+	},
+	
+	"tips" : [
+		"Landing a hook grants you a double jump.",
+		"Jump during the dash to jump higher.",
+		"The longer your hook beam is, the more speed you'll gain when you swing.",
+		"Release the hook when you are at bottom of the swing to have more horizontal speed.",
+		"Dash during swing is most effective when you are at bottom of the swing, to gain speed and height.",
+		"Use your double jump late as possible, you might need it any time."
+	],
+
+	"global_ranks": {
+		"descendant": "Descendant of Naezith",
+		"inhuman": "Inhuman",
+		"grandmaster": "Grandmaster",
+		"master": "Master",
+		"expert": "Expert",
+		"veteran": "Veteran",
+		"adept": "Adept",
+		"apprentice": "Apprentice",
+		"novice": "Novice"
+	},
+
+	"yes": "Yes",
+	"no": "No",
+	"enabled": "Enabled",
+	"disabled": "Disabled",
+	"on": "On",
+	"off": "Off",
+	"all": "All",
+	"bottom": "Bottom",
+	"middle": "Middle",
+	"personal_best": "Personal Best",
+	"shadow": "Shadow",
+	"done": "Done",
+	"failed": "Failed",
+
+	"only_in_replays": "Only in Replays",
+	"only_in_speedrun": "Only in Speedrun",
+	"better_than_me": "A player better than me",
+	"line": "Line",
+	"lightning": "Lightning",
+	"line_and_lightning": "Line & Lightning",
+
+	"action": {
+		"LEFT": "Left",
+		"RIGHT": "Right",
+		"JUMP": "Jump",
+		"HOOK": "Hook",
+		"DASH": "Dash",
+		"RESET": "Reset",
+		"APPLY": "Apply",
+		"PAUSE": "Pause",
+		"BACK": "Back",
+		"MENU UP": "Menu Up",
+		"MENU DOWN": "Menu Down",
+		"MENU LEFT": "Menu Left",
+		"MENU RIGHT": "Menu Right",
+		"LEADERBOARD": "Leaderboard",
+		"LEVEL SEARCH": "Level Search",
+		"SKIP TRACK": "Skip Track",
+
+		"WATCH": "Watch",
+		"APPLY CHANGES": "Apply Changes",
+		"CHANGE SPEED": "Change Speed",
+		"RESTART REPLAY": "Restart Replay"
+	},
+
+	"promoted": "Promoted",
+	"demoted": "Demoted",
+
+	"inspect": "Inspect",
+	"inspecting": "Inspecting",
+	"complete_the_chapter": "Complete the chapter",
+	"complete_a_chapter": "Complete a chapter",
+
+	"purged": "Purged",
+	"name": "Name",
+	"rating": "Rating",
+	"rank": "Rank",
+	"time": "Time",
+	"your_time": "Your Time",
+	"mastery_time": "Mastery Time",
+	"total_time": "Total Time",
+	"dominance": "Dominance",
+	"locked": "Locked",
+	"author": "Author",
+
+	"menu": {
+		"settings": {
+			"gameplay": {
+				"title": "Gameplay",
+				"camera_ignores_borders": "Camera Ignores Borders",
+				"input_indicator": "Input Indicator",
+				"allow_checkpoints": "Allow Checkpoints",
+				"speedometer": "Speedometer",
+				"energy_as_number": "Energy as Number",
+				"ghost_replay": "Ghost Replay",
+				"ghost_visibility": "Ghost Visibility",
+				"hook_indicator": "Hook Path Indicator",
+				"dash_bar": "Dash Bar",
+				"minimap": "Mini-map"
+			},
+
+			"customization": {
+				"title": "Customization",
+				"beam_style": "Hook Beam Style",
+				"main_color": "Main Color",
+				"secondary_color": "Secondary Color"
+			},
+
+			"sound": {
+				"title": "Sound",
+				"master_volume": "Master Volume",
+				"sfx_volume": "Sound Effects Volume",
+				"music_volume": "Music Volume"
+			},
+
+			"graphics": {
+				"title": "Graphics",
+				"display_mode": "Display Mode",
+				"fullscreen_resolution": "Fullscreen Resolution",
+				"windowed_mode_resolution": "Windowed Resolution",
+				"vertical_sync": "Vertical Sync",
+				"view_height": "View Height",
+				"fps_cap": "FPS Cap",
+				"show_fps": "Show FPS",
+				"bloom": "Bloom",
+				"background_blur": "Background Blur",
+				"ambient_coloring": "Ambient Coloring",
+				"vignette_rgb_split": "Vignette & RGB Split",
+				"render_deco_layers": "Render Decoration Layers",
+				"render_bg_layers": "Render Background Layers",
+				"render_parallax_layers": "Render Parallax Layers",
+				"texture_smoothing_filter": "Texture Smoothing Filter",
+
+				"windowed": "Windowed",
+				"borderless": "Borderless",
+				"fullscreen": "Fullscreen"
+			},
+
+			"controls": {
+				"title": "Controls",
+				"gamepad_layout": "Gamepad Layout",
+				"disable_gamepad": "Disable Gamepad",
+
+				"xbox": "Xbox",
+				"dualshock": "Dualshock"
+			},
+
+			"search_settings": {
+				"title": "Search Settings"
+			}
+		}
+	},
+
+	"offline_mode": "OFFLINE MODE",
+	"offline_mode_warning": "WARNING: Can't submit scores in the offline mode!",
+
+	"new": "New",
+	"page": "Page",
+	"cancel": "Cancel",
+	"loading": "Loading",
+	"resume": "Resume",
+	"restart": "Restart",
+	"refresh": "Refresh",
+	"retry": "Retry",
+	"play": "Play",
+	"search": "Search",
+	"scroll": "Scroll",
+	"rotate": "Rotate",
+	"scale": "Scale",
+	"boost": "Boost",
+	"recording": "Recording",
+	"upload": "Upload",
+	"save": "Save",
+	"load": "Load",
+	"resize": "Resize",
+	"create": "Create",
+	"delete": "Delete",
+
+	"show_top_players": "Show top players",
+	"player_rank_text": ["You're #", " in ", " players!"],
+	"lb_disabled_offline": "Leaderboards are disabled in the OFFLINE MODE",
+	"no_record": "You have no record",
+
+	"best": "Best",
+	"best_player": "Best Player",
+	"next_level": "Next Level",
+	"rate_this_level": "Rete this level",
+	"rated": "Rated",
+	"already_rated_level": ["You rated this level ", "!  Change to "],
+	"finish_first": "Finish the level once to vote it!",
+	"watch_last_run": "Watch my last run",
+	"race_against_ghost": "Race against a ghost",
+	"mastered_the_level": "Mastered",
+	"mastery_ghost_is_beaten": "Mastery Ghost is beaten!",
+
+	"all_levels": "All Levels",
+	"everyone": "Everyone",
+	"sort_property": "Sort Property",
+	"most_played": "Most played",
+	"most_recent": "Most recent",
+	"most_voted": "Most voted",
+	"default": "Default",
+	"hide_finished": "Hide Finished",
+	"show_finished": "Show Finished",
+
+	"order": "Order",
+	"ascending": "Ascending",
+	"descending": "Descending",
+
+	"gr_info": "Ranks refresh ",
+	"hourly": "hourly",
+	"daily": "daily",
+	"monthly": "monthly",
+	"every": "every",
+	"hours": "hours",
+	"days": "days",
+	"months": "months",
+
+	"capped": "capped",
+	"non_capped": "non-capped",
+
+	"expired_session": {
+		"connection_lost": "Connection Lost",
+		"new_patch": "Probably a new patch is released",
+		"restart": "Please Restart the Game"
+	},
+
+	"width": "Width",
+	"height": "Height",
+	"front": "Front",
+	"behind": "Behind",
+	"first": "First",
+	"second": "Second",
+	"both": "Both",
+	"properties": "Properties",
+	"accel": "Acceleration",
+	"speed": "Speed",
+	"rotation": "Rotation",
+	"working": "Working",
+	"movement": "Movement",
+	"radius": "Radius",
+	"in": "In",
+	"out": "Out",
+	"add": "Add",
+	"set": "Set",
+	"type": "Type",
+	"gravity": "Gravity",
+	"rectangle": "Rectangle",
+	"circle": "Circle",
+	"direction": "Direction",
+	"size": "Size",
+	"range": "Range",
+	"offset": "Offset",
+
+	"editor": {
+		"hide_layers": "Hide Layers",
+		"show_layers": "Show Layers",
+
+		"stick": "Stick",
+
+		"homing": "Homing",
+		"straight": "Straight",
+		"rotating": "Rotating",
+		"toggling": "Toggling",
+		"tracking": "Tracking",
+
+		"active_time": "Active Time",
+		"passive_time": "Passive Time",
+		"max_length": "Max Length",
+		"iter_count": "Iteration Count",
+		"start_delay": "Start Delay",
+		"phase_offset": "Phase Offset",
+		"height_diff": "Height Difference",
+		"linear": "Linear",
+		"ease": "Ease",
+
+		"tiles": "Tiles",
+		"objects": "Objects",
+		"curr_size": "Current Size",
+
+		"snap": "Snap",
+
+		"helper_ghost_will_draw": "Draw a rectangle which will trigger the GHOST replay you just recorded",
+		"helper_ghost_record": "Press U during Play-test to record a GHOST replay",
+		"helper_ghost_stop_record": "Press U to stop recording and save the GHOST replay",
+
+		"tile_names": {
+			"earth": "Earth",
+			"no_grap": "No Grappling",
+			"spike": "Spike",
+			"limited_grap": "Limited Grappling",
+			"surface": "Surface",
+			"no_walljump": "No Walljump",
+			"hookable": "Hookable",
+			"decoration": "Decoration",
+			"props": "Props"
+		},
+
+		"object_names": {
+			"blade": "Blade",
+			"turret": "Turret",
+			"killer_bomb": "Killer Bomb",
+			"walter_bomb": "Walter Bomb",
+			"laser": "Laser",
+			"accelerator": "Accelerator",
+			"water": "Water",
+			"waterfall": "Waterfall",
+			"jump_pad": "Jump Pad",
+			"end_remnant": "End Remnant"
+		},
+
+		"binds": {
+			"rotate_object": "Rotate",
+			"play": "Play",
+			"obj_portal": "Portal",
+			"obj_hook_band": "Hook Band",
+			"obj_colorize": "Colorize Level",
+			"record_ghost": "Record Ghost",
+
+			"select_playground_tile_layer": "Playground",
+			"select_static_bg_tile_layer": "Static Background",
+			"select_parallax_bg1_tile_layer": "Parallax Background #1",
+			"select_parallax_bg2_tile_layer": "Parallax Background #2",
+			"select_playground_deco_tile_layer": "Front Layer"
+		},
+
+		"file_name": "File Name",
+		"level_name": "Level Name",
+
+		"upload_level": "Upload Level",
+		"upload_level_warning": "Upload Level Warning",
+		"upload_level_label1": "Warning: Leaderboard will be cleaned if you update the level.",
+		"upload_level_label2": "You must finish the level once to upload.",
+
+		"clear_everything": "Clear Everything",
+		"save_level": "Save Level",
+		"load_level": "Load Level",
+		"load_level_label1": "Warning: File name is a combination of author's username and level name.",
+		"load_level_label2": ["e.g. \"username-levelname\" like \"naezith-Stalactites\" (File should be at the ", " folder)"],
+
+		"resize_level": "Resize Level",
+		"new_size": "New Size",
+		"new_level": "New Level",
+		"delete_uploaded_level": "Delete Uploaded Level"
+	},
+
+	"translation": "Translation",
+	"translated_by": " "
+}
