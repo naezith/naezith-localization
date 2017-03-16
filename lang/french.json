@@ -29,6 +29,15 @@
 		"dash_to_surf": "DASHEZ pour SURFER",
 		"jump_during_surf": "SAUTEZ pendant le SURF"
 	},
+	
+	"tips" : [
+		"Landing a hook grants you a double jump.",
+		"Jump during the dash to jump higher.",
+		"The longer your hook beam is, the more speed you'll gain when you swing.",
+		"Release the hook when you are at bottom of the swing to have more horizontal speed.",
+		"Dash during swing is most effective when you are at bottom of the swing, to gain speed and height.",
+		"Use your double jump late as possible, you might need it any time."
+	],
 
 	"global_ranks": {
 		"descendant": "Descendant de Naezith",
