@@ -217,6 +217,7 @@
 	"best": "Meilleur",
 	"best_player": "Meilleur Joueur",
 	"next_level": "Niveau Suivant",
+	"rate_this_level": "Rete this level",
 	"rated": "Noté",
 	"already_rated_level": ["Vous avez donné à ce niveau la note ", "!  Changer pour "],
 	"finish_first": "Finissez ce niveau une fois pour lui attribuer une note!",
