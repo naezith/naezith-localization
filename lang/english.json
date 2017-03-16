@@ -108,6 +108,7 @@
 	"name": "Name",
 	"rating": "Rating",
 	"rank": "Rank",
+	"time": "Time",
 	"your_time": "Your Time",
 	"mastery_time": "Mastery Time",
 	"total_time": "Total Time",
