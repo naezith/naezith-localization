@@ -111,12 +111,12 @@
 			"gameplay": {
 				"title": "Gameplay",
 				"camera_ignores_borders": "Camera Ignores Borders",
-				"input_indicator": "Camera Ignores Borders",
-				"allow_checkpoints": "Camera Ignores Borders",
-				"speedometer": "Camera Ignores Borders",
+				"input_indicator": "Input Indicator",
+				"allow_checkpoints": "Allow Checkpoints",
+				"speedometer": "Speedometer",
 				"energy_as_number": "Energy as Number",
 				"ghost_replay": "Ghost Replay",
-				"ghost_visibility": "Camera Ignores Borders",
+				"ghost_visibility": "Ghost Visibility",
 				"hook_indicator": "Hook Path Indicator",
 				"dash_bar": "Dash Bar",
 				"minimap": "Mini-map"
