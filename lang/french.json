@@ -65,6 +65,8 @@
 	"done": "Fait",
 	"failed": "Échoué",
 
+	"secret_unlocked" : "Unlocked a secret",
+	"secret_level_unlocked" : "Unlocked a Secret Level",
 	"only_in_replays": "Seulement dans les Replays",
 	"only_in_speedrun": "Seulement en Speedrun",
 	"better_than_me": "Un joueur meilleur que moi",
