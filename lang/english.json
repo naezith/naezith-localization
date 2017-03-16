@@ -215,7 +215,7 @@
 
 	"best": "Best",
 	"best_player": "Best Player",
-	"next level": "Next Level",
+	"next_level": "Next Level",
 	"rated": "Rated",
 	"already_rated_level": ["You rated this level ", "!  Change to "],
 	"finish_first": "Finish the level once to vote it!",
