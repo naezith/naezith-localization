@@ -27,7 +27,8 @@
 		"hold_hook_and_jump_to_pull": "Hold HOOK + JUMP to PULL",
 		"dash_jump": "DASH + JUMP to DASH-JUMP",
 		"dash_to_surf": "DASH to SURF",
-		"jump_during_surf": "JUMP during the SURF"
+		"jump_during_surf": "JUMP during the SURF",
+		"dash_during_swing" : "DASH during the SWING to gain speed and height"
 	},
 	
 	"pop_up_texts" : [
