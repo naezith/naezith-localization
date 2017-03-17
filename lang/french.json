@@ -30,6 +30,11 @@
 		"jump_during_surf": "SAUTEZ pendant le SURF"
 	},
 	
+	"pop_up_texts" : [
+		"Ready", "Go", "Relapse", "Reset",
+		"Done", "Failed", "Name"
+	],
+	
 	"tips" : [
 		"Attacher le Grappin vous redonne un Double Saut.",
 		"Sautez pendant un Dash pour gagner plus de hauteur.",

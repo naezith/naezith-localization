@@ -30,6 +30,11 @@
 		"jump_during_surf": "JUMP during the SURF"
 	},
 	
+	"pop_up_texts" : [
+		"Ready", "Go", "Relapse", "Reset",
+		"Done", "Failed", "Name"
+	],
+	
 	"tips" : [
 		"Landing a hook grants you a double jump.",
 		"Jump during the dash to jump higher.",

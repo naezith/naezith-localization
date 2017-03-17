@@ -30,13 +30,18 @@
 		"jump_during_surf": "JUMP during the SURF"
 	},
 	
+	"pop_up_texts" : [
+		"Ready", "Go", "Relapse", "Reset",
+		"Done", "Failed", "Name"
+	],
+	
 	"tips" : [
 		"Landing a hook grants you a double jump.",
 		"Jump during the dash to jump higher.",
 		"The longer your hook beam is, the more speed you'll gain when you swing.",
 		"Release the hook when you are at bottom of the swing to have more horizontal speed.",
 		"Dash during swing is most effective when you are at bottom of the swing, to gain speed and height.",
-		"Use your double jump late as possible, you might need it any time."
+		"Use your double jump as late as possible, you might need it any time."
 	],
 
 	"global_ranks": {
@@ -222,7 +227,7 @@
 	"best": "Best",
 	"best_player": "Best Player",
 	"next_level": "Next Level",
-	"rate_this_level": "Rete this level",
+	"rate_this_level": "Rate this level",
 	"rated": "Rated",
 	"already_rated_level": ["You rated this level ", "!  Change to "],
 	"finish_first": "Finish the level once to vote it!",
