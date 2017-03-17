@@ -216,7 +216,7 @@
 
 	"show_top_players": "Afficher les meilleurs joueur",
 	"player_rank_text": ["Vous êtes #", " sur ", " joueurs!"],
-	"lb_disabled_offline": "les classements sont désactivés dans le mode HORS-LIGNE",
+	"lb_disabled_offline": "les classements sont désactivés en mode HORS-LIGNE",
 	"no_record": "Vous n'avez pas de record",
 
 	"best": "Meilleur",
