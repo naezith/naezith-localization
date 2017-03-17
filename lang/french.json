@@ -28,7 +28,7 @@
 		"dash_jump": "DASH + SAUT pour faire un SAUT DASHÉ",
 		"dash_to_surf": "DASHEZ pour SURFER",
 		"jump_during_surf": "SAUTEZ pendant le SURF",
-		"dash_during_swing" : "DASH during the SWING to gain speed and height"
+		"dash_during_swing" : "DASHEZ pendant le SWING pour gagner de la vitesse et de la hauteur"
 	},
 	
 	"pop_up_texts" : [
