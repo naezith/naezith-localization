@@ -32,8 +32,8 @@
 	},
 	
 	"pop_up_texts" : [
-		"Ready", "Go", "Relapse", "Reset",
-		"Done", "Failed", "Name"
+		"Prêt", "Partez", "Relapse", "Recommencer",
+		"Fait", "Échoué", "Nom"
 	],
 	
 	"tips" : [
