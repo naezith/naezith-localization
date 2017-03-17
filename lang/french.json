@@ -144,7 +144,7 @@
 			"sound": {
 				"title": "Son",
 				"master_volume": "Volume Principal",
-				"sfx_volume": "Volume Effets sonores",
+				"sfx_volume": "Volume Effets Sonores",
 				"music_volume": "Volume Musique"
 			},
 
