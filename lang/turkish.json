@@ -1,0 +1,392 @@
+{
+	"lang_name_short": "TR",
+	"lang_name_english": "Turkish",
+	"lang_name_localized": "Türkçe",
+
+	"language": "Dil",
+
+	"paused": "Duraklatıldı",
+	"main_menu": "Ana Menü",
+	"purge_the_remnants": "Purge the Remnants",
+	"practice_lair": "Practice Lair",
+	"speedrun": "Hızlı Koşu",
+	"custom_levels": "Özel Bölümler",
+	"global_rankings": "Genel Sıralamalar",
+	"settings": "Ayarlar",
+	"credits": "Emeği Geçenler",
+	"level_editor": "Bölüm Düzenleyicisi",
+	"quit": "Çıkış",
+
+	"level_selection": "Bölüm Seçimi",
+	"speedrun_selection": "Hızlı Koşu Seçimi",
+	"speedrun_lb": "Hızlı Koşu Liderlik Tablosu",
+
+	"tutorial": "Eğitsel",
+	"tutorial_texts": {
+		"hold_hook_to_swing": "SALLANMAK için KANCA'ya basılı tutun",
+		"hold_hook_and_jump_to_pull": "ÇEKİŞ için KANCA + ZIPLA'ya basılı tutun",
+		"dash_jump": "Hızla koşup zıplamak için DEPAR + ZIPLA",
+		"dash_to_surf": "SÖRF için DEPAR",
+		"jump_during_surf": "SÖRF yaparken ZIPLA"
+	},
+	
+	"pop_up_texts" : [
+		"Hazır", "Başla", "Tekrarla", "Sıfırla",
+		"Tamamlandı", "Başarısız", "İsim"
+	],
+	
+	"tips" : [
+		"Kanca çıkarma size çift zıplama sağlar.",
+		"Daha yükseğe zıplamak için hızlı koşarken zıplayın.",
+		"Kanca ışınınız ne kadar uzun olursa salınırken o kadar çok hız kazanırsınız.",
+		"Daha çok yatay hız elde etmek için salınımın dibindeyken kancayı bırakın.",
+		"Hız ve yükseklik kazanmak için salınımın sonundayken hızlı koşma en etkin olandır.",
+		"Çift zıplamanızı mümkün olduğunca geç kullanın, buna her an ihtiyaç duyabilirsiniz."
+	],
+
+	"global_ranks": {
+		"descendant": "Naezith Soyu",
+		"inhuman": "İnsandışı",
+		"grandmaster": "Büyük Usta",
+		"master": "Usta",
+		"expert": "Uzman",
+		"veteran": "Tecrübeli",
+		"adept": "Becerikli",
+		"apprentice": "Çırak",
+		"novice": "Acemi"
+	},
+
+	"yes": "Evet",
+	"no": "Hayır",
+	"enabled": "Etkin",
+	"disabled": "Devre Dışı",
+	"on": "Açık",
+	"off": "Kapalı",
+	"all": "Hepsi",
+	"bottom": "Alt",
+	"middle": "Orta",
+	"personal_best": "Kişisel En İyi",
+	"shadow": "Gölge",
+	"done": "Tamamlandı",
+	"failed": "Başarısız",
+
+	"secret_unlocked" : "Bir gizin kilidi açıldı",
+	"secret_level_unlocked" : "Bir Gizli Bölümün kilidi açıldı",
+	"only_in_replays": "Yalnızca Yeniden Oynatımlarda",
+	"only_in_speedrun": "Yalnızca Hızlı Koşularda",
+	"better_than_me": "Benden daha iyi bir oyuncu",
+	"line": "Line",
+	"lightning": "Lightning",
+	"line_and_lightning": "Line & Lightning",
+
+	"action": {
+		"LEFT": "Sol",
+		"RIGHT": "Sağ",
+		"JUMP": "Zıpla",
+		"HOOK": "Kanca",
+		"DASH": "Depar",
+		"RESET": "Sıfırla",
+		"APPLY": "Uygula",
+		"PAUSE": "Duraklat",
+		"BACK": "Geri",
+		"MENU UP": "Menü Yukarı",
+		"MENU DOWN": "Menü Aşağı",
+		"MENU LEFT": "Menü Sol",
+		"MENU RIGHT": "Menü Sağ",
+		"LEADERBOARD": "Liderlik Tablosu",
+		"LEVEL SEARCH": "Bölüm Arama",
+		"SKIP TRACK": "Parçayı Atla",
+
+		"WATCH": "İzle",
+		"APPLY CHANGES": "Değişiklikleri Uygula",
+		"CHANGE SPEED": "Hızı Değiştir",
+		"RESTART REPLAY": "Yeniden Oynatımı Tekrar Başlat"
+	},
+
+	"promoted": "Yükseltilmiş",
+	"demoted": "Düşürülmüş",
+
+	"inspect": "İncele",
+	"inspecting": "İnceleme",
+	"complete_the_chapter": "Bölümü tamamla",
+	"complete_a_chapter": "Bir bölümü tamamla",
+
+	"purged": "Purged",
+	"name": "İsim",
+	"rating": "Derecelendirme",
+	"rank": "Sıra",
+	"time": "Süre",
+	"your_time": "Sizin Süreniz",
+	"mastery_time": "Ustalık Süresi",
+	"total_time": "Toplam Süre",
+	"dominance": "Hakimiyet",
+	"locked": "Kilitli",
+	"author": "Yaratıcı",
+
+	"menu": {
+		"settings": {
+			"gameplay": {
+				"title": "Oynanış",
+				"camera_ignores_borders": "Kamera Sınırları Yoksayar",
+				"input_indicator": "Giriş Göstergesi",
+				"allow_checkpoints": "Çek Noktarına İzin Ver",
+				"speedometer": "Hız Göstergesi",
+				"energy_as_number": "Enejiyi Sayı Olarak Göster",
+				"ghost_replay": "Hayalet Yeniden Oynatım",
+				"ghost_visibility": "Hayalet Görünürlüğü",
+				"hook_indicator": "Kanca Yolu Göstergesi",
+				"dash_bar": "Çizgi Çubuğu",
+				"minimap": "Mini Harita"
+			},
+
+			"customization": {
+				"title": "Özelleştirme",
+				"beam_style": "Kanca Işın Stili",
+				"main_color": "Ana Renk",
+				"secondary_color": "İkincil Renk"
+			},
+
+			"sound": {
+				"title": "Ses",
+				"master_volume": "Ana Ses",
+				"sfx_volume": "Ses Efekt Seviyesi",
+				"music_volume": "Müzik Ses Seviyesi"
+			},
+
+			"graphics": {
+				"title": "Grafikler",
+				"display_mode": "Ekran Kipi",
+				"fullscreen_resolution": "Tam Ekran Çözünürlüğü",
+				"windowed_mode_resolution": "Pencere Çözünürlüğü",
+				"vertical_sync": "Dikey Senkronizasyon",
+				"view_height": "Görüş Yüksekliği",
+				"fps_cap": "FPS Cap",
+				"show_fps": "SBK (Saniye Başına Kare) göster",
+				"bloom": "Bloom",
+				"background_blur": "Arka Plan Bulanıklığı",
+				"ambient_coloring": "Çevresel Renklendirme",
+				"vignette_rgb_split": "Vinyet ve KYM (Kırmızı Yeşil Mavi) Ayrıştırma",
+				"render_deco_layers": "Dekorasyon Katmanlarını Tara",
+				"render_bg_layers": "Arka Plan Katmanlarını Tara",
+				"render_parallax_layers": "Paralaks Katmanlarını Tara",
+				"texture_smoothing_filter": "Doku Düzeltme Filtresi",
+
+				"windowed": "Pencereli",
+				"borderless": "Kenarlıksız",
+				"fullscreen": "Tam Ekran"
+			},
+
+			"controls": {
+				"title": "Kontroller",
+				"gamepad_layout": "Oyun Tablası Yerleşimi",
+				"disable_gamepad": "Oyun Tablasını Devre Dışı Bırak",
+
+				"xbox": "Xbox",
+				"dualshock": "Dualshock"
+			},
+
+			"search_settings": {
+				"title": "Arama Ayarları"
+			}
+		}
+	},
+
+	"offline_mode": "ÇEVRİMDIŞI KİP",
+	"offline_mode_warning": "UYARI: Çevrimdışı kipte skorlar gönderilemez!",
+
+	"new": "Yeni",
+	"page": "Sayfa",
+	"cancel": "İptal",
+	"loading": "Yükleniyor",
+	"initializing": "Başlatılıyor",
+	"loading_assets": "Öğeler yükleniyor",
+	"fetching_user_data": "Kullanıcı verileri çekiliyor",
+	"resume": "Devam Et",
+	"restart": "Yeniden Başlat",
+	"refresh": "Yenile",
+	"retry": "Yeniden Dene",
+	"play": "Oyna",
+	"search": "Ara",
+	"scroll": "Kaydır",
+	"rotate": "Döndür",
+	"scale": "Ölçekle",
+	"boost": "Arttır",
+	"recording": "Kayıt",
+	"upload": "Karşıya Yükle",
+	"save": "Kaydet",
+	"load": "Yükle",
+	"resize": "Boyutlandır",
+	"create": "Oluştur",
+	"delete": "Sil",
+
+	"show_top_players": "En iyi oyuncuları göster",
+	"player_rank_text": ["Siz #", " numarasınız ", " oyuncu arasında!"],
+	"lb_disabled_offline": "Liderlik Tablosu ÇEVRİMDIŞI KİP'te devre dışı",
+	"no_record": "Hiç rekorunuz yok",
+
+	"best": "En İyi",
+	"best_player": "En İyi Oyuncu",
+	"next_level": "Sonraki Bölüm",
+	"rate_this_level": "Bu bölümü değerlendir",
+	"rated": "Değerlendirildi",
+	"already_rated_level": ["Bu bölümü ", " olarak değerlendirdiniz! Şu şekilde değiştir: "],
+	"finish_first": "Bölümü değerlendirebilmek için bir kez bitirin!",
+	"watch_last_run": "Son koşuşumu izle",
+	"race_against_ghost": "Bir hayalete karşı yarış",
+	"mastered_the_level": "Üstesinden Gelindi",
+	"mastery_ghost_is_beaten": "Usta Hayalet yenildi!",
+
+	"all_levels": "Tüm Bölümler",
+	"everyone": "Herkes",
+	"sort_property": "Sort Property",
+	"most_played": "En çok oynanan",
+	"most_recent": "En son",
+	"most_voted": "En çok oylanan",
+	"default": "Öntanımlı",
+	"hide_finished": "Bitirilenleri Gizle",
+	"show_finished": "Bitirilenleri Göster",
+
+	"order": "Sıra",
+	"ascending": "Artan",
+	"descending": "Azalan",
+
+	"gr_info": "Sıralama yenilemesi ",
+	"hourly": "saatlik",
+	"daily": "günlük",
+	"monthly": "aylık",
+	"every": "her",
+	"hours": "saatte",
+	"days": "günde",
+	"months": "ayda",
+
+	"capped": "capped",
+	"non_capped": "non-capped",
+
+	"expired_session": {
+		"connection_lost": "Bağlantı Koptu",
+		"new_patch": "Muhtemelen yeni bir yama çıktı",
+		"restart": "Lütfen Oyunu Yeniden Başlatın"
+	},
+
+	"width": "Genişlik",
+	"height": "Yükseklik",
+	"front": "Ön",
+	"behind": "Arka",
+	"first": "İlk",
+	"second": "İkinci",
+	"both": "Her İkisi",
+	"properties": "Özellikler",
+	"accel": "Hızlanma",
+	"speed": "Hız",
+	"rotation": "Dönme",
+	"working": "Çalışma",
+	"movement": "Hareket",
+	"radius": "Yarıçap",
+	"in": "İçeri",
+	"out": "Dışarı",
+	"add": "Ekle",
+	"set": "Ayarla",
+	"type": "Tür",
+	"gravity": "Yerçekimi",
+	"rectangle": "Dikdörtgen",
+	"circle": "Daire",
+	"direction": "Yön",
+	"size": "Boyut",
+	"range": "Aralık",
+	"offset": "Ofset",
+
+	"editor": {
+		"hide_layers": "Katmanları Gizle",
+		"show_layers": "Katmanları Göster",
+
+		"stick": "Stick",
+
+		"homing": "Özgüdüm",
+		"straight": "Düz",
+		"rotating": "Dönen",
+		"toggling": "Toggling",
+		"tracking": "Takip",
+
+		"active_time": "Etkin Süre",
+		"passive_time": "Pasif Süre",
+		"max_length": "Maks Uzunluk",
+		"iter_count": "İterasyon Sayısı",
+		"start_delay": "Gecikmeli Başlat",
+		"phase_offset": "Faz Ofseti",
+		"height_diff": "Yükseklik Farkı",
+		"linear": "Doğrusal",
+		"ease": "Kolay",
+
+		"tiles": "Döşeme",
+		"objects": "Nesneler",
+		"curr_size": "Şimdiki Boyut",
+
+		"snap": "Snap",
+
+		"helper_ghost_will_draw": "Yeni kaydettiğiniz HAYALET yeniden oynatımını tetikleyecek bir dikdörtgen çizin",
+		"helper_ghost_record": "Oyun veya test sırasında HAYALET yeniden oynatımı kaydetmek için U'ya basın",
+		"helper_ghost_stop_record": "Kaydı durdurmak ve HAYALET yeniden oynatımlarını kaydetmek için U tuşuna basın",
+
+		"tile_names": {
+			"earth": "Toprak",
+			"no_grap": "Yakalama Yok",
+			"spike": "Sivri Uç",
+			"limited_grap": "Sınırlı Yakalama",
+			"surface": "Yüzey",
+			"no_walljump": "Duvar Zıplaması Yok",
+			"hookable": "Yakalanabilir",
+			"decoration": "Dekorasyon",
+			"props": "Sahne"
+		},
+
+		"object_names": {
+			"blade": "Bıçak",
+			"turret": "Taret",
+			"killer_bomb": "Öldürücü Bomba",
+			"walter_bomb": "Walter Bombası",
+			"laser": "Lazer",
+			"accelerator": "Hızlandırıcı",
+			"water": "Su",
+			"waterfall": "Şelale",
+			"jump_pad": "Zıplama Rampası",
+			"end_remnant": "End Remnant"
+		},
+
+		"binds": {
+			"rotate_object": "Döndür",
+			"play": "Oynat",
+			"obj_portal": "Portal",
+			"obj_hook_band": "Kanca Şeridi",
+			"obj_colorize": "Renklendirme Seviyesi",
+			"record_ghost": "Hayalet Kaydet",
+
+			"select_playground_tile_layer": "Oyun Alanı",
+			"select_static_bg_tile_layer": "Statik Arka Plan",
+			"select_parallax_bg1_tile_layer": "Paralaks Arka Plan #1",
+			"select_parallax_bg2_tile_layer": "Paralaks Arka Plan #2",
+			"select_playground_deco_tile_layer": "Ön Katman"
+		},
+
+		"file_name": "Dosya İsmi",
+		"level_name": "Bölüm İsmi",
+
+		"upload_level": "Bölüm Gönder",
+		"upload_level_warning": "Bölüm Gönderme Uyarısı",
+		"upload_level_label1": "Uyarı: Bölümü güncellerseniz Liderlik Tablosu temizlenecektir.",
+		"upload_level_label2": "Göndermek için bölümü bir kez bitirmelisiniz.",
+
+		"clear_everything": "Her Şeyi Temizle",
+		"save_level": "Bölümü Kaydet",
+		"load_level": "Bölüm Yükle",
+		"load_level_label1": "Uyarı: Dosya ismi, yaratıcı isminin ve bölüm isminin birleşimidir.",
+		"load_level_label2": ["ör: \"kullanıcıismi-bölümismi\", yani \"naezith-Stalactites\" gibi (Dosya ", " dizininde olmalıdır)"],
+
+		"resize_level": "Bölümü Boyutlandır",
+		"new_size": "Yeni Boyut",
+		"new_level": "Yeni Bölüm",
+		"delete_uploaded_level": "Gönderilen Bölümü Sil"
+	},
+
+	"translation": "Çeviri",
+	"translated_by": "maidis"
+}
