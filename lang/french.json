@@ -366,7 +366,7 @@
 		"level_name": "Nom du niveau",
 
 		"upload_level": "Envoyer le niveau",
-		"upload_level_warning": "Avertissement envoi de niveau",
+		"upload_level_warning": "Envoi du niveau en cours",
 		"upload_level_label1": "Attention: Les classements seront réinitialisés si vous mettez à jour le niveau",
 		"upload_level_label2": "Vous devez finir le niveau une fois pour pouvoir l'envoyer.",
 
