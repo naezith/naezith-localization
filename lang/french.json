@@ -233,7 +233,7 @@
 
 	"all_levels": "Tous les niveaux",
 	"everyone": "Tout le monde",
-	"sort_property": "Propriété de Classement",
+	"sort_property": "Attribut de Classement",
 	"most_played": "Les plus joués",
 	"most_recent": "Les plus récents",
 	"most_voted": "Les mieux notés",
@@ -270,7 +270,7 @@
 	"first": "Premier",
 	"second": "Deuxième",
 	"both": "les deux",
-	"properties": "Propriétés",
+	"properties": "Attributs",
 	"accel": "Accélération",
 	"speed": "Vitesse",
 	"rotation": "Rotation",
