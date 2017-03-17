@@ -27,7 +27,8 @@
 		"hold_hook_and_jump_to_pull": "ÇEKİŞ için KANCA + ZIPLA'ya basılı tutun",
 		"dash_jump": "Hızla koşup zıplamak için DEPAR + ZIPLA",
 		"dash_to_surf": "SÖRF için DEPAR",
-		"jump_during_surf": "SÖRF yaparken ZIPLA"
+		"jump_during_surf": "SÖRF yaparken ZIPLA",
+		"dash_during_swing" : "DASH during the SWING to gain speed and height"
 	},
 	
 	"pop_up_texts" : [
