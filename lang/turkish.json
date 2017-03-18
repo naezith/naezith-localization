@@ -380,7 +380,7 @@
 		"save_level": "Bölümü Kaydet",
 		"load_level": "Bölüm Yükle",
 		"load_level_label1": "Uyarı: Dosya ismi, yaratıcı isminin ve bölüm isminin birleşimidir.",
-		"load_level_label2": ["ör: \"kullanıcıismi-bölümismi\", yani \"naezith-Stalactites\" gibi (Dosya "data/resources/maps/" dizininde olmalıdır)"],
+		"load_level_label2": ["ör: \"kullanıcıismi-bölümismi\", yani \"naezith-Stalactites\" gibi (Dosya ", " dizininde olmalıdır)"],
 
 		"resize_level": "Bölümü Boyutlandır",
 		"new_size": "Yeni Boyut",
