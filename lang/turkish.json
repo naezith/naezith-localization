@@ -7,10 +7,10 @@
 
 	"paused": "Duraklatıldı",
 	"main_menu": "Ana Menü",
-	"purge_the_remnants": "Purge the Remnants",
-	"practice_lair": "Practice Lair",
+	"purge_the_remnants": "Kalıntıları Arındır",
+	"practice_lair": "Antreman Mağarası",
 	"speedrun": "Hızlı Koşu",
-	"custom_levels": "Özel Bölümler",
+	"custom_levels": "Komünite Bölümleri",
 	"global_rankings": "Genel Sıralamalar",
 	"settings": "Ayarlar",
 	"credits": "Emeği Geçenler",
@@ -21,14 +21,14 @@
 	"speedrun_selection": "Hızlı Koşu Seçimi",
 	"speedrun_lb": "Hızlı Koşu Liderlik Tablosu",
 
-	"tutorial": "Eğitsel",
+	"tutorial": "Eğitim",
 	"tutorial_texts": {
 		"hold_hook_to_swing": "SALLANMAK için KANCA'ya basılı tutun",
 		"hold_hook_and_jump_to_pull": "ÇEKİŞ için KANCA + ZIPLA'ya basılı tutun",
 		"dash_jump": "Hızla koşup zıplamak için DEPAR + ZIPLA",
 		"dash_to_surf": "SÖRF için DEPAR",
 		"jump_during_surf": "SÖRF yaparken ZIPLA",
-		"dash_during_swing" : "DASH during the SWING to gain speed and height"
+		"dash_during_swing" : "SALLANIRKEN hız ve yükseklik kazanmak için DEPAR at"
 	},
 	
 	"pop_up_texts" : [
@@ -76,9 +76,9 @@
 	"only_in_replays": "Yalnızca Yeniden Oynatımlarda",
 	"only_in_speedrun": "Yalnızca Hızlı Koşularda",
 	"better_than_me": "Benden daha iyi bir oyuncu",
-	"line": "Line",
-	"lightning": "Lightning",
-	"line_and_lightning": "Line & Lightning",
+	"line": "Işın",
+	"lightning": "Yıldırım",
+	"line_and_lightning": "Işın ve Yıldırım",
 
 	"action": {
 		"LEFT": "Sol",
@@ -112,7 +112,7 @@
 	"complete_the_chapter": "Bölümü tamamla",
 	"complete_a_chapter": "Bir bölümü tamamla",
 
-	"purged": "Purged",
+	"purged": "Arındırılan",
 	"name": "İsim",
 	"rating": "Derecelendirme",
 	"rank": "Sıra",
@@ -161,8 +161,8 @@
 				"windowed_mode_resolution": "Pencere Çözünürlüğü",
 				"vertical_sync": "Dikey Senkronizasyon",
 				"view_height": "Görüş Yüksekliği",
-				"fps_cap": "FPS Cap",
-				"show_fps": "SBK (Saniye Başına Kare) göster",
+				"fps_cap": "FPS Limiti",
+				"show_fps": "FPS'i göster",
 				"bloom": "Bloom",
 				"background_blur": "Arka Plan Bulanıklığı",
 				"ambient_coloring": "Çevresel Renklendirme",
@@ -221,9 +221,9 @@
 	"delete": "Sil",
 
 	"show_top_players": "En iyi oyuncuları göster",
-	"player_rank_text": ["Siz #", " numarasınız ", " oyuncu arasında!"],
+	"player_rank_text": ["", ". sıradasınız ", " kişi arasında!"],
 	"lb_disabled_offline": "Liderlik Tablosu ÇEVRİMDIŞI KİP'te devre dışı",
-	"no_record": "Hiç rekorunuz yok",
+	"no_record": "Hiç kaydınız yok",
 
 	"best": "En İyi",
 	"best_player": "En İyi Oyuncu",
@@ -232,9 +232,9 @@
 	"rated": "Değerlendirildi",
 	"already_rated_level": ["Bu bölümü ", " olarak değerlendirdiniz! Şu şekilde değiştir: "],
 	"finish_first": "Bölümü değerlendirebilmek için bir kez bitirin!",
-	"watch_last_run": "Son koşuşumu izle",
+	"watch_last_run": "Son koşumu izle",
 	"race_against_ghost": "Bir hayalete karşı yarış",
-	"mastered_the_level": "Üstesinden Gelindi",
+	"mastered_the_level": "Ustalaşıldı",
 	"mastery_ghost_is_beaten": "Usta Hayalet yenildi!",
 
 	"all_levels": "Tüm Bölümler",
@@ -265,8 +265,8 @@
 
 	"expired_session": {
 		"connection_lost": "Bağlantı Koptu",
-		"new_patch": "Muhtemelen yeni bir yama çıktı",
-		"restart": "Lütfen Oyunu Yeniden Başlatın"
+		"new_patch": "Muhtemelen yeni bir güncelleme çıktı",
+		"restart": "Lütfen oyunu yeniden başlatın"
 	},
 
 	"width": "Genişlik",
@@ -300,13 +300,13 @@
 		"hide_layers": "Katmanları Gizle",
 		"show_layers": "Katmanları Göster",
 
-		"stick": "Stick",
+		"stick": "Çubuk",
 
 		"homing": "Özgüdüm",
 		"straight": "Düz",
 		"rotating": "Dönen",
-		"toggling": "Toggling",
-		"tracking": "Takip",
+		"toggling": "Açılıp kapanan",
+		"tracking": "Takip eden",
 
 		"active_time": "Etkin Süre",
 		"passive_time": "Pasif Süre",
@@ -322,7 +322,7 @@
 		"objects": "Nesneler",
 		"curr_size": "Şimdiki Boyut",
 
-		"snap": "Snap",
+		"snap": "Ölçek",
 
 		"helper_ghost_will_draw": "Yeni kaydettiğiniz HAYALET yeniden oynatımını tetikleyecek bir dikdörtgen çizin",
 		"helper_ghost_record": "Oyun veya test sırasında HAYALET yeniden oynatımı kaydetmek için U'ya basın",
@@ -330,14 +330,14 @@
 
 		"tile_names": {
 			"earth": "Toprak",
-			"no_grap": "Yakalama Yok",
-			"spike": "Sivri Uç",
-			"limited_grap": "Sınırlı Yakalama",
+			"no_grap": "Kancalanamaz",
+			"spike": "Diken",
+			"limited_grap": "Sınırlı kancalanabilir",
 			"surface": "Yüzey",
 			"no_walljump": "Duvar Zıplaması Yok",
-			"hookable": "Yakalanabilir",
+			"hookable": "Kancalanabilir",
 			"decoration": "Dekorasyon",
-			"props": "Sahne"
+			"props": "Nesneler"
 		},
 
 		"object_names": {
@@ -357,8 +357,8 @@
 			"rotate_object": "Döndür",
 			"play": "Oynat",
 			"obj_portal": "Portal",
-			"obj_hook_band": "Kanca Şeridi",
-			"obj_colorize": "Renklendirme Seviyesi",
+			"obj_hook_band": "Kanca Işını",
+			"obj_colorize": "Bölüm Renklendirme",
 			"record_ghost": "Hayalet Kaydet",
 
 			"select_playground_tile_layer": "Oyun Alanı",
@@ -380,7 +380,7 @@
 		"save_level": "Bölümü Kaydet",
 		"load_level": "Bölüm Yükle",
 		"load_level_label1": "Uyarı: Dosya ismi, yaratıcı isminin ve bölüm isminin birleşimidir.",
-		"load_level_label2": ["ör: \"kullanıcıismi-bölümismi\", yani \"naezith-Stalactites\" gibi (Dosya ", " dizininde olmalıdır)"],
+		"load_level_label2": ["ör: \"kullanıcıismi-bölümismi\", yani \"naezith-Stalactites\" gibi (Dosya "data/resources/maps/" dizininde olmalıdır)"],
 
 		"resize_level": "Bölümü Boyutlandır",
 		"new_size": "Yeni Boyut",
