@@ -1,21 +1,21 @@
 {
 	"lang_name_short": "DE",
 	"lang_name_english": "German",
-	"lang_name_localized": "German",
+	"lang_name_localized": "Deutsch",
 
 	"language": "Sprache",
 
 	"paused": "Pausiert",
-	"main_menu": "Main Menu",
+	"main_menu": "Hauptmenü",
 	"purge_the_remnants": "Purge the Remnants",
 	"practice_lair": "Practice Lair",
 	"speedrun": "Speedrun",
-	"custom_levels": "Custom Levels",
-	"global_rankings": "Global Rankings",
-	"settings": "Settings",
+	"custom_levels": "Eigene Karten",
+	"global_rankings": "Globale Rangliste",
+	"settings": "Einstellungen",
 	"credits": "Credits",
-	"level_editor": "Level Editor",
-	"quit": "Quit",
+	"level_editor": "Karteneditor",
+	"quit": "Beenden",
 
 	"level_selection": "Level Selection",
 	"speedrun_selection": "Speedrun Selection",
@@ -32,7 +32,7 @@
 	},
 	
 	"pop_up_texts" : [
-		"Bereit", "Start", "Relapse", "Neustart",
+		"Bereit", "Start", "Zurückspulen", "Neustart",
 		"Fertig", "Fehlgeschlagen", "Name"
 	],
 	
@@ -57,26 +57,26 @@
 		"novice": "Novice"
 	},
 
-	"yes": "Yes",
-	"no": "No",
-	"enabled": "Enabled",
-	"disabled": "Disabled",
-	"on": "On",
-	"off": "Off",
-	"all": "All",
-	"bottom": "Bottom",
-	"middle": "Middle",
-	"personal_best": "Personal Best",
-	"shadow": "Shadow",
-	"done": "Done",
-	"failed": "Failed",
+	"yes": "Ja",
+	"no": "Nein",
+	"enabled": "Eingeschaltet",
+	"disabled": "Ausgeschaltet",
+	"on": "Ein",
+	"off": "Aus",
+	"all": "Alle",
+	"bottom": "Unten",
+	"middle": "Mitte",
+	"personal_best": "Persönliche Bestleistung",
+	"shadow": "Schatten",
+	"done": "Abgeschlossen",
+	"failed": "Fehlgeschlagen",
 
 	"secret_unlocked" : "Unlocked a secret",
-	"secret_level_unlocked" : "Unlocked a Secret Level",
-	"only_in_replays": "Only in Replays",
-	"only_in_speedrun": "Only in Speedrun",
-	"better_than_me": "A player better than me",
-	"line": "Line",
+	"secret_level_unlocked" : "Geheime Karte freigeschaltet",
+	"only_in_replays": "Nur in Wiederholungen",
+	"only_in_speedrun": "Nur in Speedrun",
+	"better_than_me": "Ein Spieler über mir",
+	"line": "Zeile",
 	"lightning": "Lightning",
 	"line_and_lightning": "Line & Lightning",
 
@@ -104,10 +104,10 @@
 		"RESTART REPLAY": "Replay neu starten"
 	},
 
-	"promoted": "Promoted",
-	"demoted": "Demoted",
+	"promoted": "Rang hoch",
+	"demoted": "Rang runter",
 
-	"inspect": "Inspect",
+	"inspect": "Inspizieren",
 	"inspecting": "Inspiziere",
 	"complete_the_chapter": "Complete the chapter",
 	"complete_a_chapter": "Complete a chapter",
@@ -120,49 +120,49 @@
 	"your_time": "Deine Time",
 	"mastery_time": "Bestzeit",
 	"total_time": "Gesamtzeit",
-	"dominance": "Dominance",
+	"dominance": "Dominanz",
 	"locked": "Gesperrt",
 	"author": "Autor",
 
 	"menu": {
 		"settings": {
 			"gameplay": {
-				"title": "Gameplay",
-				"camera_ignores_borders": "Camera Ignores Borders",
+				"title": "Spieleinstellungen",
+				"camera_ignores_borders": "Kamera ignoriert Grenzen",
 				"input_indicator": "Input Indicator",
-				"allow_checkpoints": "Allow Checkpoints",
+				"allow_checkpoints": "Checkpoints erlauben",
 				"speedometer": "Speedometer",
-				"energy_as_number": "Energy as Number",
-				"ghost_replay": "Ghost Replay",
-				"ghost_visibility": "Ghost Visibility",
+				"energy_as_number": "Energie als Nummer",
+				"ghost_replay": "Geister-Wiederholung",
+				"ghost_visibility": "Geist sichtbarkeit",
 				"hook_indicator": "Hook Path Indicator",
 				"dash_bar": "Dash Bar",
 				"minimap": "Mini-map"
 			},
 
 			"customization": {
-				"title": "Customization",
+				"title": "Anpassung",
 				"beam_style": "Hook Beam Style",
 				"main_color": "Main Color",
 				"secondary_color": "Secondary Color"
 			},
 
 			"sound": {
-				"title": "",
-				"master_volume": "Master Volume",
-				"sfx_volume": "Sound Effects Volume",
-				"music_volume": "Music Volume"
+				"title": "Lautstärke",
+				"master_volume": "Master Lautstärke",
+				"sfx_volume": "Effekt Lautstärke",
+				"music_volume": "Musik Lautstärke"
 			},
 
 			"graphics": {
-				"title": "Graphics",
-				"display_mode": "Display Mode",
-				"fullscreen_resolution": "Fullscreen Resolution",
-				"windowed_mode_resolution": "Windowed Resolution",
-				"vertical_sync": "Vertical Sync",
-				"view_height": "View Height",
-				"fps_cap": "FPS Cap",
-				"show_fps": "Show FPS",
+				"title": "Grafik",
+				"display_mode": "Bildschirm Modus",
+				"fullscreen_resolution": "Vollbild-Auflösung",
+				"windowed_mode_resolution": "Fenster-Auflösung",
+				"vertical_sync": "Vertikale Synchronisierung",
+				"view_height": "Höhe anzeigen",
+				"fps_cap": "FPS begrenzen",
+				"show_fps": "FPS anzeigen",
 				"bloom": "Bloom",
 				"background_blur": "Background Blur",
 				"ambient_coloring": "Ambient Coloring",
@@ -172,33 +172,33 @@
 				"render_parallax_layers": "Render Parallax Layers",
 				"texture_smoothing_filter": "Texture Smoothing Filter",
 
-				"windowed": "Windowed",
-				"borderless": "Borderless",
-				"fullscreen": "Fullscreen"
+				"windowed": "Fenster",
+				"borderless": "Fenster ohne Rand",
+				"fullscreen": "Vollbild"
 			},
 
 			"controls": {
 				"title": "Controls",
-				"gamepad_layout": "Gamepad Layout",
-				"disable_gamepad": "Disable Gamepad",
+				"gamepad_layout": "Gamepad Tastenbelegung",
+				"disable_gamepad": "Gamepad deaktivieren",
 
 				"xbox": "Xbox",
 				"dualshock": "Dualshock"
 			},
 
 			"search_settings": {
-				"title": "Search Settings"
+				"title": "Sucheinstellungen"
 			}
 		}
 	},
 
-	"offline_mode": "OFFLINE MODE",
-	"offline_mode_warning": "WARNING: Can't submit scores in the offline mode!",
+	"offline_mode": "OFFLINE MODUS",
+	"offline_mode_warning": "ACHTUNG: Fortschritt kann im Offline Modus nicht hochgeladen werden.",
 
-	"new": "New",
-	"page": "Page",
-	"cancel": "Cancel",
-	"loading": "Loading",
+	"new": "Neu",
+	"page": "Seite",
+	"cancel": "Abbruch",
+	"loading": "Lade",
 	"initializing": "Initializing",
 	"loading_assets": "Loading assets",
 	"fetching_user_data": "Fetching user data",
@@ -206,30 +206,30 @@
 	"restart": "Restart",
 	"refresh": "Refresh",
 	"retry": "Retry",
-	"play": "Play",
-	"search": "Search",
-	"scroll": "Scroll",
-	"rotate": "Rotate",
-	"scale": "Scale",
+	"play": "Spielen",
+	"search": "Suchen",
+	"scroll": "Scrollen",
+	"rotate": "Umdrehen",
+	"scale": "Skalieren",
 	"boost": "Boost",
-	"recording": "Recording",
-	"upload": "Upload",
-	"save": "Save",
-	"load": "Load",
+	"recording": "Aufnahme",
+	"upload": "Hochladen",
+	"save": "Speichern",
+	"load": "Laden",
 	"resize": "Resize",
-	"create": "Create",
-	"delete": "Delete",
+	"create": "Erstellen",
+	"delete": "Löschen",
 
-	"show_top_players": "Show top players",
-	"player_rank_text": ["You're #", " in ", " players!"],
-	"lb_disabled_offline": "Leaderboards are disabled in the OFFLINE MODE",
+	"show_top_players": "Bestenliste anzeigen",
+	"player_rank_text": ["Du bist #", " in ", " Spieler!"],
+	"lb_disabled_offline": "Bestenlisten sind im Offline Modus deaktiviert",
 	"no_record": "You have no record",
 
 	"best": "Best",
-	"best_player": "Best Player",
-	"next_level": "Next Level",
+	"best_player": "Bester Spieler",
+	"next_level": "Nächste Karte",
 	"rate_this_level": "Rate this level",
-	"rated": "Rated",
+	"rated": "Bewertungen",
 	"already_rated_level": ["You rated this level ", "!  Change to "],
 	"finish_first": "Finish the level once to vote it!",
 	"watch_last_run": "Watch my last run",
@@ -237,36 +237,36 @@
 	"mastered_the_level": "Mastered",
 	"mastery_ghost_is_beaten": "Mastery Ghost is beaten!",
 
-	"all_levels": "All Levels",
-	"everyone": "Everyone",
+	"all_levels": "Alle Karten",
+	"everyone": "Jeder",
 	"sort_property": "Sort Property",
 	"most_played": "Most played",
 	"most_recent": "Most recent",
 	"most_voted": "Most voted",
-	"default": "Default",
+	"default": "Standard",
 	"hide_finished": "Hide Finished",
 	"show_finished": "Show Finished",
 
-	"order": "Order",
-	"ascending": "Ascending",
-	"descending": "Descending",
+	"order": "Sortieren",
+	"ascending": "Steigend",
+	"descending": "Fallend",
 
-	"gr_info": "Ranks refresh ",
-	"hourly": "hourly",
-	"daily": "daily",
-	"monthly": "monthly",
-	"every": "every",
-	"hours": "hours",
-	"days": "days",
-	"months": "months",
+	"gr_info": "Rangaktualisierung ",
+	"hourly": "stündlich",
+	"daily": "täglich",
+	"monthly": "monatlich",
+	"every": "Alle",
+	"hours": "Stunden",
+	"days": "Tage",
+	"months": "Monate",
 
 	"capped": "capped",
 	"non_capped": "non-capped",
 
 	"expired_session": {
-		"connection_lost": "Connection Lost",
-		"new_patch": "Probably a new patch is released",
-		"restart": "Please Restart the Game"
+		"connection_lost": "Verbindung verloren",
+		"new_patch": "Es ist eine neue Version des Spiels erschienen",
+		"restart": "Bitte starte das Spiel neu"
 	},
 
 	"width": "Breite",
@@ -276,9 +276,9 @@
 	"first": "First",
 	"second": "Second",
 	"both": "Both",
-	"properties": "Properties",
-	"accel": "Acceleration",
-	"speed": "Speed",
+	"properties": "Eigenschaften",
+	"accel": "Beschleunigung",
+	"speed": "Geschwindigkeit",
 	"rotation": "Rotation",
 	"working": "Working",
 	"movement": "Movement",
@@ -287,18 +287,18 @@
 	"out": "Out",
 	"add": "Add",
 	"set": "Set",
-	"type": "Type",
-	"gravity": "Gravity",
+	"type": "Typ",
+	"gravity": "Schwerkraft",
 	"rectangle": "Rectangle",
 	"circle": "Circle",
-	"direction": "Direction",
-	"size": "Size",
-	"range": "Range",
+	"direction": "Richtung",
+	"size": "Größe",
+	"range": "Reichweite",
 	"offset": "Offset",
 
 	"editor": {
-		"hide_layers": "Hide Layers",
-		"show_layers": "Show Layers",
+		"hide_layers": "Layer verstecken",
+		"show_layers": "Layer anzeigen",
 
 		"stick": "Stick",
 
@@ -319,8 +319,8 @@
 		"ease": "Ease",
 
 		"tiles": "Tiles",
-		"objects": "Objects",
-		"curr_size": "Current Size",
+		"objects": "Objekte",
+		"curr_size": "Aktuelle Größe",
 
 		"snap": "Snap",
 
@@ -368,26 +368,26 @@
 			"select_playground_deco_tile_layer": "Front Layer"
 		},
 
-		"file_name": "File Name",
-		"level_name": "Level Name",
+		"file_name": "Dateiname",
+		"level_name": "Kartenname",
 
-		"upload_level": "Upload Level",
+		"upload_level": "Karte hochladen",
 		"upload_level_warning": "Upload Level Warning",
 		"upload_level_label1": "Warning: Leaderboard will be cleaned if you update the level.",
 		"upload_level_label2": "You must finish the level once to upload.",
 
 		"clear_everything": "Clear Everything",
-		"save_level": "Save Level",
-		"load_level": "Load Level",
+		"save_level": "Karte abspeichern",
+		"load_level": "Karte laden",
 		"load_level_label1": "Warning: File name is a combination of author's username and level name.",
 		"load_level_label2": ["e.g. \"username-levelname\" like \"naezith-Stalactites\" (File should be at the ", " folder)"],
 
-		"resize_level": "Resize Level",
-		"new_size": "New Size",
-		"new_level": "New Level",
-		"delete_uploaded_level": "Delete Uploaded Level"
+		"resize_level": "Kartengröße ändern",
+		"new_size": "Neue Größe",
+		"new_level": "Neue Karte",
+		"delete_uploaded_level": "Hochgeladene Karte löschen"
 	},
 
-	"translation": "Translation",
-	"translated_by": " "
+	"translation": "Übersetzung",
+	"translated_by": "NicoKuroKusagi"
 }
