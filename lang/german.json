@@ -1,0 +1,393 @@
+{
+	"lang_name_short": "DE",
+	"lang_name_english": "German",
+	"lang_name_localized": "Deutsch",
+
+	"language": "Sprache",
+
+	"paused": "Pausiert",
+	"main_menu": "Hauptmenü",
+	"purge_the_remnants": "Purge the Remnants",
+	"practice_lair": "Practice Lair",
+	"speedrun": "Speedrun",
+	"custom_levels": "Eigene Karten",
+	"global_rankings": "Globale Rangliste",
+	"settings": "Einstellungen",
+	"credits": "Credits",
+	"level_editor": "Karteneditor",
+	"quit": "Beenden",
+
+	"level_selection": "Kartenauswahl",
+	"speedrun_selection": "Speedrun Auswahl",
+	"speedrun_lb": "Speedrun Bestenlisten",
+
+	"tutorial": "Einführung",
+	"tutorial_texts": {
+		"hold_hook_to_swing": "Halte HOOK zum SCHWINGEN",
+		"hold_hook_and_jump_to_pull": "Halte HOOK und JUMP zum LOSLASSEN",
+		"dash_jump": "DASH und JUMP zum DASH-JUMP",
+		"dash_to_surf": "DASH zum SURFEN",
+		"jump_during_surf": "SPRINGEN während des SURFENS",
+		"dash_during_swing" : "DASH während des SCHWINGENS um an Geschwindigkeit und Höhe zu gewinnen"
+	},
+	
+	"pop_up_texts" : [
+		"Bereit", "Start", "Zurückspulen", "Neustart",
+		"Fertig", "Fehlgeschlagen", "Name"
+	],
+	
+	"tips" : [
+		"Einen hook zu treffen verleiht dir einen Doppelsprung.",
+		"Springe während des Dashens um höher zu springen.",
+		"Je höher dein Hook-Beam ist, desto mehr Geschwindigkeit gewinnst du beim Schwingen.",
+		"Lasse den Hook los während du auf der Untersten Ebene der Schwingung bist um mehr Horizontalgeschwindigkeit zu erhalten.",
+		"Dashen während einer Schwingung ist am effektivsten um Geschwindigkeit und Höhe zu gewinnen, wenn du dich am Boden der Schwingung befindest.",
+		"Nutze deinene Doppelsprung so spät wie möglich, er könnte noch von Nutzen sein."
+	],
+
+	"global_ranks": {
+		"descendant": "Nachfahre von Naezith",
+		"inhuman": "Unmenschlich",
+		"grandmaster": "Großmeister",
+		"master": "Meister",
+		"expert": "Experte",
+		"veteran": "Veteran",
+		"adept": "Erfahrener",
+		"apprentice": "Lehrling",
+		"novice": "Anfänger"
+	},
+
+	"yes": "Ja",
+	"no": "Nein",
+	"enabled": "Eingeschaltet",
+	"disabled": "Ausgeschaltet",
+	"on": "Ein",
+	"off": "Aus",
+	"all": "Alle",
+	"bottom": "Unten",
+	"middle": "Mitte",
+	"personal_best": "Persönliche Bestleistung",
+	"shadow": "Schatten",
+	"done": "Abgeschlossen",
+	"failed": "Fehlgeschlagen",
+
+	"secret_unlocked" : "Ein Geheimnis wurde freigeschaltet",
+	"secret_level_unlocked" : "Geheime Karte freigeschaltet",
+	"only_in_replays": "Nur in Wiederholungen",
+	"only_in_speedrun": "Nur in Speedrun",
+	"better_than_me": "Ein Spieler über mir",
+	"line": "Zeile",
+	"lightning": "Belichtung",
+	"line_and_lightning": "Line & Lightning",
+
+	"action": {
+		"LEFT": "Links",
+		"RIGHT": "Rechts",
+		"JUMP": "Springen",
+		"HOOK": "Hook",
+		"DASH": "Dash",
+		"RESET": "Zurücksetzen",
+		"APPLY": "Übernehmen",
+		"PAUSE": "Zurücksetzen",
+		"BACK": "Zurück",
+		"MENU UP": "Menü Hoch",
+		"MENU DOWN": "Menü Runter",
+		"MENU LEFT": "Menü Links",
+		"MENU RIGHT": "Menü Rechts",
+		"LEADERBOARD": "Bestenliste",
+		"LEVEL SEARCH": "Level suchen",
+		"SKIP TRACK": "Track überspringen",
+
+		"WATCH": "Anschauen",
+		"APPLY CHANGES": "Änderungen speichern",
+		"CHANGE SPEED": "Geschwindigkeit ändern",
+		"RESTART REPLAY": "Replay neu starten"
+	},
+
+	"promoted": "Rang hoch",
+	"demoted": "Rang runter",
+
+	"inspect": "Inspizieren",
+	"inspecting": "Inspiziere",
+	"complete_the_chapter": "Abschließen des Abschnitts",
+	"complete_a_chapter": "Schließe einen Abschnitt ab",
+
+	"purged": "Entfernt",
+	"name": "Name",
+	"rating": "Bewertung",
+	"rank": "Rang",
+	"time": "Zeit",
+	"your_time": "Deine Time",
+	"mastery_time": "Bestzeit",
+	"total_time": "Gesamtzeit",
+	"dominance": "Dominanz",
+	"locked": "Gesperrt",
+	"author": "Autor",
+
+	"menu": {
+		"settings": {
+			"gameplay": {
+				"title": "Spieleinstellungen",
+				"camera_ignores_borders": "Kamera ignoriert Grenzen",
+				"input_indicator": "Eingabe Indikator",
+				"allow_checkpoints": "Checkpoints erlauben",
+				"speedometer": "Geschwindigkeitsanzeige",
+				"energy_as_number": "Energie als Nummer",
+				"ghost_replay": "Geister-Wiederholung",
+				"ghost_visibility": "Geist sichtbarkeit",
+				"hook_indicator": "Hookpfad Indikator",
+				"dash_bar": "Dash Leiste",
+				"minimap": "Mini-map"
+			},
+
+			"customization": {
+				"title": "Anpassung",
+				"beam_style": "Hook Beam Style",
+				"main_color": "Hauptfarbe",
+				"secondary_color": "Sekundärfarbe"
+			},
+
+			"sound": {
+				"title": "Lautstärke",
+				"master_volume": "Master Lautstärke",
+				"sfx_volume": "Effekt Lautstärke",
+				"music_volume": "Musik Lautstärke"
+			},
+
+			"graphics": {
+				"title": "Grafik",
+				"display_mode": "Bildschirm Modus",
+				"fullscreen_resolution": "Vollbild-Auflösung",
+				"windowed_mode_resolution": "Fenster-Auflösung",
+				"vertical_sync": "Vertikale Synchronisierung",
+				"view_height": "Höhe anzeigen",
+				"fps_cap": "FPS begrenzen",
+				"show_fps": "FPS anzeigen",
+				"bloom": "Bloom",
+				"background_blur": "Hintergrundunschärfe",
+				"ambient_coloring": "Umgebung einfärben",
+				"vignette_rgb_split": "Vignette & RGB Aufteilen",
+				"render_deco_layers": "Dekorationsebenen rendern",
+				"render_bg_layers": "Hintergrundebenen rendern",
+				"render_parallax_layers": "Prallax Ebenen rendern",
+				"texture_smoothing_filter": "Texturglättungs-Filter",
+
+				"windowed": "Fenster",
+				"borderless": "Fenster ohne Rand",
+				"fullscreen": "Vollbild"
+			},
+
+			"controls": {
+				"title": "Steuerung",
+				"gamepad_layout": "Gamepad Tastenbelegung",
+				"disable_gamepad": "Gamepad deaktivieren",
+
+				"xbox": "Xbox",
+				"dualshock": "Dualshock"
+			},
+
+			"search_settings": {
+				"title": "Sucheinstellungen"
+			}
+		}
+	},
+
+	"offline_mode": "OFFLINE MODUS",
+	"offline_mode_warning": "ACHTUNG: Fortschritt kann im Offline Modus nicht hochgeladen werden.",
+
+	"new": "Neu",
+	"page": "Seite",
+	"cancel": "Abbruch",
+	"loading": "Lade",
+	"initializing": "Initialisiere",
+	"loading_assets": "Lade Daten",
+	"fetching_user_data": "Verarbeite Spielerdaten",
+	"resume": "Fortsetzen",
+	"restart": "Neu starten",
+	"refresh": "Aktualisieren",
+	"retry": "Erneut versuchen",
+	"play": "Spielen",
+	"search": "Suchen",
+	"scroll": "Scrollen",
+	"rotate": "Umdrehen",
+	"scale": "Skalieren",
+	"boost": "Boost",
+	"recording": "Aufnahme",
+	"upload": "Hochladen",
+	"save": "Speichern",
+	"load": "Laden",
+	"resize": "Resize",
+	"create": "Erstellen",
+	"delete": "Löschen",
+
+	"show_top_players": "Bestenliste anzeigen",
+	"player_rank_text": ["Du bist #", " in ", " Spieler!"],
+	"lb_disabled_offline": "Bestenlisten sind im Offline Modus deaktiviert",
+	"no_record": "Kein Datensatz existent",
+
+	"best": "Bester",
+	"best_player": "Bester Spieler",
+	"next_level": "Nächste Karte",
+	"rate_this_level": "Bewerte diese Karte",
+	"rated": "Bewertungen",
+	"already_rated_level": ["Du hast bereits eine Bewertung für diese Karte abgegeben. ", "!  Geändert zu "],
+	"finish_first": "Vervollständige diese Karte um abzustimmen!",
+	"watch_last_run": "Schau dir meine letzte Runde an",
+	"race_against_ghost": "Rennen gegen den Geist",
+	"mastered_the_level": "Gemeistert",
+	"mastery_ghost_is_beaten": "Der Meistergeist wurde geschlagen!",
+
+	"all_levels": "Alle Karten",
+	"everyone": "Jeder",
+	"sort_property": "Sortierteigenschaften",
+	"most_played": "Meistgespielt",
+	"most_recent": "Neueste",
+	"most_voted": "Meistbewertet",
+	"default": "Standard",
+	"hide_finished": "Vervollständigte verstecken",
+	"show_finished": "Vervollständigte anzeigen",
+
+	"order": "Sortieren",
+	"ascending": "Aufteigend",
+	"descending": "Absteigend",
+
+	"gr_info": "Rangaktualisierung ",
+	"hourly": "stündlich",
+	"daily": "täglich",
+	"monthly": "monatlich",
+	"every": "Alle",
+	"hours": "Stunden",
+	"days": "Tage",
+	"months": "Monate",
+
+	"capped": "capped",
+	"non_capped": "non-capped",
+
+	"expired_session": {
+		"connection_lost": "Verbindung verloren",
+		"new_patch": "Es ist eine neue Version des Spiels erschienen",
+		"restart": "Bitte starte das Spiel neu"
+	},
+
+	"width": "Breite",
+	"height": "Höhe",
+	"front": "Vorne",
+	"behind": "Hinter",
+	"first": "Erstes",
+	"second": "Zweites",
+	"both": "Beide",
+	"properties": "Eigenschaften",
+	"accel": "Beschleunigung",
+	"speed": "Geschwindigkeit",
+	"rotation": "Rotation",
+	"working": "Funktionalität",
+	"movement": "Bewegung",
+	"radius": "Radius",
+	"in": "Ein",
+	"out": "Aus",
+	"add": "Hinzufügen",
+	"set": "Setzen",
+	"type": "Typ",
+	"gravity": "Schwerkraft",
+	"rectangle": "Rechteck",
+	"circle": "Kreis",
+	"direction": "Richtung",
+	"size": "Größe",
+	"range": "Reichweite",
+	"offset": "Versatz",
+
+	"editor": {
+		"hide_layers": "Ebene verstecken",
+		"show_layers": "Ebene anzeigen",
+
+		"stick": "Fest",
+
+		"homing": "Zielsuchend",
+		"straight": "Gerade",
+		"rotating": "Rotierend",
+		"toggling": "Umschaltend",
+		"tracking": "Ortend",
+
+		"active_time": "Aktive Zeit",
+		"passive_time": "Passive Zeit",
+		"max_length": "Maximale Länge",
+		"iter_count": "Iteration Count",
+		"start_delay": "Start Verzögerung",
+		"phase_offset": "Phasenversatz",
+		"height_diff": "Höhenunterschied",
+		"linear": "Linear",
+		"ease": "Schwierigkeit",
+
+		"tiles": "Kacheln",
+		"objects": "Objekte",
+		"curr_size": "Aktuelle Größe",
+
+		"snap": "Snap",
+
+		"helper_ghost_will_draw": "Zeige ein Rechteck an, um den aufgenommenen Geist abzuspielen",
+		"helper_ghost_record": "Drücke während des Spieletests U um einen Geist aufzunehmen",
+		"helper_ghost_stop_record": "Drücke U um die Aufnahme des Geistes zu beenden",
+
+		"tile_names": {
+			"earth": "Erde",
+			"no_grap": "Nicht packend",
+			"spike": "Fest bindend",
+			"limited_grap": "Limitiertes Packen",
+			"surface": "Oberfläche",
+			"no_walljump": "Keine Wandsprünge",
+			"hookable": "Hookbar",
+			"decoration": "Dekoration",
+			"props": "Umgebungsgegenstände"
+		},
+
+		"object_names": {
+			"blade": "Klinge",
+			"turret": "Geschütz",
+			"killer_bomb": "Killer Bomb",
+			"walter_bomb": "Walter Bomb",
+			"laser": "Laser",
+			"accelerator": "Beschleuniger",
+			"water": "Wasser",
+			"waterfall": "Wasserfall",
+			"jump_pad": "Sprungkissen",
+			"end_remnant": "Überbleibsel"
+		},
+
+		"binds": {
+			"rotate_object": "Umdrehen",
+			"play": "Spielen",
+			"obj_portal": "Portal",
+			"obj_hook_band": "Hook Seil",
+			"obj_colorize": "Karte einfärben",
+			"record_ghost": "Geist aufnehmen",
+
+			"select_playground_tile_layer": "Vordergrund",
+			"select_static_bg_tile_layer": "Statischer Hintergrund",
+			"select_parallax_bg1_tile_layer": "Parallax Hintergrund #1",
+			"select_parallax_bg2_tile_layer": "Parallax Hintergrund #2",
+			"select_playground_deco_tile_layer": "Vorderste Hintergrundebene"
+		},
+
+		"file_name": "Dateiname",
+		"level_name": "Kartenname",
+
+		"upload_level": "Karte hochladen",
+		"upload_level_warning": "Warnung - Hochladen der Karte",
+		"upload_level_label1": "Achtung: Bei einer Erneuerung der Karte werden die Bestenlisten zurückgesetzt.",
+		"upload_level_label2": "Du musst die Karte einmal vervollständigen, um sie hochzuladen.",
+
+		"clear_everything": "Alles löschen",
+		"save_level": "Karte abspeichern",
+		"load_level": "Karte laden",
+		"load_level_label1": "Hinweis: Der Dateiname ist eine Kombination aus Kartenname und Name des Autors.",
+		"load_level_label2": ["Beispiel \"username-levelname\" wie \"naezith-Stalactites\" (Die Datei sollte im Ordner ", " sein)"],
+
+		"resize_level": "Kartengröße ändern",
+		"new_size": "Neue Größe",
+		"new_level": "Neue Karte",
+		"delete_uploaded_level": "Hochgeladene Karte löschen"
+	},
+
+	"translation": "Übersetzung",
+	"translated_by": "NicoKuroKusagi"
+}
