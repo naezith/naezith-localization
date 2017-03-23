@@ -30,6 +30,7 @@
 		"jump_during_surf": "SÖRF yaparken ZIPLA",
 		"dash_during_swing" : "SALLANIRKEN hız ve yükseklik kazanmak için DEPAR at"
 	},
+	"hold": "Hold",
 	
 	"pop_up_texts" : [
 		"Hazır", "Başla", "Tekrarla", "Sıfırla",
@@ -350,10 +351,27 @@
 			"water": "Su",
 			"waterfall": "Şelale",
 			"jump_pad": "Zıplama Rampası",
+			"checkpoint": "Checkpoint",
+			"player_spawn": "Player Spawn",
 			"end_remnant": "End Remnant"
 		},
 
 		"binds": {
+			"coordinate": "Coordinate",
+			"zoom": "Zoom",
+			"undo": "Undo",
+			"redo": "Redo",
+			"toggle_grid": "Toggle Grid",
+			"change_category": "Toggle Category",
+			"hide_gui": "Hide GUI",
+			"toggle_ai_update": "Toggle AI Update",
+			"boost_camera_speed": "Faster Camera",
+			"move_camera": "Move Camera",
+			"drag_object": "Drag Object",
+			"copy_object_properties": "Copy Object Properties",
+			"area_fill": "Area Fill",
+			"quick_save": "Quick-save",
+	
 			"rotate_object": "Döndür",
 			"play": "Oynat",
 			"obj_portal": "Portal",

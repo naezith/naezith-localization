@@ -30,6 +30,7 @@
 		"jump_during_surf": "SPRINGEN während des SURFENS",
 		"dash_during_swing" : "DASH während des SCHWINGENS um an Geschwindigkeit und Höhe zu gewinnen"
 	},
+	"hold": "Hold",
 	
 	"pop_up_texts" : [
 		"Bereit", "Start", "Zurückspulen", "Neustart",
@@ -350,10 +351,27 @@
 			"water": "Wasser",
 			"waterfall": "Wasserfall",
 			"jump_pad": "Sprungkissen",
+			"checkpoint": "Checkpoint",
+			"player_spawn": "Player Spawn",
 			"end_remnant": "Überbleibsel"
 		},
 
 		"binds": {
+			"coordinate": "Coordinate",
+			"zoom": "Zoom",
+			"undo": "Undo",
+			"redo": "Redo",
+			"toggle_grid": "Toggle Grid",
+			"change_category": "Toggle Category",
+			"hide_gui": "Hide GUI",
+			"toggle_ai_update": "Toggle AI Update",
+			"boost_camera_speed": "Faster Camera",
+			"move_camera": "Move Camera",
+			"drag_object": "Drag Object",
+			"copy_object_properties": "Copy Object Properties",
+			"area_fill": "Area Fill",
+			"quick_save": "Quick-save",
+	
 			"rotate_object": "Umdrehen",
 			"play": "Spielen",
 			"obj_portal": "Portal",
