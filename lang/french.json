@@ -138,7 +138,8 @@
 				"ghost_visibility": "Visibilité du Fantôme",
 				"hook_indicator": "Indicateur de Chemin du Grappin",
 				"dash_bar": "Barre de rechargement du Dash",
-				"minimap": "Mini-map"
+				"minimap": "Mini-map",
+				"skip_intro": "Skip Intro"
 			},
 
 			"customization": {

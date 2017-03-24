@@ -138,7 +138,8 @@
 				"ghost_visibility": "Hayalet Görünürlüğü",
 				"hook_indicator": "Kanca Yolu Göstergesi",
 				"dash_bar": "Çizgi Çubuğu",
-				"minimap": "Mini Harita"
+				"minimap": "Mini Harita",
+				"skip_intro": "Skip Intro"
 			},
 
 			"customization": {

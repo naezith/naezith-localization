@@ -138,7 +138,8 @@
 				"ghost_visibility": "Geist sichtbarkeit",
 				"hook_indicator": "Hookpfad Indikator",
 				"dash_bar": "Dash Leiste",
-				"minimap": "Mini-map"
+				"minimap": "Mini-map",
+				"skip_intro": "Skip Intro"
 			},
 
 			"customization": {

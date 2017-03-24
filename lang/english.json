@@ -138,7 +138,8 @@
 				"ghost_visibility": "Ghost Visibility",
 				"hook_indicator": "Hook Path Indicator",
 				"dash_bar": "Dash Bar",
-				"minimap": "Mini-map"
+				"minimap": "Mini-map",
+				"skip_intro": "Skip Intro"
 			},
 
 			"customization": {

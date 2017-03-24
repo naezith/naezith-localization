@@ -138,7 +138,8 @@
 				"ghost_visibility": "Nitidez del corredor fantasma",
 				"hook_indicator": "Retícula del garfio",
 				"dash_bar": "Medidor de aceleración",
-				"minimap": "Minimapa"
+				"minimap": "Minimapa",
+				"skip_intro": "Skip Intro"
 			},
 
 			"customization": {
