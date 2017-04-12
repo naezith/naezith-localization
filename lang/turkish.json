@@ -407,6 +407,22 @@
 		"delete_uploaded_level": "Gönderilen Bölümü Sil"
 	},
 
+	"intro" : [
+		"Legends tell of a mighty thunder dragon by the name of Naezith who once roamed these lands",
+		"It was said that after his death, remnants of the dragon's body that still held the immense power",
+		"was slowly dispersed across the world by natural events. But Naezith did not want to share the power, he still considered his own.",
+		"And so, his soul still lingered, trying to find a way to purge the remnants of their magic.",
+		"Thousands of years later, an adventurer by the name of Kayra",
+		"heard rumors of a remnant, laying inside a cave. And dove in using his rope and trusty hook.",
+		"But the hook was old and eventually gave way, causing Kayra to fall",
+		"into a seamingly endless pit...",
+		"He awoke, terrified and found two glowing claws magically bound to his hands.",
+		"Mad with terror, he swung his arms wildly, but the spell did not break.",
+		"Instead the claw shot forth, planting itself firmly in the stone wall. A magical beam still linked the claws to his hands, working much like his old hook.",
+		"Suddenly, Naezith appeared to Kayra, and told him he needed a physical body to accomplish his goals.",
+		"Under promise of unlimited treasure, Kayra accepted to let the Dragon partially possess his body, and use his powers, starting on his quest to purge the…"
+	],
+
 	"translation": "Çeviri",
 	"translated_by": "maidis"
 }
