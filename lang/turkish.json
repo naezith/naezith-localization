@@ -30,7 +30,7 @@
 		"jump_during_surf": "SÖRF yaparken ZIPLA",
 		"dash_during_swing" : "SALLANIRKEN hız ve yükseklik kazanmak için DEPAR at"
 	},
-	"hold": "Tut",
+	"hold": "Basılı tut",
 	
 	"pop_up_texts" : [
 		"Hazır", "Başla", "Tekrarla", "Sıfırla",
@@ -352,9 +352,9 @@
 			"water": "Su",
 			"waterfall": "Şelale",
 			"jump_pad": "Zıplama Rampası",
-			"checkpoint": "Çek Noktası",
-			"player_spawn": "Oyuncu Ortaya Çıkışı",
-			"end_remnant": "Kalıntıyı Sonlandır"
+			"checkpoint": "Kontrol Noktası",
+			"player_spawn": "Başlama Noktası",
+			"end_remnant": "Bölümsonu Kalıntısı"
 		},
 
 		"binds": {
