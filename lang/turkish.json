@@ -30,7 +30,7 @@
 		"jump_during_surf": "SÖRF yaparken ZIPLA",
 		"dash_during_swing" : "SALLANIRKEN hız ve yükseklik kazanmak için DEPAR at"
 	},
-	"hold": "Hold",
+	"hold": "Basılı tut",
 	
 	"pop_up_texts" : [
 		"Hazır", "Başla", "Tekrarla", "Sıfırla",
@@ -139,7 +139,7 @@
 				"hook_indicator": "Kanca Yolu Göstergesi",
 				"dash_bar": "Çizgi Çubuğu",
 				"minimap": "Mini Harita",
-				"skip_intro": "Skip Intro"
+				"skip_intro": "Tanıtımı Geç"
 			},
 
 			"customization": {
@@ -352,26 +352,26 @@
 			"water": "Su",
 			"waterfall": "Şelale",
 			"jump_pad": "Zıplama Rampası",
-			"checkpoint": "Checkpoint",
-			"player_spawn": "Player Spawn",
-			"end_remnant": "End Remnant"
+			"checkpoint": "Kontrol Noktası",
+			"player_spawn": "Başlama Noktası",
+			"end_remnant": "Bölümsonu Kalıntısı"
 		},
 
 		"binds": {
-			"coordinate": "Coordinate",
-			"zoom": "Zoom",
-			"undo": "Undo",
-			"redo": "Redo",
-			"toggle_grid": "Toggle Grid",
-			"change_category": "Toggle Category",
-			"hide_gui": "Hide GUI",
-			"toggle_ai_update": "Toggle AI Update",
-			"boost_camera_speed": "Faster Camera",
-			"move_camera": "Move Camera",
-			"drag_object": "Drag Object",
-			"copy_object_properties": "Copy Object Properties",
-			"area_fill": "Area Fill",
-			"quick_save": "Quick-save",
+			"coordinate": "Koordinat",
+			"zoom": "Yaklaştırma",
+			"undo": "Geri Al",
+			"redo": "Tekrarla",
+			"toggle_grid": "Izgarayı Aç veya Kapat",
+			"change_category": "Kategoriyi Aç veya Kapat",
+			"hide_gui": "Grafik Kullanıcı Arayüzünü Gizle",
+			"toggle_ai_update": "Yapay Zeka Güncellemelerini Aç veya Kapat",
+			"boost_camera_speed": "Daha Hızlı Kamera",
+			"move_camera": "Kamerayı Taşı",
+			"drag_object": "Nesneyi Sürekle",
+			"copy_object_properties": "Nesne Özelliklerini Kopyala",
+			"area_fill": "Alan Dolgusu",
+			"quick_save": "Hızlı Kaydetme",
 	
 			"rotate_object": "Döndür",
 			"play": "Oynat",
