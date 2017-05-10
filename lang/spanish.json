@@ -167,6 +167,7 @@
 				"show_fps": "Mostrar FPS",
 				"bloom": "Bloom",
 				"background_blur": "Desenfoque del fondo",
+				"menu_blur": "Desenfoque del menú",
 				"ambient_coloring": "Paleta de color",
 				"vignette_rgb_split": "Viñeteado y aberración cromática",
 				"render_deco_layers": "Mostrar decorados",

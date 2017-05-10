@@ -167,6 +167,7 @@
 				"show_fps": "FPS anzeigen",
 				"bloom": "Bloom",
 				"background_blur": "Hintergrundunschärfe",
+				"menu_blur": "Menü-Unschärfe",
 				"ambient_coloring": "Umgebung einfärben",
 				"vignette_rgb_split": "Vignette & RGB Aufteilen",
 				"render_deco_layers": "Dekorationsebenen rendern",

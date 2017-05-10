@@ -167,6 +167,7 @@
 				"show_fps": "Afficher les FPS",
 				"bloom": "Bloom",
 				"background_blur": "Flou d'arrière plan",
+				"menu_blur": "Menu flou",
 				"ambient_coloring": "Coloration ambiante",
 				"vignette_rgb_split": "Vignette & Aberration Chromatique",
 				"render_deco_layers": "Afficher les décorations",

@@ -167,6 +167,7 @@
 				"show_fps": "FPS'i göster",
 				"bloom": "Bloom",
 				"background_blur": "Arka Plan Bulanıklığı",
+				"menu_blur": "Menü Bulanıklığı",
 				"ambient_coloring": "Çevresel Renklendirme",
 				"vignette_rgb_split": "Vinyet ve KYM (Kırmızı Yeşil Mavi) Ayrıştırma",
 				"render_deco_layers": "Dekorasyon Katmanlarını Tara",
