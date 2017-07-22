@@ -127,6 +127,8 @@
 
 	"menu": {
 		"settings": {
+			"restore_default": "Restore Default Settings",
+			
 			"gameplay": {
 				"title": "Oynanış",
 				"camera_ignores_borders": "Kamera Sınırları Yoksayar",
@@ -163,6 +165,7 @@
 				"windowed_mode_resolution": "Pencere Çözünürlüğü",
 				"vertical_sync": "Dikey Senkronizasyon",
 				"view_height": "Görüş Yüksekliği",
+				"rendertexture_height": "Render Texture Height",
 				"fps_cap": "FPS Limiti",
 				"show_fps": "FPS'i göster",
 				"bloom": "Bloom",

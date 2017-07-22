@@ -127,6 +127,8 @@
 
 	"menu": {
 		"settings": {
+			"restore_default": "Restore Default Settings",
+			
 			"gameplay": {
 				"title": "Gameplay",
 				"camera_ignores_borders": "Camera Ignores Borders",
@@ -163,6 +165,7 @@
 				"windowed_mode_resolution": "Windowed Resolution",
 				"vertical_sync": "Vertical Sync",
 				"view_height": "View Height",
+				"rendertexture_height": "Render Texture Height",
 				"fps_cap": "FPS Cap",
 				"show_fps": "Show FPS",
 				"bloom": "Bloom",

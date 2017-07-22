@@ -127,6 +127,8 @@
 
 	"menu": {
 		"settings": {
+			"restore_default": "Restore Default Settings",
+			
 			"gameplay": {
 				"title": "Spieleinstellungen",
 				"camera_ignores_borders": "Kamera ignoriert Grenzen",
@@ -163,6 +165,7 @@
 				"windowed_mode_resolution": "Fenster-Auflösung",
 				"vertical_sync": "Vertikale Synchronisierung",
 				"view_height": "Höhe anzeigen",
+				"rendertexture_height": "Render Texture Height",
 				"fps_cap": "FPS begrenzen",
 				"show_fps": "FPS anzeigen",
 				"bloom": "Bloom",
