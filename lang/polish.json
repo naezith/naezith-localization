@@ -1,0 +1,432 @@
+{
+	"lang_name_short": "PL",
+	"lang_name_english": "Polish",
+	"lang_name_localized": "Polski",
+
+	"language": "Język",
+
+	"paused": "Pauza",
+	"main_menu": "Menu Główne",
+	"purge_the_remnants": "Zniszcz pozostałości",
+	"practice_lair": "Kryjówka Treningowa",
+	"speedrun": "Szybki Bieg",
+	"custom_levels": "Mapy Autorskie",
+	"global_rankings": "Ranking Światowy",
+	"settings": "Settings",
+	"credits": "Autorzy",
+	"level_editor": "Edytor Map",
+	"quit": "Wyjście",
+
+	"level_selection": "Wybór Mapy",
+	"speedrun_selection": "Wybór Wyścigu",
+	"speedrun_lb": "Ranking Trybu Wyścigu",
+
+	"tutorial": "Tutorial",
+	"tutorial_texts": {
+		"hold_hook_to_swing": "Przytrzymaj HAK aby się HUSTAĆ",
+		"hold_hook_and_jump_to_pull": "Przytrzymaj HAK + SKOK aby się WCIĄGNĄĆ",
+		"dash_jump": " WŚLIZG + SKOK to SUPER-SKOK",
+		"dash_to_surf": "WŚLIZG aby SERFOWAĆ",
+		"jump_during_surf": "SKOK podczas SERFOWANIA",
+		"dash_during_swing" : "WŚLIZG podczas HUŚTANIA aby zyskać prędkość i wysokość"
+	},
+	"hold": "Przytrzymaj",
+	
+	"pop_up_texts" : [
+		"Gotowy", "Jazda", "Jeszcze raz", "Reset",
+		"Udało się", "Porażka", "Imię"
+	],
+	
+	"tips" : [
+		"Wbij hak aby uzyskać podwójny skok.",
+		"Podskocz podczas wślizgu aby skoczyć wyżej",
+		"Huśtaj się na jak najdłuższej wiązce aby zwiększyć prędkość",
+		"Zwolnij hak najniżej jak tylko jest to możliwe, aby zwiększyć swoją prędkość w poziomie.",
+		"Używając wślizgu huśtając się najniżej jak tylko jest to możliwe, zyskasz największą prędkość i wysokość.",
+		"Użyj podwójnego skoku tak późno jak to tylko możliwe - nigdy nie wiesz kiedy będziesz go potrzebować."
+	],
+
+	"global_ranks": {
+		"descendant": "Potomek Naezitha",
+		"inhuman": "Nieludzki",
+		"grandmaster": "Arcymistrz",
+		"master": "Mistrz",
+		"expert": "Ekspert",
+		"veteran": "Weteran",
+		"adept": "Adept",
+		"apprentice": "Uczeń",
+		"novice": "Nowicjusz"
+	},
+
+	"yes": "Tak",
+	"no": "Nie",
+	"enabled": "Włączone",
+	"disabled": "Wyłączone",
+	"on": "Włącz",
+	"off": "Wyłacz",
+	"all": "Wszystko",
+	"bottom": "Dół",
+	"middle": "Środek",
+	"personal_best": "Osobisty rekord",
+	"shadow": "Cień",
+	"done": "Gotowe",
+	"failed": "Porażka",
+
+	"secret_unlocked" : "Odblokowano skarb",
+	"secret_level_unlocked" : "Odblogowano sekretną mapę",
+	"only_in_replays": "Tylko w powtórkach",
+	"only_in_speedrun": "Wytlko w trybie wyścigu",
+	"better_than_me": "Gracz lepszy ode mnie",
+	"line": "Linia",
+	"lightning": "Oświetlenie",
+	"line_and_lightning": "Linia i Oświetlenie",
+
+	"action": {
+		"LEFT": "Lewo",
+		"RIGHT": "Prawo",
+		"JUMP": "Skok",
+		"HOOK": "Hak",
+		"DASH": "Wślizg",
+		"RESET": "Reset",
+		"APPLY": "Zastosuj",
+		"PAUSE": "Pauza",
+		"BACK": "Powrót",
+		"MENU UP": "Menu w górę",
+		"MENU DOWN": "Menu w dół",
+		"MENU LEFT": "Menu w lewo",
+		"MENU RIGHT": "Menu w prawo",
+		"LEADERBOARD": "Lista rankingowa",
+		"LEVEL SEARCH": "Wyszukiwanie mapy",
+		"SKIP TRACK": "Pominięcie mapy",
+
+		"WATCH": "Obserwuj",
+		"APPLY CHANGES": "Zastosuj zmiany",
+		"CHANGE SPEED": "Zmień szybkość",
+		"RESTART REPLAY": "Wznów powtórkę"
+	},
+
+	"promoted": "Awansowany",
+	"demoted": "Zdegradowany",
+
+	"inspect": "Zbadaj",
+	"inspecting": "Badanie",
+	"complete_the_chapter": "Ukończ ten rozdział",
+	"complete_a_chapter": "Ukończ rozdział",
+
+	"purged": "Zniszczono",
+	"name": "Imię",
+	"rating": "Wynik",
+	"rank": "Ranga",
+	"time": "Czas",
+	"your_time": "Twój czas",
+	"mastery_time": "Mistrzowski czas",
+	"total_time": "Całkowity czas",
+	"dominance": "Przewaga",
+	"locked": "Zablokowany",
+	"author": "Autor",
+
+	"menu": {
+		"settings": {
+			"restore_default": "Przywróć domyślne ustawienia",
+			
+			"gameplay": {
+				"title": "Gameplay",
+				"camera_ignores_borders": "Kamera ignoruje brzegi",
+				"input_indicator": "Wskaźnik wejścia",
+				"allow_checkpoints": "Zezwól na punkty kontrolne",
+				"speedometer": "Szybkościomierz",
+				"energy_as_number": "Energia w formie liczbowej",
+				"ghost_replay": "Powtórka ducha",
+				"ghost_visibility": "Widoczność ducha",
+				"hook_indicator": "Trajektoria haka",
+				"dash_bar": "Wskaźnik wślizgu",
+				"minimap": "Mini-mapa",
+				"skip_intro": "Pomiń intro"
+			},
+
+			"customization": {
+				"title": "Personalizacja",
+				"beam_style": "Styl wiązki",
+				"main_color": "Główny kolor",
+				"secondary_color": "Drugi kolor"
+			},
+
+			"sound": {
+				"title": "Dźwięk",
+				"master_volume": "Głośność całkowita",
+				"sfx_volume": "Głośność efektów",
+				"music_volume": "Głośność muzyki"
+			},
+
+			"graphics": {
+				"title": "Grafika",
+				"display_mode": "Sposób wyświetlania",
+				"fullscreen_resolution": "Rozdzielność w trybie pełnego ekranu",
+				"windowed_mode_resolution": "Rozdzielność w trybie niepełnoekranowym",
+				"vertical_sync": "VSynch",
+				"view_height": "Wysokość widoku",
+				"rendertexture_height": "Wysokość textury renderującej",
+				"fps_cap": "Ogranicz FPS",
+				"show_fps": "Pokaż FPS",
+				"bloom": "Bloom",
+				"background_blur": "Rozmycie tła",
+				"menu_blur": "Rozmycie w menu",
+				"ambient_coloring": "Kolor ambientu",
+				"vignette_rgb_split": "Winieta i podział RGB",
+				"render_deco_layers": "Rysowanie dekoracje",
+				"render_bg_layers": "Rysowanie tło",
+				"render_parallax_layers": "Rysowanie paralaksę",
+				"texture_smoothing_filter": "Flitr wygładzania tekstur",
+
+				"windowed": "Tryb niepełnoekranowy",
+				"borderless": "Bez ramki",
+				"fullscreen": "Pełny ekran"
+			},
+
+			"controls": {
+				"title": "Sterowanie",
+				"gamepad_layout": "Ustawienia kontrolera",
+				"disable_gamepad": "Wyłącz kontroler",
+
+				"xbox": "Xbox",
+				"dualshock": "Dualshock"
+			},
+
+			"search_settings": {
+				"title": "Wyszukaj ustawień"
+			}
+		}
+	},
+
+	"offline_mode": "TRYB OFFLINE",
+	"offline_mode_warning": "Uwaga: Wyniki nie mogą być wysłane w trybie offline!",
+
+	"new": "Nowa",
+	"page": "Strona",
+	"cancel": "Anuluj",
+	"loading": "Wczytywanie",
+	"initializing": "Inicjalizacja",
+	"loading_assets": "Wczytywanie assetów",
+	"fetching_user_data": "Pobieranie danych gracza",
+	"resume": "Wznów",
+	"restart": "Restart",
+	"refresh": "Odświerz",
+	"retry": "Ponów próbę",
+	"play": "Graj",
+	"search": "Szukaj",
+	"scroll": "Przewiń",
+	"rotate": "Obróć",
+	"scale": "Skaluj",
+	"boost": "Przyśpiesz",
+	"recording": "Nagrywanie",
+	"upload": "Wyślij",
+	"save": "Zapisz",
+	"load": "Wczytaj",
+	"resize": "Zmień rozmiar",
+	"create": "Utwórz",
+	"delete": "Usuń",
+
+	"show_top_players": "Pokaż najlepszych graczy",
+	"player_rank_text": ["Jesteś #", " wśród ", " graczy!"],
+	"lb_disabled_offline": "Lista rankingowa jest wyłączona w trybie offline",
+	"no_record": "Nie ustanowiono rekodru",
+
+	"best": "Najlepszy",
+	"best_player": "Najlepszy gracz",
+	"next_level": "Następna mapa",
+	"rate_this_level": "Oceń tę mapę",
+	"rated": "Oceniono",
+	"already_rated_level": ["Oceniłeś tę mapę na ", "!  Zmień to "],
+	"finish_first": "Ukończ tę mapę aby móc ją ocenić!",
+	"watch_last_run": "Obejrzyj moją ostatnią próbę",
+	"race_against_ghost": "Wyścig z duchem",
+	"mastered_the_level": "Osiągnięto najlepszy wynik",
+	"mastery_ghost_is_beaten": "Najlepszy duch dostał pokonany!",
+
+	"all_levels": "Wszystkie mapy",
+	"everyone": "Wszyscy",
+	"sort_property": "Sortuj według",
+	"most_played": "Najczęściej grane",
+	"most_recent": "Najnowsze",
+	"most_voted": "Najlepiej oceniane",
+	"default": "Domyślne",
+	"hide_finished": "Ukryj ukończone",
+	"show_finished": "Pokaż ukończone",
+
+	"order": "Kolejność",
+	"ascending": "Rosnąca",
+	"descending": "Malejąca",
+
+	"gr_info": "Odświerzanie rang",
+	"hourly": "godzinnie",
+	"daily": "dziennie",
+	"monthly": "miesięcznie",
+	"every": "co",
+	"hours": "godzin",
+	"days": "dni",
+	"months": "miesięcy",
+
+	"capped": "ograniczony",
+	"non_capped": "nieograniczony",
+
+	"expired_session": {
+		"connection_lost": "Utracono połączenie",
+		"new_patch": "Prawdopodobnie nowy patch został opublikowany",
+		"restart": "Uruchom grę ponownie"
+	},
+
+	"width": "Szerokość",
+	"height": "Wysokość",
+	"front": "Przód",
+	"behind": "Tył",
+	"first": "Pierwszy",
+	"second": "Drugi",
+	"both": "Obydwa",
+	"properties": "Ustawienia",
+	"accel": "Przyśpieszenie",
+	"speed": "Prędkość",
+	"rotation": "Obrót",
+	"working": "Działa",
+	"movement": "Ruch",
+	"radius": "Promień",
+	"in": "W",
+	"out": "Na zewnątrz",
+	"add": "Dodaj",
+	"set": "Set",
+	"type": "Typ",
+	"gravity": "Grawitacja",
+	"rectangle": "Prostokąt",
+	"circle": "Koło",
+	"direction": "Kierunek",
+	"size": "Rozmiar",
+	"range": "Zasięg",
+	"offset": "Offset",
+
+	"editor": {
+		"hide_layers": "Ukryj warstwy",
+		"show_layers": "Pokaż warstwy",
+
+		"stick": "Przyklej",
+
+		"homing": "Samoniemierzający",
+		"straight": "Prosty",
+		"rotating": "Obrotowy",
+		"toggling": "Skokowy",
+		"tracking": "Śledzący",
+
+		"active_time": "Czas aktywności",
+		"passive_time": "Czas bezczynności",
+		"max_length": "Maksymalna długość",
+		"iter_count": "Liczba iteracji",
+		"start_delay": "Opóźnienie startu",
+		"phase_offset": "Odstęp pomiędzy fazami",
+		"height_diff": "Różnica wysokości",
+		"linear": "Liniowo",
+		"ease": "Z wygładzeniem",
+
+		"tiles": "Kafelki",
+		"objects": "Obiekty",
+		"curr_size": "Aktualny rozmiar",
+
+		"snap": "Wyrównanie",
+
+		"helper_ghost_will_draw": "Narysuj prostokąt, który będzie aktywował DUCHA nagranej powtórki",
+		"helper_ghost_record": "Wciśnij U podczas gry próbnej aby nagrać DUCHA powtórki",
+		"helper_ghost_stop_record": "Wciśnij U aby zatrzymać nagrywanie DUCHA powtórki",
+
+		"tile_names": {
+			"earth": "Ziemia",
+			"no_grap": "Nie chwytalne",
+			"spike": "Kolce",
+			"limited_grap": "Ograniczone chwytanie",
+			"surface": "Powierzchnia",
+			"no_walljump": "Bez skoku od ściany",
+			"hookable": "Chwytalne hakiem",
+			"decoration": "Ozdoby",
+			"props": "Otoczenie"
+		},
+
+		"object_names": {
+			"blade": "Ostrze",
+			"turret": "Działko",
+			"killer_bomb": "Bomba Killer",
+			"walter_bomb": "Bomba Walter",
+			"laser": "Laser",
+			"accelerator": "Akcelerator",
+			"water": "Woda",
+			"waterfall": "Wodospad",
+			"jump_pad": "Jump Pad",
+			"checkpoint": "Checkpoint",
+			"player_spawn": "Start gracza",
+			"end_remnant": "Punkt docelowy"
+		},
+
+		"binds": {
+			"coordinate": "Współrzędne",
+			"zoom": "Zbliżenie",
+			"undo": "Cofnij",
+			"redo": "Ponów",
+			"toggle_grid": "Przełącz siatkę",
+			"change_category": "Przełącz kategorię",
+			"hide_gui": "Ukryj interfejs",
+			"toggle_ai_update": "Przełącz aktualizację sztucznej inteligencji",
+			"boost_camera_speed": "Szybsza kamera",
+			"move_camera": "Porusz kamerą",
+			"drag_object": "Przeciągnij obiekt",
+			"copy_object_properties": "Skopiuj właściwości obiektu",
+			"area_fill": "Wypełnienie powierzchni",
+			"quick_save": "Quick-save",
+	
+			"rotate_object": "Obróć",
+			"play": "Graj",
+			"obj_portal": "Portal",
+			"obj_hook_band": "Zaczep haka",
+			"obj_colorize": "Pokoloruj mapę",
+			"record_ghost": "Nagraj ducha",
+
+			"select_playground_tile_layer": "Plac zabaw",
+			"select_static_bg_tile_layer": "Statyczne tło",
+			"select_parallax_bg1_tile_layer": "Tło z paralaksą #1",
+			"select_parallax_bg2_tile_layer": "Tło z paralaksą #2",
+			"select_playground_deco_tile_layer": "Przednia warstwa"
+		},
+
+		"file_name": "Nazwa pliku",
+		"level_name": "Nazwa mapy",
+
+		"upload_level": "Wyślij mapę",
+		"upload_level_warning": "Wyślij ostrzeżenie do mapy",
+		"upload_level_label1": "Uwaga: Wysyłając mapę ponownie wyczyścisz tablicę wyników!",
+		"upload_level_label2": "Aby wysłać mapę, musisz ukończyć ją conajmniej raz.",
+
+		"clear_everything": "Usuń wszystko",
+		"save_level": "Zapisz mapę",
+		"load_level": "Wczytaj mapę",
+		"load_level_label1": "Uwaga: nazwa pliku jest kombinacją nazwy autora i mapy!",
+		"load_level_label2": ["np. \"username-levelname\" jak \"naezith-Stalactites\" (Plik powinien być w folderze ", " )"],
+
+		"resize_level": "Zmień rozmiar mapy",
+		"new_size": "Nowy rozmiar",
+		"new_level": "Nowa mapa",
+		"delete_uploaded_level": "Usuń wysłaną mapę"
+	},
+
+	"intro" : [
+		"Legenda głosi historię o smoku zrodzonym w burzy imieniem Naezith, który niegdyś błąkał się po tych ziemiach",
+		"Mówi się, że po jego śmierci, zwkłoki smoka nadal kryły olbrzymią moc,",
+		"która z pomocą sił natury, powoli została rozproszona po całym świecie. Jednak Naezith nie chciał dzielić się mocą, którą wciąż uważał za swoją własność.",
+		"Jego dusza wciąż pozostaje uwięziona, próbując znaleźć sposób aby zniszczyć szczątki magii.",
+		"Tysiące lat później, rządny przygód podróżnik imieniem Kayra",
+		"usłyszał pogłoski o zwłokach odpoczywając w jaskini, zanurkował w nią więc, używając swojej liny i zaufanego haka."
+		"Niestety stary hak zawiódł Kayra, który zaś wpadł",
+		"w wydawać by się mogło nieskończenie głęboki dół...",
+		"Zbudził się, i przerażony zobaczył dwa świecące pazury, magicznie przytwierdzone do jego dłoni.",
+		"Oszalały w strachu, dziko machał swoimi rękoma - jednak zaklęcie nieprzerwanie trwało.",
+		"Zamiast tego pazór wysrzelił w przód, mocno wbijając się w skalną ścianę. Magiczna wiązka trwale łączyła pazury z jego dłońmi, działając podobnie jak jego stary hak na linie.",
+		"Nagle Naezith wstąpił w Kayra, oznajmijąc, że potrzebował fizycznego ciała by osiągnąc swoje cele.",
+		"Obiecując niestworzone bogactwa, Kayr przystał, aby Smok częściowo zajął jego ciało, i używając swoich mocy rozpoczął swoją podróż by zniszczyć..."
+	],
+	
+	"translation": "Tłumaczenie",
+	"translated_by": "Krzysiek Siewiorek"
+}
