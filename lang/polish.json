@@ -148,7 +148,8 @@
 				"title": "Personalizacja",
 				"beam_style": "Styl wiązki",
 				"main_color": "Główny kolor",
-				"secondary_color": "Drugi kolor"
+				"secondary_color": "Drugi kolor",
+				"ignore_replay_style": "Ignore Replay Style"
 			},
 
 			"sound": {
