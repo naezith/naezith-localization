@@ -148,7 +148,8 @@
 				"title": "Özelleştirme",
 				"beam_style": "Kanca Işın Stili",
 				"main_color": "Ana Renk",
-				"secondary_color": "İkincil Renk"
+				"secondary_color": "İkincil Renk",
+				"ignore_replay_style": "Ignore Replay Style"
 			},
 
 			"sound": {

@@ -148,7 +148,8 @@
 				"title": "Customization",
 				"beam_style": "Hook Beam Style",
 				"main_color": "Main Color",
-				"secondary_color": "Secondary Color"
+				"secondary_color": "Secondary Color",
+				"ignore_replay_style": "Ignore Replay Style"
 			},
 
 			"sound": {

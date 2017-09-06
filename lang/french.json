@@ -148,7 +148,8 @@
 				"title": "Personnalisation",
 				"beam_style": "Style Rayon du Grappin",
 				"main_color": "Couleur Principale",
-				"secondary_color": "Couleur Secondaire"
+				"secondary_color": "Couleur Secondaire",
+				"ignore_replay_style": "Ignore Replay Style"
 			},
 
 			"sound": {

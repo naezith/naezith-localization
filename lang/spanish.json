@@ -148,7 +148,8 @@
 				"title": "Ajustes de personalización",
 				"beam_style": "Estilo del rayo de luz del garfio",
 				"main_color": "Color principal",
-				"secondary_color": "Color secundario"
+				"secondary_color": "Color secundario",
+				"ignore_replay_style": "Ignore Replay Style"
 			},
 
 			"sound": {

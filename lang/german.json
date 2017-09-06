@@ -148,7 +148,8 @@
 				"title": "Anpassung",
 				"beam_style": "Hook Beam Style",
 				"main_color": "Hauptfarbe",
-				"secondary_color": "Sekundärfarbe"
+				"secondary_color": "Sekundärfarbe",
+				"ignore_replay_style": "Ignore Replay Style"
 			},
 
 			"sound": {
