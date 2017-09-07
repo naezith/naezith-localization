@@ -127,7 +127,7 @@
 
 	"menu": {
 		"settings": {
-			"restore_default": "Restore Default Settings",
+			"restore_default": "Öntanımlı Ayarları Geri Yükle",
 			
 			"gameplay": {
 				"title": "Oynanış",
@@ -135,7 +135,7 @@
 				"input_indicator": "Giriş Göstergesi",
 				"allow_checkpoints": "Çek Noktarına İzin Ver",
 				"speedometer": "Hız Göstergesi",
-				"energy_as_number": "Enejiyi Sayı Olarak Göster",
+				"energy_as_number": "Enerjiyi Sayı Olarak Göster",
 				"ghost_replay": "Hayalet Yeniden Oynatım",
 				"ghost_visibility": "Hayalet Görünürlüğü",
 				"hook_indicator": "Kanca Yolu Göstergesi",
@@ -149,7 +149,7 @@
 				"beam_style": "Kanca Işın Stili",
 				"main_color": "Ana Renk",
 				"secondary_color": "İkincil Renk",
-				"ignore_replay_style": "Ignore Replay Style"
+				"ignore_replay_style": "Yeniden Oynatım Stilini Yoksay"
 			},
 
 			"sound": {
@@ -166,7 +166,7 @@
 				"windowed_mode_resolution": "Pencere Çözünürlüğü",
 				"vertical_sync": "Dikey Senkronizasyon",
 				"view_height": "Görüş Yüksekliği",
-				"rendertexture_height": "Render Texture Height",
+				"rendertexture_height": "Tarama Dokusu Yüksekliği",
 				"fps_cap": "FPS Limiti",
 				"show_fps": "FPS'i göster",
 				"bloom": "Bloom",
@@ -415,15 +415,15 @@
 	"intro" : [
 		"Efsaneler, bir zamanlar bu topraklarda dolaşan Naezith adında güçlü ve görkemli bir ejderhadan bahseder.",
 		"Denilmektedir ki ölümünden sonra ejderhanın bedeninin kalıntıları hala muazzam bir güç saklar,",
-		"were slowly dispersed across the world by natural events. But Naezith did not want to share the power he still considered his own.",
-		"And so, his soul still lingered, trying to find a way to purge the remnants of their magic.",
+		"bu kalıntılar doğal olaylar yüzünden yavaş yavaş dünyaya yayıldı, ancak Naezith hala kendine ait gördüğü gücünü paylaşmak istemedi.",
+		"Ve bu yüzden ruhu hala kalıntılarını sihirlerinden arındırmanın bir yolunu bulmaya çalışmak için ayrılamıyordu.",
 		"Binlerce yıl sonra Kayra adına bir maceraperest,",
 		"mağaranın birinin içinde yatan bir kalıntıya dair söylentiler duyar ve halatıyla güvenilir kancasını kullanarak dalışa geçer.",
 		"Fakat eski kanca sonunda dayanamaz ve Kayra'nın düşmesine yol açar,",
 		"görünüşte sonu olmayan bir çukura doğru...",
 		"Uyandığında dehşete kapılır ve parlayan iki büyük tırnağı sihirli bir şekilde ellerine bağlı bulur.",
 		"Korkudan deliye döner, kollarını çılgınca sallar, ancak büyü bozulmaz.",
-		"Instead the claw shot forth, planting itself firmly in the stone wall. A magical beam still linked the claws to his hands, working much like his old hook.",
+		"Bunun yerine tırnak ileri doğru fırlar ve taş duvara sıkıca tutunur. Tırnak ve eli arasında sihirli bir ışın vardır ve bu, eski kancasına epey benzer şekilde çalışmaktadır.",
 		"Aniden, Naezith, Kayra'nın karşısına çıkar ve ona amaçlarını gerçekleştirmek için fiziksel bir vücuda ihtiyaç duyduğunu söyler.",
 		"Sınırsız hazine sözü karşılığında Kayra, ejderhanın vücuduna kısmen egemen olmasını kabul eder ve onun güçlerini kullanarak kalıntıları arındırma arayışına başlar..."
 	],
