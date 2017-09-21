@@ -199,6 +199,7 @@
 		}
 	},
 
+	"offline": "OFFLINE",
 	"offline_mode": "TRYB OFFLINE",
 	"offline_mode_warning": "Uwaga: Wyniki nie mogą być wysłane w trybie offline!",
 

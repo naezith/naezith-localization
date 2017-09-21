@@ -199,6 +199,7 @@
 		}
 	},
 
+	"offline": "HORS-LIGNE",
 	"offline_mode": "MODE HORS-LIGNE",
 	"offline_mode_warning": "ATTENTION: vous ne pouvez pas publier vos scores en mode hors-ligne",
 

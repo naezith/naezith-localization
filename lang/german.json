@@ -199,6 +199,7 @@
 		}
 	},
 
+	"offline": "OFFLINE",
 	"offline_mode": "OFFLINE MODUS",
 	"offline_mode_warning": "ACHTUNG: Fortschritt kann im Offline Modus nicht hochgeladen werden.",
 

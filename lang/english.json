@@ -199,6 +199,7 @@
 		}
 	},
 
+	"offline": "OFFLINE",
 	"offline_mode": "OFFLINE MODE",
 	"offline_mode_warning": "WARNING: Can't submit scores in the offline mode!",
 

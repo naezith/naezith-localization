@@ -199,6 +199,7 @@
 		}
 	},
 
+	"offline": "SIN CONEXIÓN",
 	"offline_mode": "MODO SIN CONEXIÓN",
 	"offline_mode_warning": "ATENCIÓN: ¡tu puntuación no quedará registrada en el modo sin conexión!",
 
