@@ -188,6 +188,8 @@
 				"title": "Controles",
 				"gamepad_layout": "Configurar mando",
 				"disable_gamepad": "Desconectar mando",
+				"gamepad_stick_threshold": "Gamepad Stick Threshold",
+				"gamepad_trigger_threshold": "Gamepad Trigger Threshold",
 
 				"xbox": "Xbox",
 				"dualshock": "Dualshock"

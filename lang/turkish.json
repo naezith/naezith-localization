@@ -188,6 +188,8 @@
 				"title": "Kontroller",
 				"gamepad_layout": "Oyun Tablası Yerleşimi",
 				"disable_gamepad": "Oyun Tablasını Devre Dışı Bırak",
+				"gamepad_stick_threshold": "Gamepad Stick Threshold",
+				"gamepad_trigger_threshold": "Gamepad Trigger Threshold",
 
 				"xbox": "Xbox",
 				"dualshock": "Dualshock"
