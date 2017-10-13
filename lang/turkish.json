@@ -72,6 +72,8 @@
 	"shadow": "Gölge",
 	"done": "Tamamlandı",
 	"failed": "Başarısız",
+	"low": "Low",
+	"high": "High",
 
 	"secret_unlocked" : "Bir gizin kilidi açıldı",
 	"secret_level_unlocked" : "Bir Gizli Bölümün kilidi açıldı",
@@ -179,6 +181,7 @@
 				"render_bg_layers": "Arka Plan Katmanlarını Tara",
 				"render_parallax_layers": "Paralaks Katmanlarını Tara",
 				"texture_smoothing_filter": "Doku Düzeltme Filtresi",
+				"texture_quality": "Doku Kalitesi",
 
 				"windowed": "Pencereli",
 				"borderless": "Kenarlıksız",

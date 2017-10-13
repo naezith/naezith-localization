@@ -72,6 +72,8 @@
 	"shadow": "Sombra",
 	"done": "Subida completada",
 	"failed": "Error",
+	"low": "Low",
+	"high": "High",
 
 	"secret_unlocked" : "Secreto desbloqueado",
 	"secret_level_unlocked" : "Nivel secreto desbloqueado",
@@ -179,6 +181,7 @@
 				"render_bg_layers": "Mostrar fondos",
 				"render_parallax_layers": "Mostrar efecto de paralaje",
 				"texture_smoothing_filter": "Filtro de suavizado de texturas",
+				"texture_quality": "Texture Quality",
 
 				"windowed": "Ventana",
 				"borderless": "Ventana sin bordes",

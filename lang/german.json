@@ -72,6 +72,8 @@
 	"shadow": "Schatten",
 	"done": "Abgeschlossen",
 	"failed": "Fehlgeschlagen",
+	"low": "Low",
+	"high": "High",
 
 	"secret_unlocked" : "Ein Geheimnis wurde freigeschaltet",
 	"secret_level_unlocked" : "Geheime Karte freigeschaltet",
@@ -179,6 +181,7 @@
 				"render_bg_layers": "Hintergrundebenen rendern",
 				"render_parallax_layers": "Prallax Ebenen rendern",
 				"texture_smoothing_filter": "Texturglättungs-Filter",
+				"texture_quality": "Texture Quality",
 
 				"windowed": "Fenster",
 				"borderless": "Fenster ohne Rand",

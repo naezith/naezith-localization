@@ -72,6 +72,8 @@
 	"shadow": "Ombre",
 	"done": "Fait",
 	"failed": "Échoué",
+	"low": "Low",
+	"high": "High",
 
 	"secret_unlocked" : "Un secret a été débloqué",
 	"secret_level_unlocked" : "Un niveau secret a été débloqué",
@@ -179,6 +181,7 @@
 				"render_bg_layers": "Afficher les arrières plans",
 				"render_parallax_layers": "Afficher les arrières plans défilants",
 				"texture_smoothing_filter": "Filtre de lissage des textures",
+				"texture_quality": "Texture Quality",
 
 				"windowed": "Fenêtré",
 				"borderless": "Sans bords",

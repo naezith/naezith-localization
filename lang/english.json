@@ -72,6 +72,8 @@
 	"shadow": "Shadow",
 	"done": "Done",
 	"failed": "Failed",
+	"low": "Low",
+	"high": "High",
 
 	"secret_unlocked" : "Unlocked a secret",
 	"secret_level_unlocked" : "Unlocked a Secret Level",
@@ -179,6 +181,7 @@
 				"render_bg_layers": "Render Background Layers",
 				"render_parallax_layers": "Render Parallax Layers",
 				"texture_smoothing_filter": "Texture Smoothing Filter",
+				"texture_quality": "Texture Quality",
 
 				"windowed": "Windowed",
 				"borderless": "Borderless",

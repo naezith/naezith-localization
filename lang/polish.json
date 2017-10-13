@@ -72,6 +72,8 @@
 	"shadow": "Cień",
 	"done": "Gotowe",
 	"failed": "Porażka",
+	"low": "Low",
+	"high": "High",
 
 	"secret_unlocked" : "Odblokowano skarb",
 	"secret_level_unlocked" : "Odblogowano sekretną mapę",
@@ -179,6 +181,7 @@
 				"render_bg_layers": "Rysowanie tło",
 				"render_parallax_layers": "Rysowanie paralaksę",
 				"texture_smoothing_filter": "Flitr wygładzania tekstur",
+				"texture_quality": "Texture Quality",
 
 				"windowed": "Tryb niepełnoekranowy",
 				"borderless": "Bez ramki",
