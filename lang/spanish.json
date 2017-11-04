@@ -127,6 +127,8 @@
 	"dominance": "Dominio",
 	"locked": "Bloqueado",
 	"author": "Autor",
+	
+	"hud": "HUD",
 
 	"menu": {
 		"settings": {
@@ -144,7 +146,9 @@
 				"hook_indicator": "Retícula del garfio",
 				"dash_bar": "Medidor de aceleración",
 				"minimap": "Minimapa",
-				"skip_intro": "Skip Intro"
+				"skip_intro": "Skip Intro",
+				"skip_ending": "Skip Ending",
+				"speedrun_levels_listing": "Speedrun Levels Listing"
 			},
 
 			"customization": {
@@ -194,6 +198,7 @@
 				"disable_gamepad": "Desconectar mando",
 				"gamepad_stick_threshold": "Gamepad Stick Threshold",
 				"gamepad_trigger_threshold": "Gamepad Trigger Threshold",
+				"gamepad_vibration": "Gamepad Vibration",
 
 				"xbox": "Xbox",
 				"dualshock": "Dualshock"

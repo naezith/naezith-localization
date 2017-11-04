@@ -127,6 +127,8 @@
 	"dominance": "Przewaga",
 	"locked": "Zablokowany",
 	"author": "Autor",
+	
+	"hud": "HUD",
 
 	"menu": {
 		"settings": {
@@ -144,7 +146,9 @@
 				"hook_indicator": "Trajektoria haka",
 				"dash_bar": "Wskaźnik wślizgu",
 				"minimap": "Mini-mapa",
-				"skip_intro": "Pomiń intro"
+				"skip_intro": "Pomiń intro",
+				"skip_ending": "Skip Ending",
+				"speedrun_levels_listing": "Speedrun Levels Listing"
 			},
 
 			"customization": {
@@ -194,6 +198,7 @@
 				"disable_gamepad": "Wyłącz kontroler",
 				"gamepad_stick_threshold": "Gamepad Stick Threshold",
 				"gamepad_trigger_threshold": "Gamepad Trigger Threshold",
+				"gamepad_vibration": "Gamepad Vibration",
 
 				"xbox": "Xbox",
 				"dualshock": "Dualshock"

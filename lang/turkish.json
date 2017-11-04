@@ -127,6 +127,8 @@
 	"dominance": "Hakimiyet",
 	"locked": "Kilitli",
 	"author": "Yaratıcı",
+	
+	"hud": "HUD",
 
 	"menu": {
 		"settings": {
@@ -144,7 +146,9 @@
 				"hook_indicator": "Kanca Yolu Göstergesi",
 				"dash_bar": "Çizgi Çubuğu",
 				"minimap": "Mini Harita",
-				"skip_intro": "Tanıtımı Geç"
+				"skip_intro": "Tanıtımı Geç",
+				"skip_ending": "Skip Ending",
+				"speedrun_levels_listing": "Speedrun Levels Listing"
 			},
 
 			"customization": {
@@ -192,8 +196,9 @@
 				"title": "Kontroller",
 				"gamepad_layout": "Oyun Tablası Yerleşimi",
 				"disable_gamepad": "Oyun Tablasını Devre Dışı Bırak",
-				"gamepad_stick_threshold": "Gamepad Stick Threshold",
-				"gamepad_trigger_threshold": "Gamepad Trigger Threshold",
+				"gamepad_stick_threshold": "Gamepad Stick Eşiği",
+				"gamepad_trigger_threshold": "Gamepad Trigger Eşiği",
+				"gamepad_vibration": "Gamepad Titreşimi",
 
 				"xbox": "Xbox",
 				"dualshock": "Dualshock"
