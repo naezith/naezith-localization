@@ -34,7 +34,7 @@
 	"hold": "Hold",
 	
 	"pop_up_texts" : [
-		"Ready", "Go", "Relapse", "Reset",
+		"Ready", "Go", "Relapse", "Reset", "Recall",
 		"Done", "Failed", "Name"
 	],
 	
@@ -91,6 +91,7 @@
 		"HOOK": "Hook",
 		"DASH": "Dash",
 		"RESET": "Reset",
+		"RECALL": "Recall",
 		"APPLY": "Apply",
 		"PAUSE": "Pause",
 		"BACK": "Back",

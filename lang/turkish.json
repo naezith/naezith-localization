@@ -34,7 +34,7 @@
 	"hold": "Basılı tut",
 	
 	"pop_up_texts" : [
-		"Hazır", "Başla", "Tekrarla", "Sıfırla",
+		"Hazır", "Başla", "Tekrarla", "Sıfırla", "Çağrı",
 		"Tamamlandı", "Başarısız", "İsim"
 	],
 	
@@ -91,6 +91,7 @@
 		"HOOK": "Kanca",
 		"DASH": "Depar",
 		"RESET": "Sıfırla",
+		"RECALL": "Çağrı",
 		"APPLY": "Uygula",
 		"PAUSE": "Duraklat",
 		"BACK": "Geri",

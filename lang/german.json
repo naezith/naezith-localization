@@ -34,7 +34,7 @@
 	"hold": "Hold",
 	
 	"pop_up_texts" : [
-		"Bereit", "Start", "Zurückspulen", "Neustart",
+		"Bereit", "Start", "Zurückspulen", "Neustart", "Recall",
 		"Fertig", "Fehlgeschlagen", "Name"
 	],
 	
@@ -91,6 +91,7 @@
 		"HOOK": "Hook",
 		"DASH": "Dash",
 		"RESET": "Zurücksetzen",
+		"RECALL": "Recall",
 		"APPLY": "Übernehmen",
 		"PAUSE": "Zurücksetzen",
 		"BACK": "Zurück",

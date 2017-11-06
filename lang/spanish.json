@@ -34,7 +34,7 @@
 	"hold": "Hold",
 	
 	"pop_up_texts" : [
-		"¿Listos?", "¡Ya!", "Relapso", "Reinicio",
+		"¿Listos?", "¡Ya!", "Relapso", "Reinicio", "Recall",
 		"Completado", "Fallido", "Nombre"
 	],
 	
@@ -91,6 +91,7 @@
 		"HOOK": "Garfio",
 		"DASH": "Aceleración",
 		"RESET": "Reiniciar",
+		"RECALL": "Recall",
 		"APPLY": "Aplicar",
 		"PAUSE": "Pausa",
 		"BACK": "Volver",

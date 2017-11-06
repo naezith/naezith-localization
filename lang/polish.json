@@ -34,7 +34,7 @@
 	"hold": "Przytrzymaj",
 	
 	"pop_up_texts" : [
-		"Gotowy", "Jazda", "Jeszcze raz", "Reset",
+		"Gotowy", "Jazda", "Jeszcze raz", "Reset", "Recall",
 		"Udało się", "Porażka", "Imię"
 	],
 	
@@ -91,6 +91,7 @@
 		"HOOK": "Hak",
 		"DASH": "Wślizg",
 		"RESET": "Reset",
+		"RECALL": "Recall",
 		"APPLY": "Zastosuj",
 		"PAUSE": "Pauza",
 		"BACK": "Powrót",

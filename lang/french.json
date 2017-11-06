@@ -34,7 +34,7 @@
 	"hold": "Hold",
 	
 	"pop_up_texts" : [
-		"Prêt", "Partez", "Relapse", "Recommencer",
+		"Prêt", "Partez", "Relapse", "Recommencer", "Recall",
 		"Fait", "Échoué", "Nom"
 	],
 	
@@ -91,6 +91,7 @@
 		"HOOK": "Grappin",
 		"DASH": "Dash",
 		"RESET": "Recommencer",
+		"RECALL": "Recall",
 		"APPLY": "Appliquer",
 		"PAUSE": "Pause",
 		"BACK": "Retour",
