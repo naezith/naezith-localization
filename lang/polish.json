@@ -21,6 +21,8 @@
 	"level_selection": "Wybór Mapy",
 	"speedrun_selection": "Wybór Wyścigu",
 	"speedrun_lb": "Ranking Trybu Wyścigu",
+	
+	"window_is_out_of_focus": "Window is out of focus",
 
 	"tutorial": "Tutorial",
 	"tutorial_texts": {

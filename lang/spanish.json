@@ -21,6 +21,8 @@
 	"level_selection": "Seleccionar nivel",
 	"speedrun_selection": "Seleccionar speedrun",
 	"speedrun_lb": "Clasificación de speedrun",
+	
+	"window_is_out_of_focus": "Window is out of focus",
 
 	"tutorial": "Tutorial",
 	"tutorial_texts": {

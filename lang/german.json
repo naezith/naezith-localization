@@ -21,6 +21,8 @@
 	"level_selection": "Kartenauswahl",
 	"speedrun_selection": "Speedrun Auswahl",
 	"speedrun_lb": "Speedrun Bestenlisten",
+	
+	"window_is_out_of_focus": "Window is out of focus",
 
 	"tutorial": "Einführung",
 	"tutorial_texts": {

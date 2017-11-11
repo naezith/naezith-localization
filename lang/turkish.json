@@ -21,6 +21,8 @@
 	"level_selection": "Bölüm Seçimi",
 	"speedrun_selection": "Hızlı Koşu Seçimi",
 	"speedrun_lb": "Hızlı Koşu Liderlik Tablosu",
+	
+	"window_is_out_of_focus": "Window is out of focus",
 
 	"tutorial": "Eğitim",
 	"tutorial_texts": {

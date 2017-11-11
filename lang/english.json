@@ -21,6 +21,8 @@
 	"level_selection": "Level Selection",
 	"speedrun_selection": "Speedrun Selection",
 	"speedrun_lb": "Speedrun Leaderboard",
+	
+	"window_is_out_of_focus": "Window is out of focus",
 
 	"tutorial": "Tutorial",
 	"tutorial_texts": {
