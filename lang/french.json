@@ -5,6 +5,7 @@
 
 	"language": "Langue",
 	
+	"age": "Age",
 	"date": "Date",
 	"player": "Player",
 
@@ -284,6 +285,7 @@
 	"hours": "heures",
 	"days": "jours",
 	"months": "mois",
+	"today": "today",
 
 	"capped": "limité",
 	"non_capped": "illimité",

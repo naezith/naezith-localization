@@ -5,6 +5,7 @@
 
 	"language": "Dil",
 	
+	"age": "Age",
 	"date": "Tarih",
 	"player": "Oyuncu",
 
@@ -284,6 +285,7 @@
 	"hours": "saatte",
 	"days": "günde",
 	"months": "ayda",
+	"today": "bugün",
 
 	"capped": "capped",
 	"non_capped": "non-capped",
