@@ -282,9 +282,9 @@
 	"daily": "günlük",
 	"monthly": "aylık",
 	"every": "her",
-	"hours": "saatte",
-	"days": "günde",
-	"months": "ayda",
+	"hours": "saat",
+	"days": "gün",
+	"months": "ay",
 	"today": "bugün",
 
 	"capped": "capped",
