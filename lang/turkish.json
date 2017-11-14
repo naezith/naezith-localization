@@ -285,8 +285,8 @@
 	"hours": "saat",
 	"days": "gün",
 	"months": "ay",
-	"today": "bugün",
-	"yesterday": "dün",
+	"today": "Bugün",
+	"yesterday": "Dün",
 
 	"capped": "capped",
 	"non_capped": "non-capped",

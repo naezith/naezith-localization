@@ -285,8 +285,8 @@
 	"hours": "horas",
 	"days": "días",
 	"months": "meses",
-	"today": "today",
-	"yesterday": "yesterday",
+	"today": "Today",
+	"yesterday": "Yesterday",
 
 	"capped": "limitado",
 	"non_capped": "sin límite",
