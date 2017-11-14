@@ -286,6 +286,7 @@
 	"days": "days",
 	"months": "months",
 	"today": "today",
+	"yesterday": "yesterday",
 
 	"capped": "capped",
 	"non_capped": "non-capped",

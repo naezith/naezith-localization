@@ -286,6 +286,7 @@
 	"days": "jours",
 	"months": "mois",
 	"today": "today",
+	"yesterday": "yesterday",
 
 	"capped": "limité",
 	"non_capped": "illimité",
