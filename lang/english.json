@@ -4,6 +4,9 @@
 	"lang_name_localized": "English",
 
 	"language": "Language",
+	
+	"date": "Date",
+	"player": "Player",
 
 	"auto": "Auto",
 	"paused": "Paused",
