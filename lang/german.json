@@ -187,6 +187,7 @@
 				"background_blur": "Hintergrundunschärfe",
 				"menu_blur": "Menü-Unschärfe",
 				"ambient_coloring": "Umgebung einfärben",
+				"rgb_split": "RGB Aufteilen",
 				"vignette_rgb_split": "Vignette & RGB Aufteilen",
 				"render_deco_layers": "Dekorationsebenen rendern",
 				"render_bg_layers": "Hintergrundebenen rendern",

@@ -187,6 +187,7 @@
 				"background_blur": "Arka Plan Bulanıklığı",
 				"menu_blur": "Menü Bulanıklığı",
 				"ambient_coloring": "Çevresel Renklendirme",
+				"rgb_split": "Kırmızı Yeşil Mavi Ayrıştırma",
 				"vignette_rgb_split": "Vinyet ve KYM (Kırmızı Yeşil Mavi) Ayrıştırma",
 				"render_deco_layers": "Dekorasyon Katmanlarını Tara",
 				"render_bg_layers": "Arka Plan Katmanlarını Tara",

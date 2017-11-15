@@ -187,6 +187,7 @@
 				"background_blur": "Flou d'arrière plan",
 				"menu_blur": "Menu flou",
 				"ambient_coloring": "Coloration ambiante",
+				"rgb_split": "Aberration Chromatique",
 				"vignette_rgb_split": "Vignette & Aberration Chromatique",
 				"render_deco_layers": "Afficher les décorations",
 				"render_bg_layers": "Afficher les arrières plans",

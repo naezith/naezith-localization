@@ -187,6 +187,7 @@
 				"background_blur": "Rozmycie tła",
 				"menu_blur": "Rozmycie w menu",
 				"ambient_coloring": "Kolor ambientu",
+				"rgb_split": "Podział RGB",
 				"vignette_rgb_split": "Winieta i podział RGB",
 				"render_deco_layers": "Rysowanie dekoracje",
 				"render_bg_layers": "Rysowanie tło",

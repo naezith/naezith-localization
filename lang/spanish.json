@@ -187,6 +187,7 @@
 				"background_blur": "Desenfoque del fondo",
 				"menu_blur": "Desenfoque del menú",
 				"ambient_coloring": "Paleta de color",
+				"rgb_split": "Aberración Cromática",
 				"vignette_rgb_split": "Viñeteado y aberración cromática",
 				"render_deco_layers": "Mostrar decorados",
 				"render_bg_layers": "Mostrar fondos",
