@@ -155,6 +155,7 @@
 				"minimap": "Mini Harita",
 				"skip_intro": "Tanıtımı Geç",
 				"skip_ending": "Skip Ending Cinematic",
+				"download_ghost": "Hayaleti İndir",
 				"speedrun_levels_listing": "Speedrun Levels Listing"
 			},
 
@@ -168,6 +169,7 @@
 
 			"sound": {
 				"title": "Ses",
+				"shuffle_playlist": "Shuffle Playlist",
 				"master_volume": "Ana Ses",
 				"sfx_volume": "Ses Efekt Seviyesi",
 				"music_volume": "Müzik Ses Seviyesi"

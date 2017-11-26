@@ -155,6 +155,7 @@
 				"minimap": "Mini-map",
 				"skip_intro": "Skip Intro",
 				"skip_ending": "Skip Ending Cinematic",
+				"download_ghost": "Download Ghost",
 				"speedrun_levels_listing": "Speedrun Levels Listing"
 			},
 
@@ -168,6 +169,7 @@
 
 			"sound": {
 				"title": "Lautstärke",
+				"shuffle_playlist": "Shuffle Playlist",
 				"master_volume": "Master Lautstärke",
 				"sfx_volume": "Effekt Lautstärke",
 				"music_volume": "Musik Lautstärke"
