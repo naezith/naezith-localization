@@ -157,6 +157,8 @@
 				"skip_ending": "Skip Ending Cinematic",
 				"download_ghost": "Download Ghost",
 				"always_show_mastery_ghost": "Always Show Mastery Ghost",
+				"fade_ghost": "Fade Ghost",
+				"shadow_ghost": "Shadow Ghost",
 				"speedrun_levels_listing": "Speedrun Levels Listing"
 			},
 
