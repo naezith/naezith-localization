@@ -5,9 +5,9 @@
 
 	"language": "Język",
 	
-	"age": "Age",
-	"date": "Date",
-	"player": "Player",
+	"age": "Wiek",
+	"date": "Data",
+	"player": "Gracz",
 
 	"auto": "Auto",
 	"paused": "Pauza",
@@ -17,7 +17,7 @@
 	"speedrun": "Szybki Bieg",
 	"custom_levels": "Mapy Autorskie",
 	"global_rankings": "Ranking Światowy",
-	"settings": "Settings",
+	"settings": "Ustawienia",
 	"credits": "Autorzy",
 	"level_editor": "Edytor Map",
 	"quit": "Wyjście",
@@ -28,7 +28,7 @@
 	
 	"window_is_out_of_focus": "Window is out of focus",
 
-	"tutorial": "Tutorial",
+	"tutorial": "Samouczek",
 	"tutorial_texts": {
 		"hold_hook_to_swing": "Przytrzymaj HAK aby się HUSTAĆ",
 		"hold_hook_and_jump_to_pull": "Przytrzymaj HAK + SKOK aby się WCIĄGNĄĆ",
@@ -78,17 +78,17 @@
 	"shadow": "Cień",
 	"done": "Gotowe",
 	"failed": "Porażka",
-	"low": "Low",
-	"high": "High",
+	"low": "Niska",
+	"high": "Wysoka",
 
 	"secret_unlocked" : "Odblokowano skarb",
-	"secret_level_unlocked" : "Odblogowano sekretną mapę",
+	"secret_level_unlocked" : "Odblokowano sekretną mapę",
 	"only_in_replays": "Tylko w powtórkach",
-	"only_in_speedrun": "Wytlko w trybie wyścigu",
+	"only_in_speedrun": "Tylko w trybie wyścigu",
 	"better_than_me": "Gracz lepszy ode mnie",
 	"line": "Linia",
-	"lightning": "Oświetlenie",
-	"line_and_lightning": "Linia i Oświetlenie",
+	"lightning": "Piorun",
+	"line_and_lightning": "Linia & piorun",
 
 	"action": {
 		"LEFT": "Lewo",
@@ -144,7 +144,7 @@
 			"gameplay": {
 				"title": "Gameplay",
 				"camera_ignores_borders": "Kamera ignoruje brzegi",
-				"input_indicator": "Wskaźnik wejścia",
+				"input_indicator": "Widok przycisków na ekranie",
 				"allow_checkpoints": "Zezwól na punkty kontrolne",
 				"speedometer": "Szybkościomierz",
 				"energy_as_number": "Energia w formie liczbowej",
@@ -154,12 +154,12 @@
 				"dash_bar": "Wskaźnik wślizgu",
 				"minimap": "Mini-mapa",
 				"skip_intro": "Pomiń intro",
-				"skip_ending": "Skip Ending Cinematic",
-				"download_ghost": "Download Ghost",
-				"always_show_mastery_ghost": "Always Show Mastery Ghost",
+				"skip_ending": "Pomiń animację końcową",
+				"download_ghost": "Pobierz ducha",
+				"always_show_mastery_ghost": "Zawsze pokazuj Ducha Mistrzostwa",
 				"fade_ghost": "Fade Ghost",
 				"shadow_ghost": "Shadow Ghost",
-				"speedrun_levels_listing": "Speedrun Levels Listing"
+				"speedrun_levels_listing": "Lista map w trybie wyścigu"
 			},
 
 			"customization": {
@@ -195,10 +195,10 @@
 				"rgb_split": "Podział RGB",
 				"vignette_rgb_split": "Winieta i podział RGB",
 				"render_deco_layers": "Rysowanie dekoracje",
-				"render_bg_layers": "Rysowanie tło",
-				"render_parallax_layers": "Rysowanie paralaksę",
+				"render_bg_layers": "Renderuj tło",
+				"render_parallax_layers": "Renderuj paralaksę",
 				"texture_smoothing_filter": "Flitr wygładzania tekstur",
-				"texture_quality": "Texture Quality",
+				"texture_quality": "Jakość tekstur",
 
 				"windowed": "Tryb niepełnoekranowy",
 				"borderless": "Bez ramki",
@@ -218,7 +218,7 @@
 			},
 
 			"search_settings": {
-				"title": "Wyszukaj ustawień"
+				"title": "Ustawienia Wyszukiwania"
 			}
 		}
 	},
@@ -255,19 +255,19 @@
 	"show_top_players": "Pokaż najlepszych graczy",
 	"player_rank_text": ["Jesteś #", " wśród ", " graczy!"],
 	"lb_disabled_offline": "Lista rankingowa jest wyłączona w trybie offline",
-	"no_record": "Nie ustanowiono rekodru",
+	"no_record": "Nie ustanowiono rekordu",
 
 	"best": "Najlepszy",
-	"best_player": "Najlepszy gracz",
-	"next_level": "Następna mapa",
+	"best_player": "Najlepszy Gracz",
+	"next_level": "Następna Mapa",
 	"rate_this_level": "Oceń tę mapę",
 	"rated": "Oceniono",
 	"already_rated_level": ["Oceniłeś tę mapę na ", "!  Zmień to "],
 	"finish_first": "Ukończ tę mapę aby móc ją ocenić!",
 	"watch_last_run": "Obejrzyj moją ostatnią próbę",
 	"race_against_ghost": "Wyścig z duchem",
-	"mastered_the_level": "Osiągnięto najlepszy wynik",
-	"mastery_ghost_is_beaten": "Najlepszy duch dostał pokonany!",
+	"mastered_the_level": "Mistrzostwo",
+	"mastery_ghost_is_beaten": "Duch Mistrzostwa został pokonany!",
 
 	"all_levels": "Wszystkie mapy",
 	"everyone": "Wszyscy",
@@ -283,7 +283,7 @@
 	"ascending": "Rosnąca",
 	"descending": "Malejąca",
 
-	"gr_info": "Odświerzanie rang",
+	"gr_info": "Odświeżanie rang",
 	"hourly": "godzinnie",
 	"daily": "dziennie",
 	"monthly": "miesięcznie",
@@ -291,8 +291,8 @@
 	"hours": "godzin",
 	"days": "dni",
 	"months": "miesięcy",
-	"today": "Today",
-	"yesterday": "Yesterday",
+	"today": "Dzisiaj",
+	"yesterday": "Wczoraj",
 
 	"capped": "ograniczony",
 	"non_capped": "nieograniczony",
@@ -317,10 +317,10 @@
 	"working": "Działa",
 	"movement": "Ruch",
 	"radius": "Promień",
-	"in": "W",
+	"in": "Do wewnątrz",
 	"out": "Na zewnątrz",
 	"add": "Dodaj",
-	"set": "Set",
+	"set": "Ustaw",
 	"type": "Typ",
 	"gravity": "Grawitacja",
 	"rectangle": "Prostokąt",
@@ -395,7 +395,7 @@
 			"undo": "Cofnij",
 			"redo": "Ponów",
 			"toggle_grid": "Przełącz siatkę",
-			"change_category": "Przełącz kategorię",
+			"change_category": "Zmień kategorię",
 			"hide_gui": "Ukryj interfejs",
 			"toggle_ai_update": "Przełącz aktualizację sztucznej inteligencji",
 			"boost_camera_speed": "Szybsza kamera",
