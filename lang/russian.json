@@ -256,31 +256,31 @@
 	"lb_disabled_offline": "Списки игроков недоступны в OFFLINE-режиме",
 	"no_record": "Личные рекорды отсутствуют",
 
-	"best": "Best",
-	"best_player": "Best Player",
-	"next_level": "Next Level",
-	"rate_this_level": "Rate this level",
-	"rated": "Rated",
-	"already_rated_level": ["You rated this level ", "!  Change to "],
-	"finish_first": "Finish the level once to vote it!",
-	"watch_last_run": "Watch my last run",
-	"race_against_ghost": "Race against a ghost",
-	"mastered_the_level": "Mastered",
-	"mastery_ghost_is_beaten": "Mastery Ghost is beaten!",
+	"best": "Лучший",
+	"best_player": "Лучший игрок",
+	"next_level": "След. уровень",
+	"rate_this_level": "Оценить уровень",
+	"rated": "Оценено",
+	"already_rated_level": ["Ваша оценка уровня ", "!  Изменить на "],
+	"finish_first": "Для оценки уровня необходимо завершить его!",
+	"watch_last_run": "Просмотр моего послед. забега",
+	"race_against_ghost": "Соревноваться с \"призраком\"",
+	"mastered_the_level": "Пройден",
+	"mastery_ghost_is_beaten": "\"Призрак\" побежден!",
 
-	"all_levels": "All Levels",
-	"everyone": "Everyone",
-	"sort_property": "Sort Property",
-	"most_played": "Most played",
-	"most_recent": "Most recent",
-	"most_voted": "Most voted",
-	"default": "Default",
-	"hide_finished": "Hide Finished",
-	"show_finished": "Show Finished",
+	"all_levels": "Все уровниs",
+	"everyone": "Все",
+	"sort_property": "Сортировка по",
+	"most_played": "Кол-во пробегов",
+	"most_recent": "Самые новые",
+	"most_voted": "Наиболее популярные",
+	"default": "По умолчанию",
+	"hide_finished": "Скрыть пройденные",
+	"show_finished": "Отобразить пройденные",
 
-	"order": "Order",
-	"ascending": "Ascending",
-	"descending": "Descending",
+	"order": "Порядок",
+	"ascending": "По возрастанию",
+	"descending": "По убыванию",
 
 	"gr_info": "Ranks refresh ",
 	"hourly": "hourly",
@@ -297,13 +297,13 @@
 	"non_capped": "non-capped",
 
 	"expired_session": {
-		"connection_lost": "Connection Lost",
-		"new_patch": "Probably a new patch is released",
-		"restart": "Please Restart the Game"
+		"connection_lost": "Соединения потеряно",
+		"new_patch": "Возможно, что вышло новое обновление.",
+		"restart": "Попробуйте перезапустить игру."
 	},
 
-	"width": "Width",
-	"height": "Height",
+	"width": "Ширина",
+	"height": "Высота",
 	"front": "Front",
 	"behind": "Behind",
 	"first": "First",
@@ -418,24 +418,24 @@
 			"select_playground_deco_tile_layer": "Front Layer"
 		},
 
-		"file_name": "File Name",
-		"level_name": "Level Name",
+		"file_name": "Имя файла",
+		"level_name": "Имя уровня",
 
-		"upload_level": "Upload Level",
-		"upload_level_warning": "Upload Level Warning",
-		"upload_level_label1": "Warning: Leaderboard will be cleaned if you update the level.",
-		"upload_level_label2": "You must finish the level once to upload.",
+		"upload_level": "Загрузить уровень",
+		"upload_level_warning": "Предупреждение о загрузке",
+		"upload_level_label1": "Внимание: обновление уровня сбросит его текущую таблицу рейтингов!",
+		"upload_level_label2": "Вам необходимо пройти финальную версию уровня перед загрузкой.",
 
-		"clear_everything": "Clear Everything",
-		"save_level": "Save Level",
-		"load_level": "Load Level",
-		"load_level_label1": "Warning: File name is a combination of author's username and level name.",
-		"load_level_label2": ["e.g. \"username-levelname\" like \"naezith-Stalactites\" (File should be at the ", " folder)"],
+		"clear_everything": "Очистить все",
+		"save_level": "Сохранить уровень",
+		"load_level": "Загрузить уровень",
+		"load_level_label1": "Внимание: именем файла будет комбинация имени автора и названия уровня.",
+		"load_level_label2": ["т.е. \"создатель-уровень\" например \"naezith-Stalactites\" (файл будет в ", " папке)"],
 
-		"resize_level": "Resize Level",
-		"new_size": "New Size",
-		"new_level": "New Level",
-		"delete_uploaded_level": "Delete Uploaded Level"
+		"resize_level": "Изменить размер",
+		"new_size": "Новый размер",
+		"new_level": "Новый уровень",
+		"delete_uploaded_level": "Удалить скачанный уровень"
 	},
 
 	"intro" : [
@@ -454,6 +454,6 @@
 		"Under the promise of unlimited treasure, Kayra accepted the Dragon's offer to partially possess his body, and use his powers, starting on his quest to purge the…"
 	],
 	
-	"translation": "Translation",
+	"translation": "Перевод",
 	"translated_by": " "
 }
