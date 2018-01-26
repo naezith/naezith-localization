@@ -30,12 +30,12 @@
 
 	"tutorial": "Didacticiel",
 	"tutorial_texts": {
-		"hold_hook_to_swing": "Maintenez le GRAPPIN pour vous BALANCER",
-		"hold_hook_and_jump_to_pull": "Maintenez GRAPPIN + SAUT pour TIRER",
+		"hold_hook_to_swing": "Maintenez GRAPPIN pour vous BALANCER",
+		"hold_hook_and_jump_to_pull": "Maintenez GRAPPIN + SAUT pour RÉTRACTER",
 		"dash_jump": "DASH + SAUT pour faire un SAUT DASHÉ",
 		"dash_to_surf": "DASHEZ pour SURFER",
 		"jump_during_surf": "SAUTEZ pendant le SURF",
-		"dash_during_swing" : "DASHEZ pendant le SWING pour gagner de la vitesse et de la hauteur"
+		"dash_during_swing" : "DASHEZ pendant le BALANCEMENT pour gagner de la vitesse et de la hauteur"
 	},
 	"hold": "Hold",
 	
@@ -107,7 +107,7 @@
 		"MENU RIGHT": "Menu Droit",
 		"LEADERBOARD": "Classements",
 		"LEVEL SEARCH": "Recherche de niveaux",
-		"SKIP TRACK": "Piste suivante",
+		"SKIP TRACK": "Passer le niveau",
 
 		"WATCH": "Regarder",
 		"APPLY CHANGES": "Appliquer les changements",
@@ -139,7 +139,7 @@
 
 	"menu": {
 		"settings": {
-			"restore_default": "Restore Default Settings",
+			"restore_default": "Restorer les paramètres par défaut",
 			
 			"gameplay": {
 				"title": "Jeu",
@@ -153,9 +153,9 @@
 				"hook_indicator": "Indicateur de Chemin du Grappin",
 				"dash_bar": "Barre de rechargement du Dash",
 				"minimap": "Mini-map",
-				"skip_intro": "Skip Intro",
-				"skip_ending": "Skip Ending Cinematic",
-				"download_ghost": "Download Ghost",
+				"skip_intro": "Passer l'intro",
+				"skip_ending": "Passer la cinématique de fin",
+				"download_ghost": "Télécharger le fantôme",
 				"always_show_mastery_ghost": "Always Show Mastery Ghost",
 				"fade_ghost": "Fade Ghost",
 				"shadow_ghost": "Shadow Ghost",
@@ -172,7 +172,7 @@
 
 			"sound": {
 				"title": "Son",
-				"shuffle_playlist": "Shuffle Playlist",
+				"shuffle_playlist": "Playlist Aléatoire",
 				"master_volume": "Volume Principal",
 				"sfx_volume": "Volume Effets Sonores",
 				"music_volume": "Volume Musique"
@@ -197,7 +197,7 @@
 				"show_out_of_focus_overlay": "Show Out of Focus Overlay",
 				"render_parallax_layers": "Afficher les arrières plans défilants",
 				"texture_smoothing_filter": "Filtre de lissage des textures",
-				"texture_quality": "Texture Quality",
+				"texture_quality": "Qualité des Textures",
 
 				"windowed": "Fenêtré",
 				"borderless": "Sans bords",
@@ -208,9 +208,9 @@
 				"title": "Contrôles",
 				"gamepad_layout": "Agencement de la Manette",
 				"disable_gamepad": "Désactiver la Manette",
-				"gamepad_stick_threshold": "Gamepad Stick Threshold",
-				"gamepad_trigger_threshold": "Gamepad Trigger Threshold",
-				"gamepad_vibration": "Gamepad Vibration",
+				"gamepad_stick_threshold": "Seuil de Déclenchement des Sticks de la Manette",
+				"gamepad_trigger_threshold": "Seuil de Déclenchement des Gachettes de la Manette",
+				"gamepad_vibration": "Vibration de la Manette",
 
 				"xbox": "Xbox",
 				"dualshock": "Dualshock"
@@ -251,7 +251,7 @@
 	"create": "Créer",
 	"delete": "Supprimer",
 
-	"show_top_players": "Afficher les meilleurs joueur",
+	"show_top_players": "Afficher les meilleurs joueurs",
 	"player_rank_text": ["Vous êtes #", " sur ", " joueurs!"],
 	"lb_disabled_offline": "les classements sont désactivés en mode HORS-LIGNE",
 	"no_record": "Aucune donnée",
@@ -290,8 +290,8 @@
 	"hours": "heures",
 	"days": "jours",
 	"months": "mois",
-	"today": "Today",
-	"yesterday": "Yesterday",
+	"today": "Aujourd'hui",
+	"yesterday": "Hier",
 
 	"capped": "limité",
 	"non_capped": "illimité",
@@ -391,18 +391,18 @@
 		"binds": {
 			"coordinate": "Coordinate",
 			"zoom": "Zoom",
-			"undo": "Undo",
-			"redo": "Redo",
-			"toggle_grid": "Toggle Grid",
-			"change_category": "Toggle Category",
+			"undo": "Annuler",
+			"redo": "Refaire",
+			"toggle_grid": "Changer La Grille",
+			"change_category": "Changer La Categorie",
 			"hide_gui": "Hide GUI",
 			"toggle_ai_update": "Toggle AI Update",
-			"boost_camera_speed": "Faster Camera",
-			"move_camera": "Move Camera",
-			"drag_object": "Drag Object",
-			"copy_object_properties": "Copy Object Properties",
-			"area_fill": "Area Fill",
-			"quick_save": "Quick-save",
+			"boost_camera_speed": "Accélérer la caméra",
+			"move_camera": "Déplacer la caméra",
+			"drag_object": "Déplacer l'objet",
+			"copy_object_properties": "Copier les propriétés de l'object",
+			"area_fill": "Remplier la zone",
+			"quick_save": "Sauvegarde-rapide",
 	
 			"rotate_object": "tourner",
 			"play": "Jouer",
