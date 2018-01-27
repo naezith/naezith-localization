@@ -384,7 +384,7 @@
 			"waterfall": "Cascade",
 			"jump_pad": "Plateforme de saut",
 			"checkpoint": "Checkpoint",
-			"player_spawn": "Player Spawn",
+			"player_spawn": "Spawn du joueur",
 			"end_remnant": "Remnant de fin"
 		},
 
@@ -393,9 +393,9 @@
 			"zoom": "Zoom",
 			"undo": "Annuler",
 			"redo": "Refaire",
-			"toggle_grid": "Changer La Grille",
-			"change_category": "Changer La Categorie",
-			"hide_gui": "Hide GUI",
+			"toggle_grid": "basculer l'affichage de la grille",
+			"change_category": "Changer la categorie",
+			"hide_gui": "Masquer l'interface",
 			"toggle_ai_update": "Toggle AI Update",
 			"boost_camera_speed": "Accélérer la caméra",
 			"move_camera": "Déplacer la caméra",
@@ -439,7 +439,7 @@
 	},
 
 	"intro" : [
-		"La legende parle d'un puissant thunder dragon qui a autrefois parcouru ces terres",
+		"La legende parle d'un puissant dragon du tonnerre qui a autrefois parcouru ces terres",
 		"Il était dit qu'après sa mort, les restes du corps du dragon qui contenaient encore un immense pouvoir",
 		"Ont lentement étaient dispersés à travers le monde. Mais Naezith ne voulais pas partager le pouvoir qu'il considérait encore comme le sien.",
 		"Et ainsi, son âme persistante toujours, essayait de trouver un moyen de purger les restes de leur magie.",
@@ -449,9 +449,9 @@
 		"dans ce qui semblait être une fosse sans fond...",
 		"Il s'éveille, terrifié et découvre deux griffes brillantes magicalement liées à ses mains.",
 		"Terrorisé, il secoue ses bras sauvagement, mais le sort ne se brise pas.",		
-		"Instead the claw shot forth, planting itself firmly in the stone wall. A magical beam still linked the claws to his hands, working much like his old hook.",
-		"Suddenly, Naezith appeared to Kayra, and told him he needed a physical body to accomplish his goals.",
-		"Under the promise of unlimited treasure, Kayra accepted to let the Dragon partially possess his body, and use his powers, starting on his quest to purge the…"
+		"A la place, les griffes sont propulsées, se plantent fermement dans le mur de pierres. Un lien magique reliant les griffes à ses mains, de la même manière que son vieux crochet.",
+		"Soudainement, Naezith apparait devant lui, et l'informe de son besoin d'un corps physique pour accomplir ses objectifs.",
+		"Sous la promesse d'un trésor illimité, Kayra accepta que le dragon possède partiellement son corps, et utilise ses pouvoirs, dans sa quête pour purger les…"
 	],
 
 	"translation": "Traduction",
