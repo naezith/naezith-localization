@@ -30,12 +30,12 @@
 
 	"tutorial": "Didacticiel",
 	"tutorial_texts": {
-		"hold_hook_to_swing": "Maintenez le GRAPPIN pour vous BALANCER",
-		"hold_hook_and_jump_to_pull": "Maintenez GRAPPIN + SAUT pour TIRER",
+		"hold_hook_to_swing": "Maintenez GRAPPIN pour vous BALANCER",
+		"hold_hook_and_jump_to_pull": "Maintenez GRAPPIN + SAUT pour RÉTRACTER",
 		"dash_jump": "DASH + SAUT pour faire un SAUT DASHÉ",
 		"dash_to_surf": "DASHEZ pour SURFER",
 		"jump_during_surf": "SAUTEZ pendant le SURF",
-		"dash_during_swing" : "DASHEZ pendant le SWING pour gagner de la vitesse et de la hauteur"
+		"dash_during_swing" : "DASHEZ pendant le BALANCEMENT pour gagner de la vitesse et de la hauteur"
 	},
 	"hold": "Hold",
 	
@@ -107,7 +107,7 @@
 		"MENU RIGHT": "Menu Droit",
 		"LEADERBOARD": "Classements",
 		"LEVEL SEARCH": "Recherche de niveaux",
-		"SKIP TRACK": "Piste suivante",
+		"SKIP TRACK": "Passer le niveau",
 
 		"WATCH": "Regarder",
 		"APPLY CHANGES": "Appliquer les changements",
@@ -139,7 +139,7 @@
 
 	"menu": {
 		"settings": {
-			"restore_default": "Restore Default Settings",
+			"restore_default": "Restorer les paramètres par défaut",
 			
 			"gameplay": {
 				"title": "Jeu",
@@ -153,9 +153,9 @@
 				"hook_indicator": "Indicateur de Chemin du Grappin",
 				"dash_bar": "Barre de rechargement du Dash",
 				"minimap": "Mini-map",
-				"skip_intro": "Skip Intro",
-				"skip_ending": "Skip Ending Cinematic",
-				"download_ghost": "Download Ghost",
+				"skip_intro": "Passer l'intro",
+				"skip_ending": "Passer la cinématique de fin",
+				"download_ghost": "Télécharger le fantôme",
 				"always_show_mastery_ghost": "Always Show Mastery Ghost",
 				"fade_ghost": "Fade Ghost",
 				"shadow_ghost": "Shadow Ghost",
@@ -172,7 +172,7 @@
 
 			"sound": {
 				"title": "Son",
-				"shuffle_playlist": "Shuffle Playlist",
+				"shuffle_playlist": "Playlist Aléatoire",
 				"master_volume": "Volume Principal",
 				"sfx_volume": "Volume Effets Sonores",
 				"music_volume": "Volume Musique"
@@ -197,7 +197,7 @@
 				"show_out_of_focus_overlay": "Show Out of Focus Overlay",
 				"render_parallax_layers": "Afficher les arrières plans défilants",
 				"texture_smoothing_filter": "Filtre de lissage des textures",
-				"texture_quality": "Texture Quality",
+				"texture_quality": "Qualité des Textures",
 
 				"windowed": "Fenêtré",
 				"borderless": "Sans bords",
@@ -208,9 +208,9 @@
 				"title": "Contrôles",
 				"gamepad_layout": "Agencement de la Manette",
 				"disable_gamepad": "Désactiver la Manette",
-				"gamepad_stick_threshold": "Gamepad Stick Threshold",
-				"gamepad_trigger_threshold": "Gamepad Trigger Threshold",
-				"gamepad_vibration": "Gamepad Vibration",
+				"gamepad_stick_threshold": "Seuil de Déclenchement des Sticks de la Manette",
+				"gamepad_trigger_threshold": "Seuil de Déclenchement des Gachettes de la Manette",
+				"gamepad_vibration": "Vibration de la Manette",
 
 				"xbox": "Xbox",
 				"dualshock": "Dualshock"
@@ -251,7 +251,7 @@
 	"create": "Créer",
 	"delete": "Supprimer",
 
-	"show_top_players": "Afficher les meilleurs joueur",
+	"show_top_players": "Afficher les meilleurs joueurs",
 	"player_rank_text": ["Vous êtes #", " sur ", " joueurs!"],
 	"lb_disabled_offline": "les classements sont désactivés en mode HORS-LIGNE",
 	"no_record": "Aucune donnée",
@@ -290,8 +290,8 @@
 	"hours": "heures",
 	"days": "jours",
 	"months": "mois",
-	"today": "Today",
-	"yesterday": "Yesterday",
+	"today": "Aujourd'hui",
+	"yesterday": "Hier",
 
 	"capped": "limité",
 	"non_capped": "illimité",
@@ -384,25 +384,25 @@
 			"waterfall": "Cascade",
 			"jump_pad": "Plateforme de saut",
 			"checkpoint": "Checkpoint",
-			"player_spawn": "Player Spawn",
+			"player_spawn": "Spawn du joueur",
 			"end_remnant": "Remnant de fin"
 		},
 
 		"binds": {
 			"coordinate": "Coordinate",
 			"zoom": "Zoom",
-			"undo": "Undo",
-			"redo": "Redo",
-			"toggle_grid": "Toggle Grid",
-			"change_category": "Toggle Category",
-			"hide_gui": "Hide GUI",
+			"undo": "Annuler",
+			"redo": "Refaire",
+			"toggle_grid": "basculer l'affichage de la grille",
+			"change_category": "Changer la categorie",
+			"hide_gui": "Masquer l'interface",
 			"toggle_ai_update": "Toggle AI Update",
-			"boost_camera_speed": "Faster Camera",
-			"move_camera": "Move Camera",
-			"drag_object": "Drag Object",
-			"copy_object_properties": "Copy Object Properties",
-			"area_fill": "Area Fill",
-			"quick_save": "Quick-save",
+			"boost_camera_speed": "Accélérer la caméra",
+			"move_camera": "Déplacer la caméra",
+			"drag_object": "Déplacer l'objet",
+			"copy_object_properties": "Copier les propriétés de l'object",
+			"area_fill": "Remplier la zone",
+			"quick_save": "Sauvegarde-rapide",
 	
 			"rotate_object": "tourner",
 			"play": "Jouer",
@@ -439,21 +439,21 @@
 	},
 
 	"intro" : [
-		"Legends tell of a mighty thunder dragon by the name of Naezith who once roamed these lands",
-		"It was said that after his death, remnants of the dragon's body that still held immense power",
-		"were slowly dispersed across the world by natural events. But Naezith did not want to share the power he still considered his own.",
-		"And so, his soul still lingered, trying to find a way to purge the remnants of their magic.",
-		"Thousands of years later, an adventurer by the name of Kayra",
-		"heard rumors of a remnant, laying inside a cave, and dove in using his rope and trusty hook.",
-		"But the hook was old and eventually gave way, causing Kayra to fall",
-		"into a seemingly endless pit...",
-		"He awoke, terrified and found two glowing claws magically bound to his hands.",
-		"Mad with terror, he swung his arms wildly, but the spell did not break.",
-		"Instead the claw shot forth, planting itself firmly in the stone wall. A magical beam still linked the claws to his hands, working much like his old hook.",
-		"Suddenly, Naezith appeared to Kayra, and told him he needed a physical body to accomplish his goals.",
-		"Under the promise of unlimited treasure, Kayra accepted to let the Dragon partially possess his body, and use his powers, starting on his quest to purge the…"
+		"La legende parle d'un puissant dragon du tonnerre qui a autrefois parcouru ces terres",
+		"il était dit qu'après sa mort, les vestiges du corps du dragon qui contenaient encore un immense pouvoir",
+		"ont lentement étaient dispersés à travers le monde. Mais Naezith ne voulais pas partager le pouvoir qu'il considérait encore comme le sien.",
+		"Et ainsi, son âme seule persistante, essayait de trouver un moyen de purger les vestiges de leur magie.",
+		"Des milliers d'années plus tard, un aventurier du nom de Kayra",
+		"entendit les rummeurs d'un vestige, reposant dans une grotte, et plongea à l'interieur en utilisant sa corde et son fidèle crochet.",
+		"Mais le crochet était ancien et finit par briser, causant la chute de Kayra",
+		"dans ce qui semblait être une fosse sans fond...",
+		"Il s'éveilla, terrifié et découvrit deux griffes brillantes magicalement liées à ses mains.",
+		"Terrorisé, il secoua ses bras sauvagement, mais le sortilège ne brisa pas.",		
+		"A la place, les griffes furent propulsées et se plantèrent fermement dans le mur de pierres. Un lien magique reliant les griffes à ses mains, de la même manière que son vieux crochet.",
+		"Soudainement, Naezith apparut devant lui, et l'informa de son besoin d'un corps physique pour accomplir ses objectifs.",
+		"Sous la promesse d'un trésor illimité, Kayra accepta que le dragon possède partiellement son corps et utilise ses pouvoirs, dans sa quête pour purger les…"
 	],
 
 	"translation": "Traduction",
-	"translated_by": "Lucas 'Tuxlu' Parsy, dédicace à Pipo"
+	"translated_by": "Lucas 'Tuxlu' Parsy, Théo 'Mfire' Técheney, dédicace à Pipo"
 }
