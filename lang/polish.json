@@ -38,6 +38,8 @@
 		"dash_during_swing" : "WŚLIZG podczas HUŚTANIA aby zyskać prędkość i wysokość"
 	},
 	"hold": "Przytrzymaj",
+	"click": "Click",
+	"click_and_hold": "Click and hold",
 	
 	"pop_up_texts" : [
 		"Gotowy", "Jazda", "Jeszcze raz", "Reset", "Recall",

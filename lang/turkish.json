@@ -38,6 +38,8 @@
 		"dash_during_swing" : "Hız ve yükseklik kazanmak için SALLANIRKEN DEPAR at"
 	},
 	"hold": "Basılı tut",
+	"click": "Tıkla",
+	"click_and_hold": "Tıkla ve basılı tut",
 	
 	"pop_up_texts" : [
 		"Hazır", "Başla", "Tekrarla", "Sıfırla", "Çağrı",

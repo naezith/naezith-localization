@@ -38,6 +38,8 @@
 		"dash_during_swing" : "Pulsa ACELERAR al BALANCEARTE para ganar velocidad y altura"
 	},
 	"hold": "Mantener",
+	"click": "Click",
+	"click_and_hold": "Click and hold",
 	
 	"pop_up_texts" : [
 		"¿Listos?", "¡Ya!", "Relapso", "Reinicio", "Recuperación",

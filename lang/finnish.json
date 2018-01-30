@@ -38,6 +38,8 @@
 		"dash_during_swing" : "DASH during the SWING to gain speed and height"
 	},
 	"hold": "Hold",
+	"click": "Click",
+	"click_and_hold": "Click and hold",
 	
 	"pop_up_texts" : [
 		"Ready", "Go", "Relapse", "Reset", "Recall",

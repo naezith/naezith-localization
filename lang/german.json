@@ -38,6 +38,8 @@
 		"dash_during_swing" : "DASH während des SCHWINGENS um an Geschwindigkeit und Höhe zu gewinnen"
 	},
 	"hold": "Halten",
+	"click": "Click",
+	"click_and_hold": "Click and hold",
 	
 	"pop_up_texts" : [
 		"Bereit", "Start", "Zurückspulen", "Zurücksetzen", "Rückrufen",

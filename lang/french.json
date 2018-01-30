@@ -38,6 +38,8 @@
 		"dash_during_swing" : "DASHEZ pendant le BALANCEMENT pour gagner de la vitesse et de la hauteur"
 	},
 	"hold": "Hold",
+	"click": "Click",
+	"click_and_hold": "Click and hold",
 	
 	"pop_up_texts" : [
 		"Prêt", "Partez", "Relapse", "Recommencer", "Recall",
