@@ -173,6 +173,7 @@
 			"sound": {
 				"title": "Аудио",
 				"shuffle_playlist": "Случ. плейлист",
+				"now_playing": "Now playing",
 				"master_volume": "Общая громкость",
 				"sfx_volume": "Громкость эффектов",
 				"music_volume": "Громкость музыки"

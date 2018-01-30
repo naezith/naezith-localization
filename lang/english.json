@@ -173,6 +173,7 @@
 			"sound": {
 				"title": "Sound",
 				"shuffle_playlist": "Shuffle Playlist",
+				"now_playing": "Now playing",
 				"master_volume": "Master Volume",
 				"sfx_volume": "Sound Effects Volume",
 				"music_volume": "Music Volume"

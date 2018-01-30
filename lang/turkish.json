@@ -173,6 +173,7 @@
 			"sound": {
 				"title": "Ses",
 				"shuffle_playlist": "Şarkı Listesini Karıştır",
+				"now_playing": "Çalınıyor",
 				"master_volume": "Genel Ses",
 				"sfx_volume": "Ses Efektleri",
 				"music_volume": "Müzik"

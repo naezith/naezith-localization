@@ -173,6 +173,7 @@
 			"sound": {
 				"title": "Lautstärke",
 				"shuffle_playlist": "Wiedergabeliste mischen",
+				"now_playing": "Now playing",
 				"master_volume": "Master Lautstärke",
 				"sfx_volume": "Effekt Lautstärke",
 				"music_volume": "Musik Lautstärke"
