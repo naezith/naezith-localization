@@ -5,14 +5,14 @@
 
 	"language": "Idioma",
 	
-	"age": "Age",
-	"date": "Date",
-	"player": "Player",
+	"age": "Edad",
+	"date": "Fecha",
+	"player": "Jugador",
 
 	"auto": "Auto",
 	"paused": "Pausa",
 	"main_menu": "Menú principal",
-	"purge_the_remnants": "Expurga los Vestigios",
+	"purge_the_remnants": "Destruye los Vestigios",
 	"practice_lair": "Zona de entrenamiento",
 	"speedrun": "Speedrun",
 	"custom_levels": "Niveles de la comunidad",
@@ -26,7 +26,7 @@
 	"speedrun_selection": "Seleccionar speedrun",
 	"speedrun_lb": "Clasificación de speedrun",
 	
-	"window_is_out_of_focus": "Window is out of focus",
+	"window_is_out_of_focus": "La ventana está desenfocada",
 
 	"tutorial": "Tutorial",
 	"tutorial_texts": {
@@ -37,10 +37,10 @@
 		"jump_during_surf": "Pulsa SALTO al DESLIZARTE",
 		"dash_during_swing" : "Pulsa ACELERAR al BALANCEARTE para ganar velocidad y altura"
 	},
-	"hold": "Hold",
+	"hold": "Mantener",
 	
 	"pop_up_texts" : [
-		"¿Listos?", "¡Ya!", "Relapso", "Reinicio", "Recall",
+		"¿Listos?", "¡Ya!", "Relapso", "Reinicio", "Recuperación",
 		"Completado", "Fallido", "Nombre"
 	],
 	
@@ -62,7 +62,7 @@
 		"veteran": "Veterano",
 		"adept": "Adepto",
 		"apprentice": "Aprendiz",
-		"novice": "Novato"
+		"novice": "Novicio"
 	},
 
 	"yes": "Sí",
@@ -72,14 +72,14 @@
 	"on": "Sí",
 	"off": "No",
 	"all": "Todo",
-	"bottom": "Inferior",
-	"middle": "Centro",
+	"bottom": "Abajo",
+	"middle": "En medio",
 	"personal_best": "Récord personal",
 	"shadow": "Sombra",
 	"done": "Subida completada",
 	"failed": "Error",
-	"low": "Low",
-	"high": "High",
+	"low": "Bajo",
+	"high": "Alto",
 
 	"secret_unlocked" : "Secreto desbloqueado",
 	"secret_level_unlocked" : "Nivel secreto desbloqueado",
@@ -97,7 +97,7 @@
 		"HOOK": "Garfio",
 		"DASH": "Aceleración",
 		"RESET": "Reiniciar",
-		"RECALL": "Recall",
+		"RECALL": "Recuperar",
 		"APPLY": "Aplicar",
 		"PAUSE": "Pausa",
 		"BACK": "Volver",
@@ -107,7 +107,7 @@
 		"MENU RIGHT": "Derecha",
 		"LEADERBOARD": "Clasificación",
 		"LEVEL SEARCH": "Buscar nivel",
-		"SKIP TRACK": "Siguiente pista",
+		"SKIP TRACK": "Saltar nivel",
 
 		"WATCH": "Observar",
 		"APPLY CHANGES": "Aplicar cambios",
@@ -123,7 +123,7 @@
 	"complete_the_chapter": "Completa el capítulo",
 	"complete_a_chapter": "Completa un capítulo",
 
-	"purged": "Expurgado",
+	"purged": "Eliminado",
 	"name": "Nombre",
 	"rating": "Puntuación",
 	"rank": "Clasificación",
@@ -139,7 +139,7 @@
 
 	"menu": {
 		"settings": {
-			"restore_default": "Restore Default Settings",
+			"restore_default": "Restaurar configuración predeterminada",
 			
 			"gameplay": {
 				"title": "Juego",
@@ -153,26 +153,26 @@
 				"hook_indicator": "Retícula del garfio",
 				"dash_bar": "Medidor de aceleración",
 				"minimap": "Minimapa",
-				"skip_intro": "Skip Intro",
-				"skip_ending": "Skip Ending Cinematic",
-				"download_ghost": "Download Ghost",
-				"always_show_mastery_ghost": "Always Show Mastery Ghost",
-				"fade_ghost": "Fade Ghost",
-				"shadow_ghost": "Shadow Ghost",
-				"speedrun_levels_listing": "Speedrun Levels Listing"
+				"skip_intro": "Omitir intro",
+				"skip_ending": "Omitir cinemática final",
+				"download_ghost": "Descargar corredor fantasma",
+				"always_show_mastery_ghost": "Mostrar siempre fantasma de maestría",
+				"fade_ghost": "Ocultar fantasma",
+				"shadow_ghost": "Oscurecer fantasma",
+				"speedrun_levels_listing": "Lista de niveles de speedrun"
 			},
 
 			"customization": {
 				"title": "Ajustes de personalización",
-				"beam_style": "Estilo del rayo de luz del garfio",
+				"beam_style": "Tipo de haz del garfio",
 				"main_color": "Color principal",
 				"secondary_color": "Color secundario",
-				"ignore_replay_style": "Ignore Replay Style"
+				"ignore_replay_style": "Ignorar estilo de repetición"
 			},
 
 			"sound": {
 				"title": "Sonido",
-				"shuffle_playlist": "Shuffle Playlist",
+				"shuffle_playlist": "Mezclar lista de reproducción",
 				"now_playing": "Now playing",
 				"master_volume": "Volumen principal",
 				"sfx_volume": "Volumen de los efectos",
@@ -186,7 +186,7 @@
 				"windowed_mode_resolution": "Ventana",
 				"vertical_sync": "Sincronización vertical",
 				"view_height": "Distancia de la cámara",
-				"rendertexture_height": "Render Texture Height",
+				"rendertexture_height": "Renderizar altura de las texturas",
 				"fps_cap": "Limitar FPS",
 				"show_fps": "Mostrar FPS",
 				"bloom": "Bloom",
@@ -195,10 +195,10 @@
 				"ambient_coloring": "Paleta de color",
 				"rgb_split": "Aberración Cromática",
 				"vignette_rgb_split": "Viñeteado y aberración cromática",
-				"show_out_of_focus_overlay": "Show Out of Focus Overlay",
+				"show_out_of_focus_overlay": "Mostrar desenfoque",
 				"render_parallax_layers": "Mostrar efecto de paralaje",
 				"texture_smoothing_filter": "Filtro de suavizado de texturas",
-				"texture_quality": "Texture Quality",
+				"texture_quality": "Calidad de las texturas",
 
 				"windowed": "Ventana",
 				"borderless": "Ventana sin bordes",
@@ -209,9 +209,9 @@
 				"title": "Controles",
 				"gamepad_layout": "Configurar mando",
 				"disable_gamepad": "Desconectar mando",
-				"gamepad_stick_threshold": "Gamepad Stick Threshold",
-				"gamepad_trigger_threshold": "Gamepad Trigger Threshold",
-				"gamepad_vibration": "Gamepad Vibration",
+				"gamepad_stick_threshold": "Sensibilidad de los sticks del mando",
+				"gamepad_trigger_threshold": "Sensibilidad de los gatillos del mando",
+				"gamepad_vibration": "Vibración del mando",
 
 				"xbox": "Xbox",
 				"dualshock": "Dualshock"
@@ -280,8 +280,8 @@
 	"show_finished": "Mostrar niveles completados",
 
 	"order": "Orden",
-	"ascending": "Ascenso",
-	"descending": "Descenso",
+	"ascending": "Ascendente",
+	"descending": "Descendente",
 
 	"gr_info": "Actualizar clasificación ",
 	"hourly": "cada hora",
@@ -291,8 +291,8 @@
 	"hours": "horas",
 	"days": "días",
 	"months": "meses",
-	"today": "Today",
-	"yesterday": "Yesterday",
+	"today": "Hoy",
+	"yesterday": "Ayer",
 
 	"capped": "limitado",
 	"non_capped": "sin límite",
@@ -368,7 +368,7 @@
 			"spike": "Pinchos",
 			"limited_grap": "Enganche limitado",
 			"surface": "Superficie",
-			"no_walljump": "Rebote en pared bloqueado",
+			"no_walljump": "Sin rebote en pared",
 			"hookable": "Panel para garfio",
 			"decoration": "Decorado",
 			"props": "Accesorios"
@@ -384,26 +384,26 @@
 			"water": "Agua",
 			"waterfall": "Cascada",
 			"jump_pad": "Plataforma de salto",
-			"checkpoint": "Checkpoint",
-			"player_spawn": "Player Spawn",
+			"checkpoint": "Punto de control",
+			"player_spawn": "Punto de inicio",
 			"end_remnant": "Vestigio de final de nivel"
 		},
 
 		"binds": {
-			"coordinate": "Coordinate",
+			"coordinate": "Coordinar",
 			"zoom": "Zoom",
-			"undo": "Undo",
-			"redo": "Redo",
-			"toggle_grid": "Toggle Grid",
-			"change_category": "Toggle Category",
-			"hide_gui": "Hide GUI",
-			"toggle_ai_update": "Toggle AI Update",
-			"boost_camera_speed": "Faster Camera",
-			"move_camera": "Move Camera",
-			"drag_object": "Drag Object",
-			"copy_object_properties": "Copy Object Properties",
-			"area_fill": "Area Fill",
-			"quick_save": "Quick-save",
+			"undo": "Deshacer",
+			"redo": "Rehacer",
+			"toggle_grid": "Alternar cuadrícula",
+			"change_category": "Alternar categoría",
+			"hide_gui": "Ocultar GUI",
+			"toggle_ai_update": "Alternar actualización de IA",
+			"boost_camera_speed": "Cámara rápida",
+			"move_camera": "Mover cámara",
+			"drag_object": "Arrastrar objeto",
+			"copy_object_properties": "Copiar propiedades de objeto",
+			"area_fill": "Relleno de área",
+			"quick_save": "Guardado rápido",
 	
 			"rotate_object": "Girar",
 			"play": "Iniciar",
@@ -440,19 +440,19 @@
 	},
 	
 	"intro" : [
-		"Legends tell of a mighty thunder dragon by the name of Naezith who once roamed these lands",
-		"It was said that after his death, remnants of the dragon's body that still held immense power",
-		"were slowly dispersed across the world by natural events. But Naezith did not want to share the power he still considered his own.",
-		"And so, his soul still lingered, trying to find a way to purge the remnants of their magic.",
-		"Thousands of years later, an adventurer by the name of Kayra",
-		"heard rumors of a remnant, laying inside a cave, and dove in using his rope and trusty hook.",
-		"But the hook was old and eventually gave way, causing Kayra to fall",
-		"into a seemingly endless pit...",
-		"He awoke, terrified and found two glowing claws magically bound to his hands.",
-		"Mad with terror, he swung his arms wildly, but the spell did not break.",
-		"Instead the claw shot forth, planting itself firmly in the stone wall. A magical beam still linked the claws to his hands, working much like his old hook.",
-		"Suddenly, Naezith appeared to Kayra, and told him he needed a physical body to accomplish his goals.",
-		"Under the promise of unlimited treasure, Kayra accepted to let the Dragon partially possess his body, and use his powers, starting on his quest to purge the…"
+		"Cuentan las leyendas que un poderoso dragón del trueno llamado Naezith vagó por estas tierras.",
+		"Se dice que tras su muerte, los restos del cuerpo del dragón, imbuidos de un inmenso poder,",
+		"fueron esparcidos por todo el mundo debido a fenómenos naturales. Mas Naezith se negó a compartir un poder que aún consideraba suyo.",
+		"Y así, su alma vagó sin descanso, buscando la manera de acabar con dichos vestigos y la magia que albergaban.",
+		"Miles de años más tarde, un aventurero llamado Kayra",
+		"oyó el rumor de un vestigio oculto en una cueva, a la que accedió mediante una cuerda y su fiel garfio.",
+		"Pero este era viejo y terminó quebrándose, haciéndole caer",
+		"por lo que parecía un pozo sin fin...",
+		"Al despertarse, observó con pavor dos brillantes zarpas unidas mágicamente a sus brazos.",
+		"Aterrado, agitó los brazos violentamente, pero el hechizo no se desvanecía.",
+		"En cambio, una de las zarpas salió disparada y se clavó firmemente en la pared de la cueva. Un haz mágico unía las zarpas a sus manos, de la misma manera que sus antiguos garfios.",
+		"De repente, Naezith se mostró ante Kayra y le dijo que necesitaba un cuerpo físico para poder cumplir con su misión.",
+		"Bajo la promesa de un sinfín de tesoros, Kayra aceptó que el dragón le poseyera parcialmente y usara sus poderes para destruir los..."
 	],
 
 	"translation": "Traducción",
