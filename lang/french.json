@@ -37,9 +37,9 @@
 		"jump_during_surf": "SAUTEZ pendant le SURF",
 		"dash_during_swing" : "DASHEZ pendant le BALANCEMENT pour gagner de la vitesse et de la hauteur"
 	},
-	"hold": "Hold",
-	"click": "Click",
-	"click_and_hold": "Click and hold",
+	"hold": "Maintenir",
+	"click": "Cliquer",
+	"click_and_hold": "Cliquer et maintenir",
 	
 	"pop_up_texts" : [
 		"Prêt", "Partez", "Relapse", "Recommencer", "Recall",
@@ -52,7 +52,7 @@
 		"Plus le rayon du Grappin est long, plus vous gagnerez de vitesse.",
 		"Lâchez le Grappin en bas du balancement pour obtenir le plus de vitesse horizontale.",
 		"Le Dash donne le plus de vitesse et de hauteur quand il est utilisé en bas du balancement.",
-		"Utilisez votre Double Saut aussi tard que possible, vous pourriez en avoir besoin a n'importe quel moment."
+		"Utilisez votre Double Saut aussi tard que possible, vous pourriez en avoir besoin à n'importe quel moment."
 	],
 
 	"global_ranks": {
@@ -149,7 +149,7 @@
 				"input_indicator": "Indicateur de Touches",
 				"allow_checkpoints": "Checkpoints",
 				"speedometer": "Compteur de Vitesse",
-				"energy_as_number": "Énergie en tant que Nombre",
+				"energy_as_number": "Énergie en tant que nombre",
 				"ghost_replay": "Replay Fantôme",
 				"ghost_visibility": "Visibilité du Fantôme",
 				"hook_indicator": "Indicateur de Chemin du Grappin",
@@ -158,11 +158,11 @@
 				"skip_intro": "Passer l'intro",
 				"skip_ending": "Passer la cinématique de fin",
 				"download_ghost": "Télécharger le fantôme",
-				"always_show_mastery_ghost": "Always Show Mastery Ghost",
-				"fade_ghost": "Fade Ghost",
-				"shadow_ghost": "Shadow Ghost",
-				"short_list": "Short List",
-				"speedrun_levels_listing": "Speedrun Levels Listing"
+				"always_show_mastery_ghost": "Toujours montrer le Fantôme Maître",
+				"fade_ghost": "Transparence du Fantôme",
+				"shadow_ghost": "Ombre du Fantôme",
+				"short_list": "liste courte",
+				"speedrun_levels_listing": "Liste des Niveaux du Speedrun"
 			},
 
 			"customization": {
@@ -170,13 +170,13 @@
 				"beam_style": "Style Rayon du Grappin",
 				"main_color": "Couleur Principale",
 				"secondary_color": "Couleur Secondaire",
-				"ignore_replay_style": "Ignore Replay Style"
+				"ignore_replay_style": "Ignorer le style du replay"
 			},
 
 			"sound": {
 				"title": "Son",
 				"shuffle_playlist": "Playlist Aléatoire",
-				"now_playing": "Now playing",
+				"now_playing": "En cours de lecture",
 				"master_volume": "Volume Principal",
 				"sfx_volume": "Volume Effets Sonores",
 				"music_volume": "Volume Musique"
@@ -189,16 +189,16 @@
 				"windowed_mode_resolution": "Résolution Fenêtré",
 				"vertical_sync": "Synchronisation Verticale",
 				"view_height": "Hauteur de Caméra",
-				"rendertexture_height": "Render Texture Height",
+				"rendertexture_height": "Haut rendu des textures",
 				"fps_cap": "Limitation du framerate",
 				"show_fps": "Afficher les FPS",
 				"bloom": "Bloom",
 				"background_blur": "Flou d'arrière plan",
-				"menu_blur": "Menu flou",
+				"menu_blur": "Flou du menu",
 				"ambient_coloring": "Coloration ambiante",
 				"rgb_split": "Aberration Chromatique",
 				"vignette_rgb_split": "Vignette & Aberration Chromatique",
-				"show_out_of_focus_overlay": "Show Out of Focus Overlay",
+				"show_out_of_focus_overlay": "surimpression du Out of Focus",
 				"render_parallax_layers": "Afficher les arrières plans défilants",
 				"texture_smoothing_filter": "Filtre de lissage des textures",
 				"texture_quality": "Qualité des Textures",
@@ -388,7 +388,7 @@
 			"waterfall": "Cascade",
 			"jump_pad": "Plateforme de saut",
 			"checkpoint": "Checkpoint",
-			"player_spawn": "Spawn du joueur",
+			"player_spawn": "Point d'apparition du joueur",
 			"end_remnant": "Remnant de fin"
 		},
 
@@ -446,14 +446,14 @@
 		"La legende parle d'un puissant dragon du tonnerre qui a autrefois parcouru ces terres.",
 		"Il était dit qu'après sa mort, les vestiges du corps du dragon qui contenaient encore un immense pouvoir",
 		"ont lentement étaient dispersés à travers le monde. Mais Naezith ne voulais pas partager le pouvoir qu'il considérait encore comme le sien.",
-		"Et ainsi, son âme seule persistante, essayait de trouver un moyen de purger les vestiges de leur magie.",
+		"Et ainsi, son âme seule persistante, essaya de trouver un moyen de purger les vestiges de leur magie.",
 		"Des milliers d'années plus tard, un aventurier du nom de Kayra",
 		"entendit les rummeurs d'un vestige, reposant dans une grotte, et plongea à l'interieur en utilisant sa corde et son fidèle crochet.",
 		"Mais le crochet était ancien et finit par briser, causant la chute de Kayra",
 		"dans ce qui semblait être une fosse sans fond...",
 		"Il s'éveilla, terrifié et découvrit deux griffes brillantes magicalement liées à ses mains.",
 		"Terrorisé, il secoua ses bras sauvagement, mais le sortilège ne brisa pas.",		
-		"A la place, les griffes furent propulsées et se plantèrent fermement dans le mur de pierres. Un lien magique reliant les griffes à ses mains, de la même manière que son vieux crochet.",
+		"A la place, les griffes furent propulsées et se plantèrent fermement dans le mur de pierres. Un lien magique reliait les griffes à ses mains, de la même manière que son vieux crochet.",
 		"Soudainement, Naezith apparut devant lui, et l'informa de son besoin d'un corps physique pour accomplir ses objectifs.",
 		"Sous la promesse d'un trésor illimité, Kayra accepta que le dragon possède partiellement son corps et utilise ses pouvoirs, dans sa quête pour purger les…"
 	],
