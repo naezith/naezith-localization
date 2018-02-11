@@ -201,6 +201,7 @@
 				"show_out_of_focus_overlay": "Mostrar desenfoque",
 				"render_parallax_layers": "Mostrar efecto de paralaje",
 				"texture_smoothing_filter": "Filtro de suavizado de texturas",
+				"respawn_effect": "Respawn Effect",
 				"texture_quality": "Calidad de las texturas",
 
 				"windowed": "Ventana",

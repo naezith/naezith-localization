@@ -201,6 +201,7 @@
 				"show_out_of_focus_overlay": "Индикатор потери фокуса",
 				"render_parallax_layers": "Отображать параллакс-слои",
 				"texture_smoothing_filter": "Фильтр сглаж. текстур",
+				"respawn_effect": "Respawn Effect",
 				"texture_quality": "Качество текстур",
 
 				"windowed": "Оконный режим",

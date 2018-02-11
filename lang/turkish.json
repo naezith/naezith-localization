@@ -201,6 +201,7 @@
 				"show_out_of_focus_overlay": "Pencere Odağı Uyarısını Göster",
 				"render_parallax_layers": "Haraketli Katmanları Çiz",
 				"texture_smoothing_filter": "Doku Yumuşatma Filtresi",
+				"respawn_effect": "Yeniden Doğma Efekti",
 				"texture_quality": "Doku Kalitesi",
 
 				"windowed": "Pencere",

@@ -201,6 +201,7 @@
 				"show_out_of_focus_overlay": "Pokaż Ostrzeżenie o Braku Skupienia Okna",
 				"render_parallax_layers": "Renderuj Paralaksę",
 				"texture_smoothing_filter": "Flitr Wygładzania Tekstur",
+				"respawn_effect": "Respawn Effect",
 				"texture_quality": "Jakość Tekstur",
 
 				"windowed": "Tryb niepełnoekranowy",

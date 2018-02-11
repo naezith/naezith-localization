@@ -201,6 +201,7 @@
 				"show_out_of_focus_overlay": "Zeige Out of Focus Overlay",
 				"render_parallax_layers": "Parallax Ebenen rendern",
 				"texture_smoothing_filter": "Texturglättungs-Filter",
+				"respawn_effect": "Respawn Effect",
 				"texture_quality": "Textur-Qualität",
 
 				"windowed": "Fenster",

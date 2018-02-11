@@ -201,6 +201,7 @@
 				"show_out_of_focus_overlay": "surimpression du Out of Focus",
 				"render_parallax_layers": "Afficher les arrières plans défilants",
 				"texture_smoothing_filter": "Filtre de lissage des textures",
+				"respawn_effect": "Respawn Effect",
 				"texture_quality": "Qualité des Textures",
 
 				"windowed": "Fenêtré",
