@@ -176,7 +176,7 @@
 			"sound": {
 				"title": "Аудио",
 				"shuffle_playlist": "Треки в случ. порядке",
-				"now_playing": "Играет трек:",
+				"now_playing": "Играет трек",
 				"master_volume": "Общая громкость",
 				"sfx_volume": "Громкость эффектов",
 				"music_volume": "Громкость музыки"
@@ -201,7 +201,7 @@
 				"show_out_of_focus_overlay": "Индикатор потери фокуса",
 				"render_parallax_layers": "Отображать параллакс-слои",
 				"texture_smoothing_filter": "Фильтр сглаж. текстур",
-				"respawn_effect": "Respawn Effect",
+				"respawn_effect": "Спецэффекты перезапуска",
 				"texture_quality": "Качество текстур",
 
 				"windowed": "Оконный режим",
@@ -216,7 +216,7 @@
 				"gamepad_stick_threshold": "Порог чувст. рычагов",
 				"gamepad_trigger_threshold": "Порог чувст. триггеров",
 				"gamepad_vibration": "Вибрация",
-				"disable_gamepad_sticks": "Disable Gamepad Sticks",
+				"disable_gamepad_sticks": "Отключить рычаги геймпада",
 
 				"xbox": "Xbox",
 				"dualshock": "Dualshock"
