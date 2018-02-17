@@ -216,6 +216,7 @@
 				"gamepad_stick_threshold": "Seuil de Déclenchement des Sticks de la Manette",
 				"gamepad_trigger_threshold": "Seuil de Déclenchement des Gachettes de la Manette",
 				"gamepad_vibration": "Vibration de la Manette",
+				"disable_gamepad_sticks": "Disable Gamepad Sticks",
 
 				"xbox": "Xbox",
 				"dualshock": "Dualshock"

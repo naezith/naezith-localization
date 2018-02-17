@@ -216,6 +216,7 @@
 				"gamepad_stick_threshold": "Oyun Kolu Çubuk Eşiği",
 				"gamepad_trigger_threshold": "Oyun Kolu Tetik Eşiği",
 				"gamepad_vibration": "Oyun Kolu Titreşimi",
+				"disable_gamepad_sticks": "Oyun Kolu Çubuklarını Devre Dışı Bırak",
 
 				"xbox": "Xbox",
 				"dualshock": "Dualshock"

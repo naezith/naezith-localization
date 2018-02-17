@@ -216,6 +216,7 @@
 				"gamepad_stick_threshold": "Gamepad Stick Threshold",
 				"gamepad_trigger_threshold": "Gamepad Trigger Threshold",
 				"gamepad_vibration": "Gamepad Vibration",
+				"disable_gamepad_sticks": "Disable Gamepad Sticks",
 
 				"xbox": "Xbox",
 				"dualshock": "Dualshock"
