@@ -18,7 +18,7 @@
 	"custom_levels": "Mapy Autorskie",
 	"global_rankings": "Ranking Światowy",
 	"settings": "Ustawienia",
-	"credits": "Uznania",
+	"credits": "Autorzy",
 	"level_editor": "Edytor Map",
 	"quit": "Wyjście",
 
@@ -26,7 +26,7 @@
 	"speedrun_selection": "Wybór Speedrunu",
 	"speedrun_lb": "Ranking Speedrunu",
 	
-	"window_is_out_of_focus": "Okno nie ma skupienia",
+	"window_is_out_of_focus": "Okno straciło fokus",
 
 	"tutorial": "Samouczek",
 	"tutorial_texts": {
@@ -35,7 +35,7 @@
 		"dash_jump": "SPRINT + SKOK to SUPER-SKOK",
 		"dash_to_surf": "SPRINT aby SERFOWAĆ",
 		"jump_during_surf": "SKOK podczas SURFOWANIA",
-		"dash_during_swing" : "Wciśnij SPRINT podczas HUŚTANIA aby zyskać prędkość i wysokość"
+		"dash_during_swing" : "Wciśnij SPRINT podczas HUŚTANIA, aby zyskać prędkość i wysokość"
 	},
 	"hold": "Przytrzymaj",
 	"click": "Kliknij",
@@ -47,12 +47,12 @@
 	],
 	
 	"tips" : [
-		"Wbij hak w powierzchnię aby odświeżyć podwójny skok.",
-		"Skocz podczas sprintu aby skoczyć wyżej",
-		"Huśtaj się na jak najdłuższej wiązce aby zwiększyć prędkość",
+		"Wbij hak w powierzchnię aby odzyskać podwójny skok.",
+		"Skocz podczas sprintu aby skoczyć wyżej.",
+		"Huśtaj się na jak najdłuższej wiązce, aby zwiększyć prędkość.",
 		"Zwolnij hak najniżej jak tylko jest to możliwe, aby zwiększyć swoją prędkość w poziomie.",
-		"Poczas huśtania, sprintując najniżej jak tylko jest to możliwe, zyskasz największą prędkość i wysokość.",
-		"Użyj podwójnego skoku tak późno jak to tylko możliwe - nigdy nie wiadomo, kiedy może się przydać."
+		"Sprintując najniżej jak tylko jest to możliwe podczas huśtania, zyskasz największą prędkość i wysokość.",
+		"Używaj podwójnego skoku tak późno jak to tylko możliwe - nigdy nie wiadomo, kiedy może się przydać."
 	],
 
 	"global_ranks": {
@@ -109,7 +109,7 @@
 		"MENU RIGHT": "Menu w Prawo",
 		"LEADERBOARD": "Lista Rankingowa",
 		"LEVEL SEARCH": "Wyszukiwanie Mapy",
-		"SKIP TRACK": "Pomiń Ścieżkę Dźwiękową",
+		"SKIP TRACK": "Pomiń utwór",
 
 		"WATCH": "Obejrzyj",
 		"APPLY CHANGES": "Zastosuj Zmiany",
@@ -152,13 +152,13 @@
 				"energy_as_number": "Energia w Formie Liczbowej",
 				"ghost_replay": "Powtórka Ducha",
 				"ghost_visibility": "Widoczność Ducha",
-				"hook_indicator": "Wskaźnik Trajektori Haka",
+				"hook_indicator": "Wskaźnik Trajektorii Haka",
 				"dash_bar": "Wskaźnik Sprintu",
 				"minimap": "Mini-mapa",
 				"skip_intro": "Pomiń Intro",
 				"skip_ending": "Pomiń Animację Końcową",
 				"download_ghost": "Pobierz Ducha",
-				"always_show_mastery_ghost": "Zawsze Pokazuj Ducha Mistrzostwa",
+				"always_show_mastery_ghost": "Zawsze Pokazuj Najlepszego Ducha",
 				"fade_ghost": "Zanikający Duch",
 				"shadow_ghost": "Duch jako Cień",
 				"short_list": "Krótka Lista",
@@ -198,7 +198,7 @@
 				"ambient_coloring": "Kolor Ambientu",
 				"rgb_split": "Podział RGB",
 				"vignette_rgb_split": "Winieta i Podział RGB",
-				"show_out_of_focus_overlay": "Pokaż Ostrzeżenie o Braku Skupienia Okna",
+				"show_out_of_focus_overlay": "Pokaż Ostrzeżenie o Braku Fokusu",
 				"render_parallax_layers": "Renderuj Paralaksę",
 				"texture_smoothing_filter": "Flitr Wygładzania Tekstur",
 				"respawn_effect": "Respawn Effect",
@@ -213,8 +213,8 @@
 				"title": "Sterowanie",
 				"gamepad_layout": "Ustawienia Gamepada",
 				"disable_gamepad": "Wyłącz Gamepada",
-				"gamepad_stick_threshold": "Próg Aktywacji Sticka",
-				"gamepad_trigger_threshold": "Próg Aktywacji Przycisków Tylnych",
+				"gamepad_stick_threshold": "Próg Aktywacji Gałek",
+				"gamepad_trigger_threshold": "Próg Aktywacji Triggerów",
 				"gamepad_vibration": "Wibracje Gamepada",
 				"disable_gamepad_sticks": "Disable Gamepad Sticks",
 
@@ -272,7 +272,7 @@
 	"watch_last_run": "Obejrzyj moją ostatnią próbę",
 	"race_against_ghost": "Wyścig z duchem",
 	"mastered_the_level": "Mistrzostwo",
-	"mastery_ghost_is_beaten": "Duch Mistrzostwa został pokonany!",
+	"mastery_ghost_is_beaten": "Najlepszy Duch został pokonany!",
 
 	"all_levels": "Wszystkie Mapy",
 	"everyone": "Wszyscy",
@@ -304,7 +304,7 @@
 
 	"expired_session": {
 		"connection_lost": "Utracono Połączenie",
-		"new_patch": "Prawdopodobnie nowy patch został opublikowany",
+		"new_patch": "Prawdopodobnie została opublikowana nowa aktualizacja",
 		"restart": "Uruchom Grę Ponownie"
 	},
 
@@ -341,7 +341,7 @@
 
 		"stick": "Przyklej",
 
-		"homing": "Samonamierzający",
+		"homing": "Samo-namierzający",
 		"straight": "Prosty",
 		"rotating": "Obracający się",
 		"toggling": "Przełączający się",
@@ -364,8 +364,8 @@
 		"snap": "Wyrównanie",
 
 		"helper_ghost_will_draw": "Narysuj prostokąt, który będzie aktywował DUCHA nagranej powtórki",
-		"helper_ghost_record": "Wciśnij U podczas testowania aby nagrać DUCHA powtórki",
-		"helper_ghost_stop_record": "Wciśnij U aby zatrzymać nagrywanie DUCHA powtórki i zapisać go",
+		"helper_ghost_record": "Wciśnij U podczas testowania, aby nagrać DUCHA powtórki",
+		"helper_ghost_stop_record": "Wciśnij U, aby zatrzymać nagrywanie DUCHA powtórki i zapisać go",
 
 		"tile_names": {
 			"earth": "Ziemia",
@@ -401,7 +401,7 @@
 			"redo": "Ponów",
 			"toggle_grid": "Przełącz Siatkę",
 			"change_category": "Przełącz Kategorię",
-			"hide_gui": "Ukryj interfejs",
+			"hide_gui": "Ukryj Interfejs",
 			"toggle_ai_update": "Przełącz aktualizację sztucznej inteligencji",
 			"boost_camera_speed": "Szybsza Kamera",
 			"move_camera": "Porusz Kamerą",
@@ -417,7 +417,7 @@
 			"obj_colorize": "Pokoloruj Mapę",
 			"record_ghost": "Nagraj Ducha",
 
-			"select_playground_tile_layer": "Pole Gry",
+			"select_playground_tile_layer": "Plac Zabaw",
 			"select_static_bg_tile_layer": "Statyczne Tło",
 			"select_parallax_bg1_tile_layer": "Tło z Paralaksą #1",
 			"select_parallax_bg2_tile_layer": "Tło z Paralaksą #2",
@@ -429,7 +429,7 @@
 
 		"upload_level": "Publikuj Mapę",
 		"upload_level_warning": "Ostrzeżenie do publikacji",
-		"upload_level_label1": "Uwaga: Publikując mapę ponownie, wyczyścisz tablicę wyników.",
+		"upload_level_label1": "Uwaga: Publikując mapę ponownie, wyczyścisz jej tablicę wyników.",
 		"upload_level_label2": "Aby wysłać mapę, musisz ukończyć ją co najmniej raz.",
 
 		"clear_everything": "Usuń Wszystko",
@@ -446,18 +446,18 @@
 
 	"intro" : [
 		"Legenda głosi historię o smoku zrodzonym w burzy imieniem Naezith, który niegdyś błąkał się po tych ziemiach.",
-		"Mówiono, że po śmierci smoka, jego zwkłoki, które wciąż posiadały olbrzymią moc,",
-		"powoli zostały rozproszone po całym świecie przez naturę. Jednak Naezith nie chciał dzielić się mocą, którą wciąż uważał za swoją własność.",
-		"Jego dusza wciąż pozostała uwięziona, próbując znaleźć sposób na zniszczenie szczątek magii.",
-		"Tysiące lat później, rządny przygód podróżnik imieniem Kayra",
-		"usłyszał pogłoski o zwłokach odpoczywających w jaskini i zanurkował w nią, używając swojej liny i zaufanego haka.",
+		"Mówiono, że po śmierci smoka, jego zwłoki, które wciąż posiadały olbrzymią moc,",
+		"zostały powoli rozsiane przez naturę po całym świecie. Jednak Naezith nie chciał dzielić się potęgą, którą wciąż uważał za swoją własność.",
+		"Jego dusza nadal pozostała uwięziona, próbując znaleźć sposób na zniszczenie resztek magii.",
+		"Tysiące lat później, żądny przygód podróżnik imieniem Kayra,",
+		"usłyszał pogłoski o zwłokach spoczywających w jaskini i zanurkował w nią, używając swojej liny i zaufanego haka.",
 		"Niestety, stary hak zawiódł Kayra, który wpadł",
 		"w pozornie nieskończenie głęboki dół...",
-		"Zbudził się i, przerażony, zobaczył dwa świecące pazury, magicznie przytwierdzone do jego dłoni.",
+		"Zbudził się, i przerażony zobaczył dwa świecące się pazury, magicznie przytwierdzone do jego dłoni.",
 		"Oszalały w strachu, dziko machał swoimi rękoma - jednak zaklęcie nieprzerwanie trwało.",
-		"Zamiast tego pazór wysrzelił w przód, mocno wbijając się w skalną ścianę. Magiczna wiązka wciąż łączyła pazury z jego dłońmi, działając podobnie jak jego stary hak na linie.",
-		"Nagle Naezith ujawnił się, oznajmując, że potrzebuje fizycznego ciała by osiągnąc swoje cele.",
-		"Obiecując niestworzone bogactwa, Kayra przystał, aby Smok częściowo zajął jego ciało, i używając swoich mocy rozpoczął swoją podróż by zniszczyć..."
+		"Zamiast tego pazur wystrzelił w przód, silnie wbijając się w skalną ścianę. Magiczna wiązka wciąż łączyła pazury z jego dłońmi, działając podobnie jak jego stary hak na linie.",
+		"Nagle Naezith ujawnił się, oznajmiając, że potrzebuje fizycznego ciała by osiągnąć swoje cele.",
+		"Obiecując niestworzone bogactwa, Kayra przystał, aby Smok częściowo zajął jego organizm, i używając swoich mocy rozpoczął swoją podróż by zniszczyć..."
 	],
 	
 	"translation": "Tłumaczenie",
