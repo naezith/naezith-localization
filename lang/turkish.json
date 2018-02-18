@@ -201,6 +201,7 @@
 				"show_out_of_focus_overlay": "Pencere Odağı Uyarısını Göster",
 				"render_parallax_layers": "Haraketli Katmanları Çiz",
 				"texture_smoothing_filter": "Doku Yumuşatma Filtresi",
+				"respawn_effect": "Yeniden Doğma Efekti",
 				"texture_quality": "Doku Kalitesi",
 
 				"windowed": "Pencere",
@@ -215,6 +216,7 @@
 				"gamepad_stick_threshold": "Oyun Kolu Çubuk Eşiği",
 				"gamepad_trigger_threshold": "Oyun Kolu Tetik Eşiği",
 				"gamepad_vibration": "Oyun Kolu Titreşimi",
+				"disable_gamepad_sticks": "Oyun Kolu Çubuklarını Devre Dışı Bırak",
 
 				"xbox": "Xbox",
 				"dualshock": "Dualshock"

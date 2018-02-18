@@ -200,7 +200,8 @@
 				"vignette_rgb_split": "Winieta i Podział RGB",
 				"show_out_of_focus_overlay": "Pokaż Ostrzeżenie o Braku Fokusu",
 				"render_parallax_layers": "Renderuj Paralaksę",
-				"texture_smoothing_filter": "Filtr Wygładzania Tekstur",
+				"texture_smoothing_filter": "Flitr Wygładzania Tekstur",
+				"respawn_effect": "Respawn Effect",
 				"texture_quality": "Jakość Tekstur",
 
 				"windowed": "Tryb niepełnoekranowy",
@@ -215,6 +216,7 @@
 				"gamepad_stick_threshold": "Próg Aktywacji Gałek",
 				"gamepad_trigger_threshold": "Próg Aktywacji Triggerów",
 				"gamepad_vibration": "Wibracje Gamepada",
+				"disable_gamepad_sticks": "Disable Gamepad Sticks",
 
 				"xbox": "Xbox",
 				"dualshock": "Dualshock"

@@ -201,6 +201,7 @@
 				"show_out_of_focus_overlay": "Show Out of Focus Overlay",
 				"render_parallax_layers": "Render Parallax Layers",
 				"texture_smoothing_filter": "Texture Smoothing Filter",
+				"respawn_effect": "Respawn Effect",
 				"texture_quality": "Texture Quality",
 
 				"windowed": "Windowed",
@@ -215,6 +216,7 @@
 				"gamepad_stick_threshold": "Gamepad Stick Threshold",
 				"gamepad_trigger_threshold": "Gamepad Trigger Threshold",
 				"gamepad_vibration": "Gamepad Vibration",
+				"disable_gamepad_sticks": "Disable Gamepad Sticks",
 
 				"xbox": "Xbox",
 				"dualshock": "Dualshock"

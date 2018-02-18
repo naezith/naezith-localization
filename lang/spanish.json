@@ -201,6 +201,7 @@
 				"show_out_of_focus_overlay": "Mostrar desenfoque",
 				"render_parallax_layers": "Mostrar efecto de paralaje",
 				"texture_smoothing_filter": "Filtro de suavizado de texturas",
+				"respawn_effect": "Respawn Effect",
 				"texture_quality": "Calidad de las texturas",
 
 				"windowed": "Ventana",
@@ -215,6 +216,7 @@
 				"gamepad_stick_threshold": "Sensibilidad de los sticks del mando",
 				"gamepad_trigger_threshold": "Sensibilidad de los gatillos del mando",
 				"gamepad_vibration": "Vibración del mando",
+				"disable_gamepad_sticks": "Disable Gamepad Sticks",
 
 				"xbox": "Xbox",
 				"dualshock": "Dualshock"
