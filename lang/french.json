@@ -80,8 +80,8 @@
 	"shadow": "Ombre",
 	"done": "Fait",
 	"failed": "Échoué",
-	"low": "Low",
-	"high": "High",
+	"low": "faible",
+	"high": "élevé",
 
 	"secret_unlocked" : "Un secret a été débloqué",
 	"secret_level_unlocked" : "Un niveau secret a été débloqué",
@@ -201,7 +201,7 @@
 				"show_out_of_focus_overlay": "surimpression du Out of Focus",
 				"render_parallax_layers": "Afficher les arrières plans défilants",
 				"texture_smoothing_filter": "Filtre de lissage des textures",
-				"respawn_effect": "Respawn Effect",
+				"respawn_effect": "Effet de réapparition",
 				"texture_quality": "Qualité des Textures",
 
 				"windowed": "Fenêtré",
@@ -213,10 +213,10 @@
 				"title": "Contrôles",
 				"gamepad_layout": "Agencement de la Manette",
 				"disable_gamepad": "Désactiver la Manette",
-				"gamepad_stick_threshold": "Seuil de Déclenchement des Sticks de la Manette",
-				"gamepad_trigger_threshold": "Seuil de Déclenchement des Gachettes de la Manette",
+				"gamepad_stick_threshold": "Seuil de Déclenchement des Sticks",
+				"gamepad_trigger_threshold": "Seuil de Déclenchement des Gachettes",
 				"gamepad_vibration": "Vibration de la Manette",
-				"disable_gamepad_sticks": "Disable Gamepad Sticks",
+				"disable_gamepad_sticks": "Désactiver les Sticks",
 
 				"xbox": "Xbox",
 				"dualshock": "Dualshock"
@@ -445,7 +445,7 @@
 	},
 
 	"intro" : [
-		"La legende parle d'un puissant dragon du tonnerre qui a autrefois parcouru ces terres.",
+		"Les légendes parlent d'un puissant dragon du tonnerre qui a autrefois parcouru ces terres.",
 		"Il était dit qu'après sa mort, les vestiges du corps du dragon qui contenaient encore un immense pouvoir",
 		"ont lentement étaient dispersés à travers le monde. Mais Naezith ne voulais pas partager le pouvoir qu'il considérait encore comme le sien.",
 		"Et ainsi, son âme seule persistante, essaya de trouver un moyen de purger les vestiges de leur magie.",
