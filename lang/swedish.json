@@ -1,0 +1,465 @@
+{
+	"lang_name_short": "SE",
+	"lang_name_english": "Swedish",
+	"lang_name_localized": "Svenska",
+
+	"language": "Språk",
+	
+	"age": "Ålder",
+	"date": "Datum",
+	"player": "Spelare",
+
+	"auto": "Automatiskt",
+	"paused": "Pausat",
+	"main_menu": "Huvudmeny",
+	"purge_the_remnants": "Rena Kvarlevorna",
+	"practice_lair": "Övningslya",
+	"speedrun": "Speedrun",
+	"custom_levels": "Gemenskapsnivåer",
+	"global_rankings": "Global Ranking",
+	"settings": "Inställningar",
+	"credits": "Lista över medverkande",
+	"level_editor": "Nivåeditor",
+	"quit": "Avsluta",
+
+	"level_selection": "Val av Nivå",
+	"speedrun_selection": "Val av Speedrun",
+	"speedrun_lb": "Speedrun Ranking",
+	
+	"window_is_out_of_focus": "Fönstret är ur fokus",
+
+	"tutorial": "Vägledning",
+	"tutorial_texts": {
+		"hold_hook_to_swing": "Håll KROK för att SVINGA",
+		"hold_hook_and_jump_to_pull": "Håll KROK + HOPP för att DRA",
+		"dash_jump": "DASH + HOPP to DASH-HOPPA",
+		"dash_to_surf": "DASHA för att SURFA",
+		"jump_during_surf": "HOPPA under SURFEN",
+		"dash_during_swing" : "DASHA under SVINGEN för att tjäna fart och höjd"
+	},
+	"hold": "Håll",
+	"click": "Klicka",
+	"click_and_hold": "Klicka och håll",
+	
+	"pop_up_texts" : [
+		"Redo", "Kör", "Försämring", "Återställ", "Återkalla",
+		"Färdig", "Misslyckades", "Namn"
+	],
+	
+	"tips" : [
+		"Att träffa en krok ger dig ett dubbelhopp.",
+		"Hoppa under dashen för att hoppa högre.",
+		"Ju längre din krokstråle är, desto mer fart kommer du att tjäna när du svingar.",
+		"Släpp kroken när du är vid botten av svingen för att få mer horisontell fart.",
+		"Att dasha under svingen är mest effektivt när du är vid botten av svingen, för att tjäna fart och höjd.",
+		"Använd ditt dubbelhopp så sent som möjligt, du kan behöva det när som helst."
+	],
+
+	"global_ranks": {
+		"descendant": "Ättling till Naezith",
+		"inhuman": "Omänsklig",
+		"grandmaster": "Stormästare",
+		"master": "Mästare",
+		"expert": "Expert",
+		"veteran": "Veteran",
+		"adept": "Skicklig",
+		"apprentice": "Lärling",
+		"novice": "Nybörjare"
+	},
+
+	"yes": "Ja",
+	"no": "Nej",
+	"enabled": "Aktiverat",
+	"disabled": "Avaktiverat",
+	"on": "På",
+	"off": "Av",
+	"all": "Alla",
+	"bottom": "Botten",
+	"middle": "Mitten",
+	"personal_best": "Personligt Bästa",
+	"shadow": "Skugga",
+	"done": "Färdig",
+	"failed": "Misslyckades",
+	"low": "Låg",
+	"high": "Hög",
+
+	"secret_unlocked" : "Låste upp en hemlighet",
+	"secret_level_unlocked" : "Låste upp en Hemlig Nivå",
+	"only_in_replays": "Endast i Repriser",
+	"only_in_speedrun": "Endast i Speedrun",
+	"better_than_me": "En spelare bättre än mig",
+	"line": "Linje",
+	"lightning": "Blixt",
+	"line_and_lightning": "Linje & Blixt",
+
+	"action": {
+		"LEFT": "Vänster",
+		"RIGHT": "Höger",
+		"JUMP": "Hopp",
+		"HOOK": "Krok",
+		"DASH": "Dash",
+		"RESET": "Återställning",
+		"RECALL": "Återkallning",
+		"APPLY": "Använd",
+		"PAUSE": "Pausa",
+		"BACK": "Tillbaka",
+		"MENU UP": "Meny Upp",
+		"MENU DOWN": "Meny Ner",
+		"MENU LEFT": "Meny Vänster",
+		"MENU RIGHT": "Meny Höger",
+		"LEADERBOARD": "Rankinglista",
+		"LEVEL SEARCH": "Nivå Sökning",
+		"SKIP TRACK": "Hoppa över Spår",
+
+		"WATCH": "Titta",
+		"APPLY CHANGES": "Använd Ändringar",
+		"CHANGE SPEED": "Ändra Hastighet",
+		"RESTART REPLAY": "Starta om Repris"
+	},
+
+	"promoted": "Befordrad",
+	"demoted": "Degraderad",
+
+	"inspect": "Inspektera",
+	"inspecting": "Inspekterar",
+	"complete_the_chapter": "Fullborda kapitlet",
+	"complete_a_chapter": "Fullborda ett kapitel",
+
+	"purged": "Renat",
+	"name": "Namn",
+	"rating": "Betyg",
+	"rank": "Rang",
+	"time": "Tid",
+	"your_time": "Din Tid",
+	"mastery_time": "Behärskningstid",
+	"total_time": "Total Tid",
+	"dominance": "Dominans",
+	"locked": "Låst",
+	"author": "Skapare",
+	
+	"hud": "HUD",
+
+	"menu": {
+		"settings": {
+			"restore_default": "Återställ Standardinställningar",
+			
+			"gameplay": {
+				"title": "Spelande",
+				"camera_ignores_borders": "Kameran Ignorerar Kanter",
+				"input_indicator": "Inmatnings Indikator",
+				"allow_checkpoints": "Tillåt Checkpoint",
+				"speedometer": "Hastighetsmätare",
+				"energy_as_number": "Energi som Nummer",
+				"ghost_replay": "Spök-Repris",
+				"ghost_visibility": "Spökets Synlighet",
+				"hook_indicator": "Krok Indikator",
+				"dash_bar": "Dash Mätare",
+				"minimap": "Mini-karta",
+				"skip_intro": "Hoppa över Introt",
+				"skip_ending": "Hoppa över Slutsekvensen",
+				"download_ghost": "Ladda ner Spöke",
+				"always_show_mastery_ghost": "Visa alltid behärskningsspöke",
+				"fade_ghost": "Tona Spöke",
+				"shadow_ghost": "Skuggspöke",
+				"short_list": "Kort Lista",
+				"speedrun_levels_listing": "Lista över Speedrun Nivåer"
+			},
+
+			"customization": {
+				"title": "Anpassning",
+				"beam_style": "Krokstrålens Stil",
+				"main_color": "Huvudfärg",
+				"secondary_color": "Andrahandsfärg",
+				"ignore_replay_style": "Ignorera Repris Stil"
+			},
+
+			"sound": {
+				"title": "Ljud",
+				"shuffle_playlist": "Blanda Spellista",
+				"now_playing": "Spelar Nu",
+				"master_volume": "Huvudvolymen",
+				"sfx_volume": "Ljudeffekts Volym",
+				"music_volume": "Musik Volym"
+			},
+
+			"graphics": {
+				"title": "Grafik",
+				"display_mode": "Visningsläge",
+				"fullscreen_resolution": "Fullskärmsupplösning",
+				"windowed_mode_resolution": "Fönsterupplösning",
+				"vertical_sync": "VSync",
+				"view_height": "Visningshöjd",
+				"rendertexture_height": "Rendera Texturhöjd",
+				"fps_cap": "FPS Gräns",
+				"show_fps": "Visa FPS",
+				"bloom": "Bloom",
+				"background_blur": "Bakgrundsfärg",
+				"menu_blur": "Suddighet i Menyn",
+				"ambient_coloring": "Omgivande Färgsättning",
+				"rgb_split": "RGB Delning",
+				"vignette_rgb_split": "Vinjett & RGB Delning",
+				"show_out_of_focus_overlay": "Visa Ur Fokus Överlägg",
+				"render_parallax_layers": "Rendera Parallaxlager",
+				"texture_smoothing_filter": "Filter för Texturutjämning",
+				"respawn_effect": "Respawn Effekt",
+				"texture_quality": "Textur Kvalitet",
+
+				"windowed": "Fönster",
+				"borderless": "Gränslös",
+				"fullscreen": "Fullskärm"
+			},
+
+			"controls": {
+				"title": "Kontroller",
+				"gamepad_layout": "Gamepad Layout",
+				"disable_gamepad": "Avaktivera Gamepad",
+				"gamepad_stick_threshold": "Gamepad Stick Threshold",
+				"gamepad_trigger_threshold": "Gamepad Trigger Threshold",
+				"gamepad_vibration": "Gamepad Vibration",
+				"disable_gamepad_sticks": "Avaktivera Gamepad Sticks",
+
+				"xbox": "Xbox",
+				"dualshock": "Dualshock"
+			},
+
+			"search_settings": {
+				"title": "Sökinställningar"
+			}
+		}
+	},
+
+	"offline": "OFFLINE",
+	"offline_mode": "OFFLINE LÄGE",
+	"offline_mode_warning": "VARNING: Du kan inte ladda upp tider i offline läget!",
+
+	"new": "Ny",
+	"page": "Sida",
+	"cancel": "Avbryt",
+	"loading": "Laddar",
+	"initializing": "Initialiserar",
+	"loading_assets": "Laddar tillgångar",
+	"fetching_user_data": "Hämtar användardata",
+	"resume": "Återuppta",
+	"restart": "Starta om",
+	"refresh": "Uppdatera",
+	"retry": "Försök igen",
+	"play": "Spela",
+	"search": "Sök",
+	"scroll": "Skrolla",
+	"rotate": "Rotera",
+	"scale": "Skala",
+	"boost": "Boosta",
+	"recording": "Inspelning",
+	"upload": "Ladda upp",
+	"save": "Spara",
+	"load": "Ladda",
+	"resize": "Ändra storlek",
+	"create": "Skapa",
+	"delete": "Radera",
+
+	"show_top_players": "Visa toppspelare",
+	"player_rank_text": ["Du är #", " bland ", " players!"],
+	"lb_disabled_offline": "Rankinglistor är avaktiverade i OFFLINE LÄGET",
+	"no_record": "Du har inget rekord",
+
+	"best": "Bäst",
+	"best_player": "Bästa Spelaren",
+	"next_level": "Nästa Nivå",
+	"rate_this_level": "Bedöm denna nivå",
+	"rated": "Bedömd",
+	"already_rated_level": ["Du bedömde denna nivå ", "!  Ändra till "],
+	"finish_first": "Slutför nivån en gång för att bedöma den!",
+	"watch_last_run": "Titta på mitt senaste försök",
+	"race_against_ghost": "Tävla mot ett spöke",
+	"mastered_the_level": "Behärskad",
+	"mastery_ghost_is_beaten": "Behärskningsspöket är slagen!",
+
+	"all_levels": "All Nivåer",
+	"everyone": "Allihop",
+	"sort_property": "Sortera Ordentligt",
+	"most_played": "Mest Spelade",
+	"most_recent": "Allra Senaste",
+	"most_voted": "Mest Bedömt",
+	"default": "Standard",
+	"hide_finished": "Dölj Slutförda",
+	"show_finished": "Visa Slutförda",
+
+	"order": "Ordning",
+	"ascending": "Stigande",
+	"descending": "Sjunkande",
+
+	"gr_info": "Ställningar uppdateras ",
+	"hourly": "varje timme",
+	"daily": "dagligen",
+	"monthly": "månadsvis",
+	"every": "var",
+	"hours": "timmar",
+	"days": "dagar",
+	"months": "månader",
+	"today": "Idag",
+	"yesterday": "Igår",
+
+	"capped": "begränsat",
+	"non_capped": "obegränsat",
+
+	"expired_session": {
+		"connection_lost": "Anslutning Förlorad",
+		"new_patch": "Förmodligen har en ny uppdatering släppts",
+		"restart": "Var Vänlig Starta om Spelet"
+	},
+
+	"width": "Bredd",
+	"height": "Höjd",
+	"front": "Framsida",
+	"behind": "Baksida",
+	"first": "Första",
+	"second": "Andra",
+	"both": "Båda",
+	"properties": "Egenskaper",
+	"accel": "Acceleration",
+	"speed": "Hastighet",
+	"rotation": "Rotation",
+	"working": "Fungerar",
+	"movement": "Rörelse",
+	"radius": "Radie",
+	"in": "In",
+	"out": "Ut",
+	"add": "Lägg Till",
+	"set": "Sätt",
+	"type": "Typ",
+	"gravity": "Gravitation",
+	"rectangle": "Rektangel",
+	"circle": "Cirkel",
+	"direction": "Riktning",
+	"size": "Storlek",
+	"range": "Räckvidd",
+	"offset": "Offset",
+
+	"editor": {
+		"hide_layers": "Dölj Lager",
+		"show_layers": "Visa Lager",
+
+		"stick": "Fästa",
+
+		"homing": "Målsökande",
+		"straight": "Rakt",
+		"rotating": "Roterande",
+		"toggling": "Växlande",
+		"tracking": "Spårande",
+
+		"active_time": "Aktiv Tid",
+		"passive_time": "Passiv Tid",
+		"max_length": "Max Längd",
+		"iter_count": "Antal Iterationer",
+		"start_delay": "Startfördröjning",
+		"phase_offset": "Fas Offset",
+		"height_diff": "Höjdskillnad",
+		"linear": "Linjär",
+		"ease": "Lätthet",
+
+		"tiles": "Plattor",
+		"objects": "Objekt",
+		"curr_size": "Nuvarande Storlek",
+
+		"snap": "Snap",
+
+		"helper_ghost_will_draw": "Rita en rektangel som kommer sätta igång SPÖK-reprisen du just spelat in",
+		"helper_ghost_record": "Tryck på U under Spel-testet för att spela in en SPÖK-repris",
+		"helper_ghost_stop_record": "Tryck på U för att stoppa inspelningen och svara SPÖK-reprisen",
+
+		"tile_names": {
+			"earth": "Jord",
+			"no_grap": "Ingen Fasthakning",
+			"spike": "Spik",
+			"limited_grap": "Begränsad Fasthakning",
+			"surface": "Yta",
+			"no_walljump": "Inget Vägghopp",
+			"hookable": "Krokbar",
+			"decoration": "Dekoration",
+			"props": "Rekvisita"
+		},
+
+		"object_names": {
+			"blade": "Klinga",
+			"turret": "Kanontorn",
+			"killer_bomb": "Mördar Bomb",
+			"walter_bomb": "Walter Bomb",
+			"laser": "Laser",
+			"accelerator": "Accelerator",
+			"water": "Vatten",
+			"waterfall": "Vattenfall",
+			"jump_pad": "Hopp Platta",
+			"checkpoint": "Checkpoint",
+			"player_spawn": "Spelar Spawn",
+			"end_remnant": "Avsluta Kvarleva"
+		},
+
+		"binds": {
+			"coordinate": "Koordinat",
+			"zoom": "Zoom",
+			"undo": "Ångra",
+			"redo": "Gör Om",
+			"toggle_grid": "Växla Rutnät",
+			"change_category": "Växla Kategori",
+			"hide_gui": "Dölj GUI",
+			"toggle_ai_update": "Växla AI Uppdatering",
+			"boost_camera_speed": "Snabbare Kamera",
+			"move_camera": "Flytta Kamera",
+			"drag_object": "Dra Objekt",
+			"copy_object_properties": "Kopiera Objektets Egenskaper",
+			"area_fill": "Fyll Området",
+			"quick_save": "Snabb-spara",
+	
+			"rotate_object": "Rotera",
+			"play": "Spela",
+			"obj_portal": "Portal",
+			"obj_hook_band": "Krok Band",
+			"obj_colorize": "Färga Nivån",
+			"record_ghost": "Spela in Spöke",
+
+			"select_playground_tile_layer": "Lekplats",
+			"select_static_bg_tile_layer": "Statisk Bakgrund",
+			"select_parallax_bg1_tile_layer": "Parallax Bakgrund #1",
+			"select_parallax_bg2_tile_layer": "Parallax Bakgrund #2",
+			"select_playground_deco_tile_layer": "Främre Lagret"
+		},
+
+		"file_name": "Filnamn",
+		"level_name": "Namn på Nivån",
+
+		"upload_level": "Ladda upp Nivå",
+		"upload_level_warning": "Ladda upp Nivå Varning",
+		"upload_level_label1": "Varning: Rankinglistan kommer att rensas om du uppdaterar nivån.",
+		"upload_level_label2": "Du måste slutföra nivån en gång för att ladda upp den.",
+
+		"clear_everything": "Rensa Allt",
+		"save_level": "Spara Nivå",
+		"load_level": "Ladda Nivå",
+		"load_level_label1": "Varning: Filnamnet är en kombination av skaparen användarnamn and namnet på nivån.",
+		"load_level_label2": ["t.ex. \"username-levelname\" som \"naezith-Stalactites\" (Filen borde finnas i ", " mappen)"],
+
+		"resize_level": "Ändra Nivåns Storlek",
+		"new_size": "Ny Storlek",
+		"new_level": "Ny Nivå",
+		"delete_uploaded_level": "Radera Uppladdad Nivå"
+	},
+
+	"intro" : [
+		"Legenden berättar om en mäktig åskdrake vid namn Naezith som en gång strövade över detta land.",
+		"Det sas att efter hans död så höll kvarlevor av drakens kropp fortfarande en enorm kraft",
+		"och dessa skingrades sakta över hela världen av naturliga händelser. Men Naezith ville inte dela med sig av kraften som han ännu såg som sin egen.",
+		"Så, hans själ dröjde sig kvar, i ett försök att hitta ett sätt att rena kvarlevorna från deras magi.",
+		"Tusentals år senare, en äventyrare vid namn Kayra",
+		"hörde rykten om en kvarleva, liggandes inuti en grotta, och dök in med sitt rep och sin trofasta krok.",
+		"Men kroken var gammal och brast slutligen, vilket fick Kayra att falla",
+		"ner i ett till synes oändlig avgrund...",
+		"Han vaknade, skräckslagen och fann två glödande klor som var magiskt bundna till hans händer.",
+		"Vansinnig med fasa, han svingade sina armar vilt, men förtrollningen bröts inte.",
+		"Istället sköt klon ut och hakade fast sig själv stadigt i stenväggen. En magisk stråle kedjade fortfarande klorna till hans händer, inte helt olikt sin gamla krok.",
+		"Plötsligt, Naezith uppenbarade sig för Kayra, och sa att han behövde en fysisk kropp för att nå sina mål.",
+		"Under löftet av obegränsade rikedomar accepterade Kayra drakens erbjudande att delvis besitta hans kropp, och använda hans krafter. Han påbörjade sin strävan att rena..."
+	],
+	
+	"translation": "Översättning",
+	"translated_by": "Seabeast"
+}
