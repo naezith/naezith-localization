@@ -203,6 +203,8 @@
 				"texture_smoothing_filter": "Doku Yumuşatma Filtresi",
 				"respawn_effect": "Yeniden Doğma Efekti",
 				"texture_quality": "Doku Kalitesi",
+				"water_quality": "Su Kalitesi",
+				"hide_waterfalls": "Şelaleleri Gizle",
 
 				"windowed": "Pencere",
 				"borderless": "Kenarlıksız",

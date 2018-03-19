@@ -203,6 +203,8 @@
 				"texture_smoothing_filter": "Texturglättungs-Filter",
 				"respawn_effect": "Respawn Effect",
 				"texture_quality": "Textur-Qualität",
+				"water_quality": "Water Quality",
+				"hide_waterfalls": "Hide Waterfalls",
 
 				"windowed": "Fenster",
 				"borderless": "Fenster ohne Rand",
