@@ -203,8 +203,8 @@
 				"texture_smoothing_filter": "Фильтр сглаж. текстур",
 				"respawn_effect": "Спецэффекты перезапуска",
 				"texture_quality": "Качество текстур",
-				"water_quality": "Water Quality",
-				"hide_waterfalls": "Hide Waterfalls",
+				"water_quality": "Качество воды",
+				"hide_waterfalls": "Скрыть водопады",
 
 				"windowed": "Оконный режим",
 				"borderless": "Оконный без рамки",
