@@ -1,0 +1,467 @@
+{
+	"lang_name_short": "KO",
+	"lang_name_english": "Korean",
+	"lang_name_localized": "한국어",
+
+	"language": "언어",
+	
+	"age": "나이",
+	"date": "날짜",
+	"player": "플레이어",
+
+	"auto": "오토",
+	"paused": "일시 정지",
+	"main_menu": "메인 메뉴",
+	"purge_the_remnants": "퍼지 더 램넌트",
+	"practice_lair": "은신처 연습",
+	"speedrun": "스피드런",
+	"custom_levels": "커스텀 레벨",
+	"global_rankings": "글로벌 랭킹",
+	"settings": "설정",
+	"credits": "개발진",
+	"level_editor": "레벨 에디터",
+	"quit": "게임 종료",
+
+	"level_selection": "레벨 선택",
+	"speedrun_selection": "스피드런 선택",
+	"speedrun_lb": "스피드런 리더보드",
+	
+	"window_is_out_of_focus": "윈도우 창의 초점이 맞지 않습니다",
+
+	"tutorial": "튜토리얼",
+	"tutorial_texts": {
+		"hold_hook_to_swing": "고리를 사용한 다음 움직이십시오",
+		"hold_hook_and_jump_to_pull": "고리를 사용한 다음 적절한 타이밍에 점프하십시오",
+		"dash_jump": "점프와 대쉬를 적절하게 사용하십시오",
+		"dash_to_surf": "대쉬와 서프를 적절하게 사용하십시오",
+		"jump_during_surf": "공중에서 서프를 사용해 보십시오",
+		"dash_during_swing" : "적절한 타이밍에 대쉬를 눌러, 속도와 이동 거리를 높이십시오."
+	},
+	"hold": "유지",
+	"click": "클릭",
+	"click_and_hold": "클릭과 유지",
+	
+	"pop_up_texts" : [
+		"준비", "시작", "되돌아가기", "리셋하기", "리콜",
+		"완료", "실패", "이름"
+	],
+	
+	"tips" : [
+		"후크를 안착시키면 더블 점프가 가능합니다.",
+		"대시 중에 점프하면 더 높이 점프할 수 있습니다.",
+		"후크의 빔이 길면 길수록 당신이 진자 운동을 할 때 더 빠른 속도를 낼 것입니다.",
+		"최저점에서 후크를 풀면 수평으로 최고의 속도를 낼 것입니다.",
+		"최저점에서 대시하면 속도와 높이를 얻는데 효과적일 것입니다.",
+		"언제든 필요하게 될 수 있으니 더블 점프 사용을 최대한 미루는 것이 좋습니다."
+	],
+
+	"global_ranks": {
+		"descendant": "네이지스의 후예",
+		"inhuman": "인휴먼",
+		"grandmaster": "그랜드마스터",
+		"master": "마스터",
+		"expert": "전문가",
+		"veteran": "베테랑",
+		"adept": "숙련자",
+		"apprentice": "수습생",
+		"novice": "초보자"
+	},
+
+	"yes": "예",
+	"no": "아니오",
+	"enabled": "사용",
+	"disabled": "사용안함",
+	"on": "켬",
+	"off": "끔",
+	"all": "전부",
+	"bottom": "바닥",
+	"middle": "중간",
+	"personal_best": "개인 최고기록",
+	"shadow": "그림자",
+	"done": "완료",
+	"failed": "실패",
+	"low": "낮음",
+	"high": "높음",
+
+	"secret_unlocked" : "비밀 잠금 해제",
+	"secret_level_unlocked" : "숨겨진 레벨 잠금 해제",
+	"only_in_replays": "리플레이 모드에서만 가능합니다",
+	"only_in_speedrun": "스피드런 모드에서만 가능합니다",
+	"better_than_me": "본인보다 높은 플레이어",
+	"line": "선",
+	"lightning": "빛",
+	"line_and_lightning": "선 & 빛",
+
+	"action": {
+		"LEFT": "좌",
+		"RIGHT": "우",
+		"JUMP": "점프",
+		"HOOK": "갈고리",
+		"DASH": "대쉬",
+		"RESET": "리셋",
+		"RECALL": "리콜",
+		"APPLY": "적용",
+		"PAUSE": "일시정지",
+		"BACK": "뒤로",
+		"MENU UP": "메뉴: 상",
+		"MENU DOWN": "메뉴: 하",
+		"MENU LEFT": "메뉴: 좌",
+		"MENU RIGHT": "메뉴: 우",
+		"LEADERBOARD": "리더보드",
+		"LEVEL SEARCH": "레벨 탐색",
+		"SKIP TRACK": "트랙 스킵하기",
+
+		"WATCH": "보기",
+		"APPLY CHANGES": "변경사항 적용",
+		"CHANGE SPEED": "속도 변경",
+		"RESTART REPLAY": "리플레이 재시작"
+	},
+
+	"promoted": "진급",
+	"demoted": "강등",
+
+	"inspect": "점검",
+	"inspecting": "점검하기",
+	"complete_the_chapter": "해당 챕터 완료",
+	"complete_a_chapter": "챕터 완료",
+
+	"purged": "제거됨",
+	"name": "이름",
+	"rating": "평가",
+	"rank": "랭크",
+	"time": "기록",
+	"your_time": "본인 기록",
+	"mastery_time": "최고 기록",
+	"total_time": "총 시간 기록",
+	"dominance": "랭킹 리더보드",
+	"locked": "잠김",
+	"author": "만든 유저",
+	
+	"hud": "HUD",
+
+	"menu": {
+		"settings": {
+			"restore_default": "초기값 설정 복구",
+			
+			"gameplay": {
+				"title": "게임플레이",
+				"camera_ignores_borders": "경계 없는 화면",
+				"input_indicator": "입력 지표",
+				"allow_checkpoints": "체크포인트 지정",
+				"speedometer": "속도계",
+				"energy_as_number": "에너지 양",
+				"ghost_replay": "고스트 리플레이",
+				"ghost_visibility": "고스트 투명도",
+				"hook_indicator": "갈고리 방향 미리보기",
+				"dash_bar": "대쉬 바",
+				"minimap": "미니맵",
+				"skip_intro": "인트로 스킵",
+				"skip_ending": "엔딩 영상 스킵",
+				"download_ghost": "고스트 다운로드",
+				"always_show_mastery_ghost": "마스터리 고스트 항상 표시",
+				"fade_ghost": "고스트 희미하게",
+				"shadow_ghost": "고스트 그림자",
+				"short_list": "고스트 리스트",
+				"speedrun_levels_listing": "스피트런 레벨 나열하기"
+			},
+
+			"customization": {
+				"title": "커스터마이징",
+				"beam_style": "갈고리 빔 스타일",
+				"main_color": "주 색상",
+				"secondary_color": "보조 색상",
+				"ignore_replay_style": "리플레이 스타일 무시"
+			},
+
+			"sound": {
+				"title": "소리",
+				"shuffle_playlist": "플레이리스트 섞기",
+				"now_playing": "현재 재생",
+				"master_volume": "전체 볼륨",
+				"sfx_volume": "효과음 볼륨",
+				"music_volume": "음악 볼륨"
+			},
+
+			"graphics": {
+				"title": "그래픽",
+				"display_mode": "디스플레이",
+				"fullscreen_resolution": "전체화면 해상도",
+				"windowed_mode_resolution": "윈도우 창 해상도",
+				"vertical_sync": "수직 동기화",
+				"view_height": "고도 설정",
+				"rendertexture_height": "텍스쳐 렌더링",
+				"fps_cap": "프레임 캡",
+				"show_fps": "프레임 보이기",
+				"bloom": "블룸 효과",
+				"background_blur": "배경 블러 효과",
+				"menu_blur": "메뉴 블러 효과",
+				"ambient_coloring": "엠비언트 컬러",
+				"rgb_split": "RGB 분리 효과",
+				"vignette_rgb_split": "비네트 & RGB 분리 효과",
+				"show_out_of_focus_overlay": "아웃포커스 오버레이 나타내기",
+				"render_parallax_layers": "시차 레이어 렌더링",
+				"texture_smoothing_filter": "부드러운 텍스쳐 필터 효과",
+				"respawn_effect": "리스폰 효과",
+				"texture_quality": "텍스쳐 퀄리티",
+				"water_quality": "수면 퀄리티",
+				"hide_waterfalls": "폭포 효과 숨기기",
+
+				"windowed": "윈도우 창 모드",
+				"borderless": "경계 없는 창 모드",
+				"fullscreen": "전체화면"
+			},
+
+			"controls": {
+				"title": "조작 설정",
+				"gamepad_layout": "게임패드 레이아웃",
+				"disable_gamepad": "게임패드 미사용",
+				"gamepad_stick_threshold": "게임패드 스틱",
+				"gamepad_trigger_threshold": "게임패드 트리거",
+				"gamepad_vibration": "게임패드 진동",
+				"disable_gamepad_sticks": "게임패드 미사용",
+
+				"xbox": "Xbox",
+				"dualshock": "듀얼쇼크"
+			},
+
+			"search_settings": {
+				"title": "설정 검색"
+			}
+		}
+	},
+
+	"offline": "오프라인",
+	"offline_mode": "오프라인 모드",
+	"offline_mode_warning": "경고: 오프라인 상태에서는 스코어를 업로드할 수 없습니다!",
+
+	"new": "새로하기",
+	"page": "페이지",
+	"cancel": "취소",
+	"loading": "불러오는 중",
+	"initializing": "초기화",
+	"loading_assets": "로딩 에셋",
+	"fetching_user_data": "사용자 데이터 불러오기",
+	"resume": "재개하기",
+	"restart": "재시작",
+	"refresh": "새로고침",
+	"retry": "재시도",
+	"play": "시작",
+	"search": "찾기",
+	"scroll": "스크롤",
+	"rotate": "돌리기",
+	"scale": "스케일",
+	"boost": "부스트",
+	"recording": "녹화",
+	"upload": "업로드",
+	"save": "저장하기",
+	"load": "불러오기",
+	"resize": "리사이즈",
+	"create": "만들기",
+	"delete": "삭제",
+
+	"show_top_players": "유저 최고기록 보기",
+	"player_rank_text": ["당신은 ", "  ", " #등 입니다!"],
+	"lb_disabled_offline": "오프라인 모드에서는 리더보드에 기록이 남지 않습니다",
+	"no_record": "당신은 기록이 없습니다",
+
+	"best": "베스트",
+	"best_player": "베스트 플레이어",
+	"next_level": "다음 레벨",
+	"rate_this_level": "레벨 평가하기",
+	"rated": "평가",
+	"already_rated_level": ["You rated this level ", "!  Change to "],
+	"finish_first": "투표하려면 레벨을 완료하십시오!",
+	"watch_last_run": "마지막 레이스 보기",
+	"race_against_ghost": "고스트와 레이스",
+	"mastered_the_level": "마스터",
+	"mastery_ghost_is_beaten": "기록 경신!",
+
+	"all_levels": "모든 레벨",
+	"everyone": "모든 유저",
+	"sort_property": "속성 정렬",
+	"most_played": "가장 많이 플레이함",
+	"most_recent": "가장 최근에 플레이함",
+	"most_voted": "가장 많은 표를 받음",
+	"default": "초기값",
+	"hide_finished": "완료사항 숨기기",
+	"show_finished": "완료사항 보이기",
+
+	"order": "순서",
+	"ascending": "상승",
+	"descending": "하강",
+
+	"gr_info": "순위 초기화 ",
+	"hourly": "시간",
+	"daily": "일",
+	"monthly": "월",
+	"every": "모든",
+	"hours": "시간",
+	"days": "일",
+	"months": "월",
+	"today": "오늘",
+	"yesterday": "어제",
+
+	"capped": "제한",
+	"non_capped": "무제한",
+
+	"expired_session": {
+		"connection_lost": "연결 끊김",
+		"new_patch": "새 버전이 릴리즈 되었습니다",
+		"restart": "게임을 다시 시작하세요"
+	},
+
+	"width": "폭",
+	"height": "높이",
+	"front": "앞",
+	"behind": "뒤",
+	"first": "첫번째",
+	"second": "두번째",
+	"both": "모두",
+	"properties": "속성",
+	"accel": "가속",
+	"speed": "속도",
+	"rotation": "순환",
+	"working": "작동",
+	"movement": "움직임",
+	"radius": "반지름",
+	"in": "안",
+	"out": "밖",
+	"add": "더하기",
+	"set": "설정",
+	"type": "타입",
+	"gravity": "중력",
+	"rectangle": "직사각형",
+	"circle": "원",
+	"direction": "방향",
+	"size": "사이즈",
+	"range": "범위",
+	"offset": "오프셋",
+
+	"editor": {
+		"hide_layers": "레이어 숨기기",
+		"show_layers": "레이어 보이기",
+
+		"stick": "스틱",
+
+		"homing": "길잡이",
+		"straight": "일직선",
+		"rotating": "회전",
+		"toggling": "토글링",
+		"tracking": "추적",
+
+		"active_time": "유효 시간",
+		"passive_time": "패시트 시간",
+		"max_length": "최대 길이",
+		"iter_count": "반복 수치",
+		"start_delay": "지연 시작",
+		"phase_offset": "단계 오프셋",
+		"height_diff": "높이 차리",
+		"linear": "선형",
+		"ease": "늦추기",
+
+		"tiles": "타일",
+		"objects": "객체",
+		"curr_size": "현재 크기",
+
+		"snap": "스냅",
+
+		"helper_ghost_will_draw": "방금 녹화한 고스트 다시보기를 재생하려면 직사각형을 그리세요",
+		"helper_ghost_record": "고스트 다시보기를 녹화하려면 시험 재생 중에 U키를 누르세요",
+		"helper_ghost_stop_record": "고스트 다시보기 녹화를 멈추고 저장하려면 U키를 누르세요",
+
+		"tile_names": {
+			"earth": "땅",
+			"no_grap": "그래플링 불가",
+			"spike": "스파이크",
+			"limited_grap": "그래플링 제한",
+			"surface": "표면",
+			"no_walljump": "벽타기 점프 불가",
+			"hookable": "갈고리 걸치기 가능",
+			"decoration": "장식",
+			"props": "받침대"
+		},
+
+		"object_names": {
+			"blade": "칼날",
+			"turret": "회전 포탑",
+			"killer_bomb": "살상용 폭탄",
+			"walter_bomb": "월터 폭탄",
+			"laser": "레이저",
+			"accelerator": "가속기",
+			"water": "물",
+			"waterfall": "폭포",
+			"jump_pad": "점프 디딤판",
+			"checkpoint": "체크포인트",
+			"player_spawn": "플레이어 스폰 포인트",
+			"end_remnant": "렘넌트 종점"
+		},
+
+		"binds": {
+			"coordinate": "편성하기",
+			"zoom": "줌",
+			"undo": "원상태로",
+			"redo": "다시 하기",
+			"toggle_grid": "토글 그리드",
+			"change_category": "토글 카테고리",
+			"hide_gui": "GUI 숨기기",
+			"toggle_ai_update": "토글 AI 업데이트",
+			"boost_camera_speed": "화면 빠르게",
+			"move_camera": "화면 이동",
+			"drag_object": "오브젝트 드레그",
+			"copy_object_properties": "객체 특성 복사",
+			"area_fill": "영역 채우기",
+			"quick_save": "빠른 저장",
+	
+			"rotate_object": "회전",
+			"play": "시작",
+			"obj_portal": "포탈",
+			"obj_hook_band": "갈고리 두르기",
+			"obj_colorize": "레벨 컬러라이즈",
+			"record_ghost": "고스트 저장",
+
+			"select_playground_tile_layer": "플레이그라운드",
+			"select_static_bg_tile_layer": "배경 고정",
+			"select_parallax_bg1_tile_layer": "시차 배경 #1",
+			"select_parallax_bg2_tile_layer": "시차 배경 #2",
+			"select_playground_deco_tile_layer": "맨 앞의 레이어"
+		},
+
+		"file_name": "파일 이름",
+		"level_name": "레벨 이름",
+
+		"upload_level": "레벨 업로드",
+		"upload_level_warning": "레벨 업로드 경고",
+		"upload_level_label1": "경고: 레벨을 업데이트하면, 리더보드가 초기화됩니다.",
+		"upload_level_label2": "업로드하기 위해서는 레벨을 무조건 한 번 완료해야 합니다.",
+
+		"clear_everything": "전체 삭제",
+		"save_level": "레벨 저장하기",
+		"load_level": "레벨 불러오기",
+		"load_level_label1": "경고: 파일 이름은 유저의 이름과 레벨 이름으로 표시됩니다.",
+		"load_level_label2": ["e.g. \"username-levelname\" like \"naezith-Stalactites\" (파일이 다음 위치에 있어야 합니다: ", " 폴더)"],
+
+		"resize_level": "레벨 크기 조절",
+		"new_size": "새로운 사이즈",
+		"new_level": "새로운 레벨",
+		"delete_uploaded_level": "업로드된 레벨 삭제"
+	},
+
+	"intro" : [
+		"한 때, 이 세계를 돌아다녔던 거대한 천둥의 용, '나지스'에 대한 전설이 있었다.",
+		"전설에 의하면, 나지스는 죽었지만 그의 힘은 남아, 자연 현상이 되어 천천히, 그리고 전 세계에 걸쳐 영향력을 행사했다고 한다.",
+		"하지만 나지스는 힘이 바깥으로 퍼져나가는 것을 달갑게 여지지 않았다. 그는 여전히 자연 현상이 자기의 것이라고 여겼다.",
+		"그래서 나지스의 육신을 빠져나온 영혼은, 그의 잔재를 제거할 방법을 찾으려 했다고 한다.",
+		"그리고 천 년 후, '캐이라'라는 어느 모험가가 갈고리와 밧줄을 챙겨",
+		"나이라의 잔재가 남아있다고 전해진 동굴로 모험을 떠난 일이 있었다.",
+		"하지만 동굴을 탐사하던 도중, 갈고리가 부러져 버렸고...",
+		"캐이라는 끝이 없어 보이는 구덩이로 떨어지고 말았다...",
+		"그가 정신을 차렸을 때, 눈앞에 보인 것은 빛나는 두 개의 갈고리로 묶인 두 손이었다.",
+		"겁에 질려 그는 갈고리를 떼어내려 했지만, 마법을 전혀 풀릴 기미가 보이지 않았고... 그 대신 튀어나간 갈고리가 바위에 단단히 박힐 뿐이었다. ",
+		"마법의 끈은 여전히 그의 손과 연결되어 있었고, 캐이라는 이것이 부러진 그의 갈고리와 매우 비슷함을 느낄 수 있었다.",
+		"그리고 갑자기, 나지스가 캐이라의 눈 앞에 나타나 어떤 이야기를 하기 시작했다. 그의 목적을 이루기 위해서는 육신이 필요하다는 말이었다.",
+		"무한한 보물을 대가로, 캐이라는 육신의 절반을 내줌과 함께 나지스의 힘을 사용할 수 있게 되었다. 그리고 그렇게 그 둘의 여정은 시작되는데..."
+	],
+	
+	"translation": "한글화",
+	"translated_by": "바람 번역단"
+}
