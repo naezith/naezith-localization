@@ -1,0 +1,467 @@
+{
+	"lang_name_short": "JA",
+	"lang_name_english": "Japanese",
+	"lang_name_localized": "日本語",
+
+	"language": "言語",
+
+	"age": "日時",
+	"date": "日付",
+	"player": "プレイヤー",
+
+	"auto": "Auto",
+	"paused": "Paused",
+	"main_menu": "メインメニュー",
+	"purge_the_remnants": "排除開始",
+	"practice_lair": "トレーニング",
+	"speedrun": "スピードラン",
+	"custom_levels": "カスタムステージ",
+	"global_rankings": "グローバルランキング",
+	"settings": "設定",
+	"credits": "クレジット",
+	"level_editor": "ステージ作成",
+	"quit": "戻る",
+
+	"level_selection": "ステージ選択",
+	"speedrun_selection": "スピードラン選択",
+	"speedrun_lb": "スピードランリーダーボード",
+
+	"window_is_out_of_focus": "Window is out of focus",
+
+	"tutorial": "チュートリアル",
+	"tutorial_texts": {
+		"hold_hook_to_swing": "フックを押し続けてスイング",
+		"hold_hook_and_jump_to_pull": "フック中にジャンプで引き上げる",
+		"dash_jump": "ダッシュ+ジャンプでダッシュジャンプ",
+		"dash_to_surf": "ダッシュで水面に乗って水面を滑走",
+		"jump_during_surf": "水面滑走中にジャンプ",
+		"dash_during_swing" : "スイング中にダッシュで速度と高度を上げる"
+	},
+	"hold": "押し続ける",
+	"click": "押す",
+	"click_and_hold": "ドラッグ",
+
+	"pop_up_texts" : [
+		"Ready", "Go", "Relapse", "Reset", "Recall",
+		"Done", "Failed", "Name"
+	],
+
+	"tips" : [
+		"フックに成功すると再度空中ジャンプが使えるようになる。",
+		"ダッシュ中にジャンプすることでより高くジャンプができる。",
+		"フックを長く出してスイングさせると、よりスピードを出すことができる。",
+		"スイングの真下に来た時にフックを離すと横方向へのスピードが上がる。",
+		"スイングの真下に来た時にダッシュを追加すると、速度と高度を上げることができる。",
+		"間を空けて空中ジャンプをすることで抜けられる道もある。"
+	],
+
+	"global_ranks": {
+		"descendant": "ネイジスの子孫",
+		"inhuman": "超人",
+		"grandmaster": "達人",
+		"master": "名人",
+		"expert": "熟練者",
+		"veteran": "上級者",
+		"adept": "中級者",
+		"apprentice": "初級者",
+		"novice": "入門"
+	},
+
+	"yes": "はい",
+	"no": "いいえ",
+	"enabled": "使用する",
+	"disabled": "使用しない",
+	"on": "オン",
+	"off": "オフ",
+	"all": "すべて",
+	"bottom": "下",
+	"middle": "中間",
+	"personal_best": "自己ベスト",
+	"shadow": "影",
+	"done": "完了",
+	"failed": "失敗",
+	"low": "低",
+	"high": "高",
+
+	"secret_unlocked" : "隠しステージをアンロック",
+	"secret_level_unlocked" : "隠しステージをアンロックしました",
+	"only_in_replays": "リプレイのみ",
+	"only_in_speedrun": "スピードランのみ",
+	"better_than_me": "自分より速いプレイヤー",
+	"line": "ライン",
+	"lightning": "雷光",
+	"line_and_lightning": "ライン & 雷光",
+
+	"action": {
+		"LEFT": "左",
+		"RIGHT": "右",
+		"JUMP": "ジャンプ",
+		"HOOK": "フック",
+		"DASH": "ダッシュ",
+		"RESET": "最初から",
+		"RECALL": "やり直し",
+		"APPLY": "適用",
+		"PAUSE": "ポーズ",
+		"BACK": "戻る",
+		"MENU UP": "メニュー上",
+		"MENU DOWN": "メニュー下",
+		"MENU LEFT": "メニュー左",
+		"MENU RIGHT": "メニュー右",
+		"LEADERBOARD": "リーダーボードを開く",
+		"LEVEL SEARCH": "ステージ検索",
+		"SKIP TRACK": "楽曲をスキップ",
+
+		"WATCH": "見る",
+		"APPLY CHANGES": "変更を適用",
+		"CHANGE SPEED": "速度変更",
+		"RESTART REPLAY": "最初から"
+	},
+
+	"promoted": "昇格",
+	"demoted": "降格",
+
+	"inspect": "成績を見る",
+	"inspecting": "成績",
+	"complete_the_chapter": "チャプターをクリア",
+	"complete_a_chapter": "チャプターをクリア",
+
+	"purged": "Purged",
+	"name": "Name",
+	"rating": "評価",
+	"rank": "順位",
+	"time": "記録",
+	"your_time": "記録",
+	"mastery_time": "目標タイム",
+	"total_time": "累計時間",
+	"dominance": "踏破率",
+	"locked": "未開放",
+	"author": "制作者",
+
+	"hud": "HUD",
+
+	"menu": {
+		"settings": {
+			"restore_default": "デフォルトに戻す",
+
+			"gameplay": {
+				"title": "ゲームプレイ",
+				"camera_ignores_borders": "プレイヤーを常に中央に表示",
+				"input_indicator": "入力インジケータ表示",
+				"allow_checkpoints": "チェックポイントを使用",
+				"speedometer": "スピードメーター",
+				"energy_as_number": "エナジーを数字で表示",
+				"ghost_replay": "ゴーストの種類",
+				"ghost_visibility": "ゴーストの不透明度",
+				"hook_indicator": "フック箇所のインジケータ",
+				"dash_bar": "ダッシュゲージ",
+				"minimap": "ミニマップ",
+				"skip_intro": "起動時のイントロをスキップ",
+				"skip_ending": "エンドロールをスキップ",
+				"download_ghost": "ゴーストのダウンロード",
+				"always_show_mastery_ghost": "マスタリーゴーストを常に表示",
+				"fade_ghost": "ゴーストをフェードさせる",
+				"shadow_ghost": "ゴーストを黒くする",
+				"short_list": "Short List",
+				"speedrun_levels_listing": "スピードランでのステージ表示"
+			},
+
+			"customization": {
+				"title": "カスタマイズ",
+				"beam_style": "フック線のスタイル",
+				"main_color": "メインカラー",
+				"secondary_color": "サブカラー",
+				"ignore_replay_style": "リプレイ中も適用"
+			},
+
+			"sound": {
+				"title": "音声",
+				"shuffle_playlist": "プレイリストをシャッフル",
+				"now_playing": "Now Playing",
+				"master_volume": "マスターボリューム",
+				"sfx_volume": "効果音ボリューム",
+				"music_volume": "楽曲ボリューム"
+			},
+
+			"graphics": {
+				"title": "グラフィック",
+				"display_mode": "表示モード",
+				"fullscreen_resolution": "フルスクリーン時の解像度",
+				"windowed_mode_resolution": "ウィンドウ時の解像度",
+				"vertical_sync": "垂直同期",
+				"view_height": "視野の広さ",
+				"rendertexture_height": "Render Texture Height",
+				"fps_cap": "フレームレート上限",
+				"show_fps": "フレームレートを表示",
+				"bloom": "ブルーム効果",
+				"background_blur": "背景ぼかし",
+				"menu_blur": "メニュー表示時のぼかし",
+				"ambient_coloring": "アンビエント配色",
+				"rgb_split": "色収差効果",
+				"vignette_rgb_split": "ヴィネット&色収差",
+				"show_out_of_focus_overlay": "ウィンドウフォーカスが外れた際の表示",
+				"render_parallax_layers": "遠景レイヤを表示",
+				"texture_smoothing_filter": "テクスチャ円滑化フィルタ",
+				"respawn_effect": "リスポーン時のエフェクト",
+				"texture_quality": "テクスチャ品質",
+				"water_quality": "水画質",
+				"hide_waterfalls": "滝を非表示",
+
+				"windowed": "ウィンドウ表示",
+				"borderless": "ウィンドウ表示(枠なし)",
+				"fullscreen": "フルスクリーン"
+			},
+
+			"controls": {
+				"title": "コントロール",
+				"gamepad_layout": "ゲームパッドレイアウト",
+				"disable_gamepad": "ゲームパッドを無効",
+				"gamepad_stick_threshold": "スティック閾値",
+				"gamepad_trigger_threshold": "トリガー閾値",
+				"gamepad_vibration": "振動",
+				"disable_gamepad_sticks": "スティックを無効化",
+
+				"xbox": "Xbox",
+				"dualshock": "Dualshock"
+			},
+
+			"search_settings": {
+				"title": "検索設定"
+			}
+		}
+	},
+
+	"offline": "OFFLINE",
+	"offline_mode": "OFFLINE MODE",
+	"offline_mode_warning": "WARNING: オフラインモードではスコアがアップロードされません",
+
+	"new": "新規作成",
+	"page": "ページ",
+	"cancel": "キャンセル",
+	"loading": "読み込み中",
+	"initializing": "初期化中",
+	"loading_assets": "アセットを読み込み中",
+	"fetching_user_data": "ユーザーデータ適用中",
+	"resume": "再開",
+	"restart": "Restart",
+	"refresh": "リーダーボード更新",
+	"retry": "リトライ",
+	"play": "開始",
+	"search": "検索",
+	"scroll": "スクロール",
+	"rotate": "回転",
+	"scale": "Scale",
+	"boost": "Boost",
+	"recording": "記録中",
+	"upload": "アップロード",
+	"save": "保存",
+	"load": "ロード",
+	"resize": "リサイズ",
+	"create": "作成",
+	"delete": "削除",
+
+	"show_top_players": "上位プレイヤーを表示",
+	"player_rank_text": ["あなたは第 ", " 位のプレイヤーです（", " 人中）"],
+	"lb_disabled_offline": "オフラインモードではリーダーボードは使用できません",
+	"no_record": "記録なし",
+
+	"best": "Best",
+	"best_player": "Best Player",
+	"next_level": "次のステージへ",
+	"rate_this_level": "このステージを評価",
+	"rated": "評価済み",
+	"already_rated_level": ["このステージを", "と評価しました。変更："],
+	"finish_first": "評価するには一度クリアする必要があります",
+	"watch_last_run": "リプレイを見る",
+	"race_against_ghost": "ゴーストと勝負",
+	"mastered_the_level": "Mastered",
+	"mastery_ghost_is_beaten": "マスタリーゴーストに勝利！",
+
+	"all_levels": "全てのステージ",
+	"everyone": "Everyone",
+	"sort_property": "並べ替え",
+	"most_played": "最多プレイ",
+	"most_recent": "最近",
+	"most_voted": "高評価",
+	"default": "デフォルト",
+	"hide_finished": "クリア済みを含まない",
+	"show_finished": "クリア済みを含む",
+
+	"order": "順序",
+	"ascending": "昇順",
+	"descending": "降順",
+
+	"gr_info": "ランクデータは",
+	"hourly": "時間毎に更新",
+	"daily": "一日ごとに更新",
+	"monthly": "一月ごとに更新",
+	"every": "every",
+	"hours": "時間",
+	"days": "日",
+	"months": "月",
+	"today": "今日",
+	"yesterday": "昨日",
+
+	"capped": "capped",
+	"non_capped": "non-capped",
+
+	"expired_session": {
+		"connection_lost": "接続に失敗",
+		"new_patch": "新しいパッチがリリースされました。",
+		"restart": "ゲームを再起動してください。"
+	},
+
+	"width": "幅",
+	"height": "高さ",
+	"front": "前面",
+	"behind": "後面",
+	"first": "一方通行",
+	"second": "一方通行(反転)",
+	"both": "両方向",
+	"properties": "プロパティ",
+	"accel": "加速度",
+	"speed": "速度",
+	"rotation": "角度",
+	"working": "Working",
+	"movement": "Movement",
+	"radius": "半径",
+	"in": "内向き",
+	"out": "外向き",
+	"add": "加算型",
+	"set": "代入型",
+	"type": "タイプ",
+	"gravity": "重力",
+	"rectangle": "矩形",
+	"circle": "円形",
+	"direction": "方向",
+	"size": "サイズ",
+	"range": "射程距離",
+	"offset": "オフセット",
+
+	"editor": {
+		"hide_layers": "レイヤを非表示",
+		"show_layers": "レイヤを表示",
+
+		"stick": "ポール",
+
+		"homing": "追尾型",
+		"straight": "一定方向",
+		"rotating": "回転型",
+		"toggling": "点滅型",
+		"tracking": "追跡型",
+
+		"active_time": "起動時間",
+		"passive_time": "停止時間",
+		"max_length": "最長",
+		"iter_count": "動作回数",
+		"start_delay": "動作遅延",
+		"phase_offset": "開始オフセット",
+		"height_diff": "水位増減量",
+		"linear": "等速",
+		"ease": "緩急",
+
+		"tiles": "タイル",
+		"objects": "オブジェクト",
+		"curr_size": "サイズ",
+
+		"snap": "スナップ",
+
+		"helper_ghost_will_draw": "ドラッグで記録したゴーストを開始する領域を選択してください",
+		"helper_ghost_record": "テストプレイ開始後、Uを押すとゴーストを記録できます",
+		"helper_ghost_stop_record": "ゴーストの記録を終了し保存するには再度Uを押してください",
+
+		"tile_names": {
+			"earth": "地面",
+			"no_grap": "フック不可",
+			"spike": "トゲ",
+			"limited_grap": "フック制限",
+			"surface": "側面",
+			"no_walljump": "ぬめり壁",
+			"hookable": "土壁",
+			"decoration": "デコレーション",
+			"props": "Props"
+		},
+
+		"object_names": {
+			"blade": "ノコギリ",
+			"turret": "砲台",
+			"killer_bomb": "銃砲",
+			"walter_bomb": "ウォルター砲",
+			"laser": "レーザー",
+			"accelerator": "加速台",
+			"water": "水",
+			"waterfall": "滝",
+			"jump_pad": "ジャンプ台",
+			"checkpoint": "チェックポイント",
+			"player_spawn": "スタート地点",
+			"end_remnant": "遺体の欠片"
+		},
+
+		"binds": {
+			"coordinate": "座標",
+			"zoom": "ズーム",
+			"undo": "やり直す",
+			"redo": "元に戻す",
+			"toggle_grid": "グリッド表示",
+			"change_category": "カテゴリ変更",
+			"hide_gui": "GUIを隠す",
+			"toggle_ai_update": "オブジェクトAIの停止/稼働",
+			"boost_camera_speed": "カメラを速く",
+			"move_camera": "カメラ移動",
+			"drag_object": "オブジェクトを移動",
+			"copy_object_properties": "オブジェクトの設定をコピー",
+			"area_fill": "閉領域塗りつぶし",
+			"quick_save": "クイックセーブ",
+
+			"rotate_object": "回転",
+			"play": "プレイ",
+			"obj_portal": "ワープポータル",
+			"obj_hook_band": "フックバンド",
+			"obj_colorize": "色変更エリア",
+			"record_ghost": "ゴーストを記録",
+
+			"select_playground_tile_layer": "足場",
+			"select_static_bg_tile_layer": "背景",
+			"select_parallax_bg1_tile_layer": "遠景1",
+			"select_parallax_bg2_tile_layer": "遠景2",
+			"select_playground_deco_tile_layer": "前景"
+		},
+
+		"file_name": "ファイル名",
+		"level_name": "ステージ名",
+
+		"upload_level": "ステージを投稿",
+		"upload_level_warning": "アップロード時の注意",
+		"upload_level_label1": "Warning: ステージを更新するとリーダーボードは初期化されます",
+		"upload_level_label2": "ステージを投稿するには一度クリアしなければなりません",
+
+		"clear_everything": "全て除去",
+		"save_level": "セーブ",
+		"load_level": "ロード",
+		"load_level_label1": "Warning: ファイル名には作者のユーザーネームが自動で付加されています",
+		"load_level_label2": ["書式：\"ユーザー名-ステージ名\" 例：\"naezith-Stalactites\" (ステージデータは ", " に保存されます)"],
+
+		"resize_level": "面積変更",
+		"new_size": "サイズ",
+		"new_level": "新しいステージ",
+		"delete_uploaded_level": "アップロード済みのステージを削除"
+	},
+
+	"intro" : [
+		"かつてこの地に君臨した偉大なるサンダードラゴン、ネイジスの伝説。",
+		"死してなお膨大な力を蓄えていたネイジスの遺体は、",
+		"自然の摂理にしたがい世界中に散らばっていった。しかしネイジスは力を分け与えることを望んではおらず、",
+		"魂のみとなった今も、魔術師の手に堕ちた遺体の欠片を排除する方法を探し続けてこの地をさまよっているという。",
+		"千年後、ケイラーという名の冒険家は、",
+		"洞窟の中に眠る欠片の噂を聞きつけ、洞窟を愛用のフックとロープを使って降り始める。",
+		"しかし使い古したフックはついに折れ、ケイラーは落ちてしまう。",
+		"底なしと言われた洞窟へと…",
+		"目を覚ましたケイラーは光る鉤が自身の両手に付いて離れない事に気がついた。",
+		"あまりの不気味さに憤った彼は力任せに腕を振るったが、その奇妙な呪いは解けなかった。",
+		"腕を振るう勢いで前方に放たれた鉤は岩壁に突き刺さり、それと手とをつなぐ不思議な光は、かつて使っていたフックそのものだった。",
+		"直後、彼の前にネイジスが現れ、自分には目的を達成するための肉体が必要なのだと語る。",
+		"無限の財宝を約束されたケイラーはドラゴンの依代となることを受け入れ、ネイジスの遺物を抹消する冒険へと出発する…"
+	],
+
+	"translation": "翻訳",
+	"translated_by": "AMPHASHx2109"
+}
