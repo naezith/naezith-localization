@@ -9,8 +9,8 @@
 	"date": "日付",
 	"player": "プレイヤー",
 
-	"auto": "Auto",
-	"paused": "Paused",
+	"auto": "自動",
+	"paused": "一時停止",
 	"main_menu": "メインメニュー",
 	"purge_the_remnants": "排除開始",
 	"practice_lair": "トレーニング",
@@ -42,7 +42,7 @@
 	"click_and_hold": "ドラッグ",
 
 	"pop_up_texts" : [
-		"Ready", "Go", "Relapse", "Reset", "Recall",
+		"Ready", "Go", "脱落", "最初から", "やり直し",
 		"Done", "Failed", "Name"
 	],
 
@@ -125,8 +125,8 @@
 	"complete_the_chapter": "チャプターをクリア",
 	"complete_a_chapter": "チャプターをクリア",
 
-	"purged": "Purged",
-	"name": "Name",
+	"purged": "排除済み",
+	"name": "名前",
 	"rating": "評価",
 	"rank": "順位",
 	"time": "記録",
@@ -161,7 +161,7 @@
 				"always_show_mastery_ghost": "マスタリーゴーストを常に表示",
 				"fade_ghost": "ゴーストをフェードさせる",
 				"shadow_ghost": "ゴーストを黒くする",
-				"short_list": "Short List",
+				"short_list": "短く表示",
 				"speedrun_levels_listing": "スピードランでのステージ表示"
 			},
 
@@ -174,7 +174,7 @@
 			},
 
 			"sound": {
-				"title": "音声",
+				"title": "サウンド",
 				"shuffle_playlist": "プレイリストをシャッフル",
 				"now_playing": "Now Playing",
 				"master_volume": "マスターボリューム",
@@ -189,7 +189,7 @@
 				"windowed_mode_resolution": "ウィンドウ時の解像度",
 				"vertical_sync": "垂直同期",
 				"view_height": "視野の広さ",
-				"rendertexture_height": "Render Texture Height",
+				"rendertexture_height": "テクスチャの高度をレンダリング",
 				"fps_cap": "フレームレート上限",
 				"show_fps": "フレームレートを表示",
 				"bloom": "ブルーム効果",
@@ -202,7 +202,7 @@
 				"render_parallax_layers": "遠景レイヤを表示",
 				"texture_smoothing_filter": "テクスチャ円滑化フィルタ",
 				"respawn_effect": "リスポーン時のエフェクト",
-				"texture_quality": "テクスチャ品質",
+				"texture_quality": "テクスチャ画質",
 				"water_quality": "水画質",
 				"hide_waterfalls": "滝を非表示",
 
@@ -242,19 +242,19 @@
 	"loading_assets": "アセットを読み込み中",
 	"fetching_user_data": "ユーザーデータ適用中",
 	"resume": "再開",
-	"restart": "Restart",
+	"restart": "再起動",
 	"refresh": "リーダーボード更新",
 	"retry": "リトライ",
 	"play": "開始",
 	"search": "検索",
 	"scroll": "スクロール",
 	"rotate": "回転",
-	"scale": "Scale",
-	"boost": "Boost",
+	"scale": "拡縮",
+	"boost": "ブースト",
 	"recording": "記録中",
 	"upload": "アップロード",
-	"save": "保存",
-	"load": "ロード",
+	"save": "セーブ",
+	"load": "読み込み",
 	"resize": "リサイズ",
 	"create": "作成",
 	"delete": "削除",
@@ -264,20 +264,20 @@
 	"lb_disabled_offline": "オフラインモードではリーダーボードは使用できません",
 	"no_record": "記録なし",
 
-	"best": "Best",
-	"best_player": "Best Player",
+	"best": "ベスト記録",
+	"best_player": "最上位",
 	"next_level": "次のステージへ",
 	"rate_this_level": "このステージを評価",
 	"rated": "評価済み",
-	"already_rated_level": ["このステージを", "と評価しました。変更："],
+	"already_rated_level": ["このステージを", "と評価済み。変更："],
 	"finish_first": "評価するには一度クリアする必要があります",
 	"watch_last_run": "リプレイを見る",
 	"race_against_ghost": "ゴーストと勝負",
 	"mastered_the_level": "Mastered",
-	"mastery_ghost_is_beaten": "マスタリーゴーストに勝利！",
+	"mastery_ghost_is_beaten": "マスタリーゴーストに勝利",
 
 	"all_levels": "全てのステージ",
-	"everyone": "Everyone",
+	"everyone": "全ての制作者",
 	"sort_property": "並べ替え",
 	"most_played": "最多プレイ",
 	"most_recent": "最近",
@@ -294,15 +294,15 @@
 	"hourly": "時間毎に更新",
 	"daily": "一日ごとに更新",
 	"monthly": "一月ごとに更新",
-	"every": "every",
+	"every": "毎",
 	"hours": "時間",
 	"days": "日",
 	"months": "月",
 	"today": "今日",
 	"yesterday": "昨日",
 
-	"capped": "capped",
-	"non_capped": "non-capped",
+	"capped": "制限",
+	"non_capped": "無制限",
 
 	"expired_session": {
 		"connection_lost": "接続に失敗",
@@ -378,7 +378,7 @@
 			"no_walljump": "ぬめり壁",
 			"hookable": "土壁",
 			"decoration": "デコレーション",
-			"props": "Props"
+			"props": "小道具"
 		},
 
 		"object_names": {
@@ -419,11 +419,11 @@
 			"obj_colorize": "色変更エリア",
 			"record_ghost": "ゴーストを記録",
 
-			"select_playground_tile_layer": "足場",
-			"select_static_bg_tile_layer": "背景",
-			"select_parallax_bg1_tile_layer": "遠景1",
-			"select_parallax_bg2_tile_layer": "遠景2",
-			"select_playground_deco_tile_layer": "前景"
+			"select_playground_tile_layer": "基本レイヤ",
+			"select_static_bg_tile_layer": "背景レイヤ",
+			"select_parallax_bg1_tile_layer": "遠景レイヤ1",
+			"select_parallax_bg2_tile_layer": "遠景レイヤ2",
+			"select_playground_deco_tile_layer": "前景レイヤ"
 		},
 
 		"file_name": "ファイル名",
@@ -436,7 +436,7 @@
 
 		"clear_everything": "全て除去",
 		"save_level": "セーブ",
-		"load_level": "ロード",
+		"load_level": "読み込み",
 		"load_level_label1": "Warning: ファイル名には作者のユーザーネームが自動で付加されています",
 		"load_level_label2": ["書式：\"ユーザー名-ステージ名\" 例：\"naezith-Stalactites\" (ステージデータは ", " に保存されます)"],
 
@@ -449,7 +449,7 @@
 	"intro" : [
 		"かつてこの地に君臨した偉大なるサンダードラゴン、ネイジスの伝説。",
 		"死してなお膨大な力を蓄えていたネイジスの遺体は、",
-		"自然の摂理にしたがい世界中に散らばっていった。しかしネイジスは力を分け与えることを望んではおらず、",
+		"力を求める人々により分かたれ、世界中に分散した。しかしネイジスは力を分け与えることを望んではおらず、",
 		"魂のみとなった今も、魔術師の手に堕ちた遺体の欠片を排除する方法を探し続けてこの地をさまよっているという。",
 		"千年後、ケイラーという名の冒険家は、",
 		"洞窟の中に眠る欠片の噂を聞きつけ、洞窟を愛用のフックとロープを使って降り始める。",
@@ -458,8 +458,8 @@
 		"目を覚ましたケイラーは光る鉤が自身の両手に付いて離れない事に気がついた。",
 		"あまりの不気味さに憤った彼は力任せに腕を振るったが、その奇妙な呪いは解けなかった。",
 		"腕を振るう勢いで前方に放たれた鉤は岩壁に突き刺さり、それと手とをつなぐ不思議な光は、かつて使っていたフックそのものだった。",
-		"直後、彼の前にネイジスが現れ、自分には目的を達成するための肉体が必要なのだと語る。",
-		"無限の財宝を約束されたケイラーはドラゴンの依代となることを受け入れ、ネイジスの遺物を抹消する冒険へと出発する…"
+		"すると突然彼の前にネイジスが現れ、自分には目的を達成するための肉体が必要なのだと語る。",
+		"無限の財宝を約束されたケイラーはドラゴンの依代となることを受け入れ、ネイジスの遺体を排除する冒険へと出発する…"
 	],
 
 	"translation": "翻訳",
