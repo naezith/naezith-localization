@@ -269,7 +269,7 @@
 	"next_level": "次のステージへ",
 	"rate_this_level": "このステージを評価",
 	"rated": "評価済み",
-	"already_rated_level": ["このステージを", "と評価しました。変更："],
+	"already_rated_level": ["このステージを", "と評価済み。変更："],
 	"finish_first": "評価するには一度クリアする必要があります",
 	"watch_last_run": "リプレイを見る",
 	"race_against_ghost": "ゴーストと勝負",
