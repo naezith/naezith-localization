@@ -238,6 +238,7 @@
 	"page": "Strona",
 	"cancel": "Anuluj",
 	"loading": "Wczytywanie",
+	"trying_to_connect_ns_network": "Próbuję połączyć się z siecią Nintendo Switch Network",
 	"initializing": "Inicjalizacja",
 	"loading_assets": "Wczytywanie assetów",
 	"fetching_user_data": "Pobieranie danych gracza",

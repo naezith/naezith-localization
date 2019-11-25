@@ -238,6 +238,7 @@
 	"page": "페이지",
 	"cancel": "취소",
 	"loading": "불러오는 중",
+	"trying_to_connect_ns_network": "닌텐도 스위치 네트워크에 연결하려고",
 	"initializing": "초기화",
 	"loading_assets": "로딩 에셋",
 	"fetching_user_data": "사용자 데이터 불러오기",

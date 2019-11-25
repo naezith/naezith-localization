@@ -238,6 +238,7 @@
 	"page": "Página",
 	"cancel": "Cancelar",
 	"loading": "Cargando",
+	"trying_to_connect_ns_network": "Intentando conectarte a la Nintendo Switch Network",
 	"initializing": "Iniciando",
 	"loading_assets": "Cargando datos",
 	"fetching_user_data": "Recuperando datos de usuario",

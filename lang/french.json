@@ -5,14 +5,14 @@
 
 	"language": "Langue",
 	
-	"age": "Date",
+	"age": "Age",
 	"date": "Date",
-	"player": "Joueur",
+	"player": "Player",
 
 	"auto": "Auto",
 	"paused": "Pause",
 	"main_menu": "Menu Principal",
-	"purge_the_remnants": "Purger les vestiges",
+	"purge_the_remnants": "Purgez les Remnants",
 	"practice_lair": "Repaire d'entraînement",
 	"speedrun": "Speedrun",
 	"custom_levels": "Niveaux de la Communauté",
@@ -23,7 +23,7 @@
 	"quit": "Quitter",
 
 	"level_selection": "Choix des Niveaux",
-	"speedrun_selection": "Choix du Speedrun",
+	"speedrun_selection": "Choix de Speedrun",
 	"speedrun_lb": "Classements Speedrun",
 	
 	"window_is_out_of_focus": "Window is out of focus",
@@ -34,15 +34,15 @@
 		"hold_hook_and_jump_to_pull": "Maintenez GRAPPIN + SAUT pour RÉTRACTER",
 		"dash_jump": "DASH + SAUT pour faire un SAUT DASHÉ",
 		"dash_to_surf": "DASHEZ pour SURFER",
-		"jump_during_surf": "SAUTEZ pendant que vous SURFER",
-		"dash_during_swing" : "DASHEZ pendant un BALANCEMENT pour gagner de la vitesse et de la hauteur"
+		"jump_during_surf": "SAUTEZ pendant le SURF",
+		"dash_during_swing" : "DASHEZ pendant le BALANCEMENT pour gagner de la vitesse et de la hauteur"
 	},
 	"hold": "Maintenir",
 	"click": "Cliquer",
 	"click_and_hold": "Cliquer et maintenir",
 	
 	"pop_up_texts" : [
-		"Prêt", "Partez", "Retomber", "Recommencer", "Retourner au checkpoint",
+		"Prêt", "Partez", "Relapse", "Recommencer", "Recall",
 		"Fait", "Échoué", "Nom"
 	],
 	
@@ -50,8 +50,8 @@
 		"Attacher le Grappin vous redonne un Double Saut.",
 		"Sautez pendant un Dash pour gagner plus de hauteur.",
 		"Plus le rayon du Grappin est long, plus vous gagnerez de vitesse.",
-		"Relâchez le Grappin en bas d'un balancement pour obtenir le maximun de vitesse horizontale.",
-		"Le Dash donne le maximum de vitesse et de hauteur quand il est utilisé en bas d'un balancement.",
+		"Lâchez le Grappin en bas du balancement pour obtenir le plus de vitesse horizontale.",
+		"Le Dash donne le plus de vitesse et de hauteur quand il est utilisé en bas du balancement.",
 		"Utilisez votre Double Saut aussi tard que possible, vous pourriez en avoir besoin à n'importe quel moment."
 	],
 
@@ -87,7 +87,7 @@
 	"secret_level_unlocked" : "Un niveau secret a été débloqué",
 	"only_in_replays": "Seulement dans les Replays",
 	"only_in_speedrun": "Seulement en Speedrun",
-	"better_than_me": "joueur précedent au classement",
+	"better_than_me": "Un joueur meilleur que moi",
 	"line": "Ligne",
 	"lightning": "Foudre",
 	"line_and_lightning": "Ligne & Foudre",
@@ -99,8 +99,8 @@
 		"HOOK": "Grappin",
 		"DASH": "Dash",
 		"RESET": "Recommencer",
-		"RECALL": "Revenir au checkpoint",
-		"APPLY": "Valider",
+		"RECALL": "Recall",
+		"APPLY": "Appliquer",
 		"PAUSE": "Pause",
 		"BACK": "Retour",
 		"MENU UP": "Menu Haut",
@@ -109,21 +109,21 @@
 		"MENU RIGHT": "Menu Droit",
 		"LEADERBOARD": "Classements",
 		"LEVEL SEARCH": "Recherche de niveaux",
-		"SKIP TRACK": "Passer le morceau",
+		"SKIP TRACK": "Passer le niveau",
 
 		"WATCH": "Regarder",
 		"APPLY CHANGES": "Appliquer les changements",
 		"CHANGE SPEED": "Changer la vitesse",
-		"RESTART REPLAY": "Relancer le Replay"
+		"RESTART REPLAY": "Recommencer le Replay"
 	},
 
 	"promoted": "Promu",
 	"demoted": "Relégué",
 
-	"inspect": "Inspecter",
+	"inspect": "Inspectez",
 	"inspecting": "Inspection",
-	"complete_the_chapter": "Finir le chapitre",
-	"complete_a_chapter": "Finir un chapitre",
+	"complete_the_chapter": "Finissez le chapitre",
+	"complete_a_chapter": "Finissez un chapitre",
 
 	"purged": "Purgé",
 	"name": "Nom",
@@ -137,7 +137,7 @@
 	"locked": "Verrouillé",
 	"author": "Auteur",
 	
-	"hud": "Interface",
+	"hud": "HUD",
 
 	"menu": {
 		"settings": {
@@ -146,13 +146,13 @@
 			"gameplay": {
 				"title": "Jeu",
 				"camera_ignores_borders": "La Caméra Ignore les Bords",
-				"input_indicator": "Indicateur des Touches",
+				"input_indicator": "Indicateur de Touches",
 				"allow_checkpoints": "Checkpoints",
 				"speedometer": "Compteur de Vitesse",
 				"energy_as_number": "Énergie en tant que nombre",
-				"ghost_replay": "Fantôme",
+				"ghost_replay": "Replay Fantôme",
 				"ghost_visibility": "Visibilité du Fantôme",
-				"hook_indicator": "Indicateur du Chemin du Grappin",
+				"hook_indicator": "Indicateur de Chemin du Grappin",
 				"dash_bar": "Barre de rechargement du Dash",
 				"minimap": "Mini-map",
 				"skip_intro": "Passer l'intro",
@@ -161,20 +161,20 @@
 				"always_show_mastery_ghost": "Toujours montrer le Fantôme Maître",
 				"fade_ghost": "Transparence du Fantôme",
 				"shadow_ghost": "Ombre du Fantôme",
-				"short_list": "liste raccourcie",
+				"short_list": "liste courte",
 				"speedrun_levels_listing": "Liste des Niveaux du Speedrun"
 			},
 
 			"customization": {
 				"title": "Personnalisation",
-				"beam_style": "Style de Rayon du Grappin",
+				"beam_style": "Style Rayon du Grappin",
 				"main_color": "Couleur Principale",
 				"secondary_color": "Couleur Secondaire",
 				"ignore_replay_style": "Ignorer le style du replay"
 			},
 
 			"sound": {
-				"title": "Audio",
+				"title": "Son",
 				"shuffle_playlist": "Playlist Aléatoire",
 				"now_playing": "En cours de lecture",
 				"master_volume": "Volume Principal",
@@ -183,7 +183,7 @@
 			},
 
 			"graphics": {
-				"title": "Vidéo",
+				"title": "Graphismes",
 				"display_mode": "Mode d'affichage",
 				"fullscreen_resolution": "Résolution Plein Écran",
 				"windowed_mode_resolution": "Résolution Fenêtré",
@@ -203,17 +203,17 @@
 				"texture_smoothing_filter": "Filtre de lissage des textures",
 				"respawn_effect": "Effet de réapparition",
 				"texture_quality": "Qualité des Textures",
-				"water_quality": "Qualité de l'eau",
-				"hide_waterfalls": "Masquer les cascades",
+				"water_quality": "Water Quality",
+				"hide_waterfalls": "Hide Waterfalls",
 
 				"windowed": "Fenêtré",
-				"borderless": "Sans bordures",
+				"borderless": "Sans bords",
 				"fullscreen": "Plein Écran"
 			},
 
 			"controls": {
 				"title": "Contrôles",
-				"gamepad_layout": "Style de la Manette",
+				"gamepad_layout": "Agencement de la Manette",
 				"disable_gamepad": "Désactiver la Manette",
 				"gamepad_stick_threshold": "Seuil de Déclenchement des Sticks",
 				"gamepad_trigger_threshold": "Seuil de Déclenchement des Gachettes",
@@ -238,6 +238,7 @@
 	"page": "Page",
 	"cancel": "Annuler",
 	"loading": "Chargement",
+	"trying_to_connect_ns_network": "Essayer de se connecter au réseau Nintendo Switch",
 	"initializing": "Initialisation",
 	"loading_assets": "Chargement des données",
 	"fetching_user_data": "Récupération des données utilisateur",
@@ -271,8 +272,8 @@
 	"rated": "Noté",
 	"already_rated_level": ["Vous avez donné à ce niveau la note ", "!  Changer pour "],
 	"finish_first": "Finissez ce niveau une fois pour lui attribuer une note!",
-	"watch_last_run": "Regarder ma dernière tentative",
-	"race_against_ghost": "contre un fantôme",
+	"watch_last_run": "Regarder ma dernière course",
+	"race_against_ghost": "Faire la course contre un fantôme",
 	"mastered_the_level": "Maîtrisé",
 	"mastery_ghost_is_beaten": "le Fantôme Maître est battu!",
 
@@ -305,7 +306,7 @@
 	"non_capped": "illimité",
 
 	"expired_session": {
-		"connection_lost": "Connexion perdue",
+		"connection_lost": "La connexion à été perdue",
 		"new_patch": "Un nouveau correctif a sûrement été publié",
 		"restart": "Veuillez Redémarrer le Jeu"
 	},
@@ -371,9 +372,9 @@
 
 		"tile_names": {
 			"earth": "Terre",
-			"no_grap": "Pas d'accroche",
+			"no_grap": "Pas de Grappin",
 			"spike": "Pics",
-			"limited_grap": "Accroche Limitée",
+			"limited_grap": "Grappin Limité",
 			"surface": "Surface",
 			"no_walljump": "Pas de Walljump",
 			"hookable": "Accrochable",
@@ -390,10 +391,10 @@
 			"accelerator": "Accélérateur",
 			"water": "Eau",
 			"waterfall": "Cascade",
-			"jump_pad(": "Plateforme de saut",
+			"jump_pad": "Plateforme de saut",
 			"checkpoint": "Checkpoint",
 			"player_spawn": "Point d'apparition du joueur",
-			"end_remnant": "Vestige de fin"
+			"end_remnant": "Remnant de fin"
 		},
 
 		"binds": {
@@ -448,9 +449,9 @@
 
 	"intro" : [
 		"Les légendes parlent d'un puissant dragon du tonnerre qui a autrefois parcouru ces terres.",
-		"Il est dit qu'après sa mort, les vestiges du corps du dragon qui contenaient encore un immense pouvoir",
+		"Il était dit qu'après sa mort, les vestiges du corps du dragon qui contenaient encore un immense pouvoir",
 		"ont lentement été dispersés à travers le monde. Mais Naezith ne voulais pas partager le pouvoir qu'il considérait encore comme le sien.",
-		"Et ainsi, son âme seule persistante, il essaya de trouver un moyen de purger les vestiges de leur magie.",
+		"Et ainsi, son âme seule persistante, essaya de trouver un moyen de purger les vestiges de leur magie.",
 		"Des milliers d'années plus tard, un aventurier du nom de Kayra",
 		"entendit les rummeurs d'un vestige, reposant dans une grotte, et plongea à l'interieur en utilisant sa corde et son fidèle crochet.",
 		"Mais le crochet était ancien et finit par briser, causant la chute de Kayra",
