@@ -216,6 +216,7 @@
 				"gamepad_layout": "Oyun Kolu Tuş Düzeni",
 				"disable_gamepad": "Oyun Kolunu Devre Dışı Bırak",
 				"gamepad_stick_threshold": "Oyun Kolu Çubuk Eşiği",
+				"gamepad_stick_threshold_nintendo": "Oyun Kolu Çubuk Eşiği",
 				"gamepad_trigger_threshold": "Oyun Kolu Tetik Eşiği",
 				"gamepad_vibration": "Oyun Kolu Titreşimi",
 				"disable_gamepad_sticks": "Oyun Kolu Çubuklarını Devre Dışı Bırak",

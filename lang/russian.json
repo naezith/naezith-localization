@@ -216,6 +216,7 @@
 				"gamepad_layout": "Схема геймпада",
 				"disable_gamepad": "Отключить геймпад",
 				"gamepad_stick_threshold": "Порог чувст. рычагов",
+				"gamepad_stick_threshold_nintendo": "Порог чувст. рычагов",
 				"gamepad_trigger_threshold": "Порог чувст. триггеров",
 				"gamepad_vibration": "Вибрация",
 				"disable_gamepad_sticks": "Отключить рычаги геймпада",

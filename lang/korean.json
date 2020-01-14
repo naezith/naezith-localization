@@ -216,6 +216,7 @@
 				"gamepad_layout": "게임패드 레이아웃",
 				"disable_gamepad": "게임패드 미사용",
 				"gamepad_stick_threshold": "게임패드 스틱",
+				"gamepad_stick_threshold_nintendo": "컨트롤 스틱",
 				"gamepad_trigger_threshold": "게임패드 트리거",
 				"gamepad_vibration": "게임패드 진동",
 				"disable_gamepad_sticks": "게임패드 미사용",

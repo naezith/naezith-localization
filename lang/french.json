@@ -216,6 +216,7 @@
 				"gamepad_layout": "Style de la Manette",
 				"disable_gamepad": "Désactiver la Manette",
 				"gamepad_stick_threshold": "Seuil de Déclenchement des Sticks",
+				"gamepad_stick_threshold_nintendo": "Seuil de Déclenchement des Sticks",
 				"gamepad_trigger_threshold": "Seuil de Déclenchement des Gachettes",
 				"gamepad_vibration": "Vibration de la Manette",
 				"disable_gamepad_sticks": "Désactiver les Sticks",

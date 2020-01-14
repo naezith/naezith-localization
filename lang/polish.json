@@ -216,6 +216,7 @@
 				"gamepad_layout": "Ustawienia Gamepada",
 				"disable_gamepad": "Wyłącz Gamepada",
 				"gamepad_stick_threshold": "Próg Aktywacji Gałek",
+				"gamepad_stick_threshold_nintendo": "Próg Aktywacji Gałek",
 				"gamepad_trigger_threshold": "Próg Aktywacji Triggerów",
 				"gamepad_vibration": "Wibracje Gamepada",
 				"disable_gamepad_sticks": "Disable Gamepad Sticks",

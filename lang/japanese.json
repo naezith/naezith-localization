@@ -216,6 +216,7 @@
 				"gamepad_layout": "ゲームパッドレイアウト",
 				"disable_gamepad": "ゲームパッドを無効",
 				"gamepad_stick_threshold": "スティック閾値",
+				"gamepad_stick_threshold_nintendo": "スティック閾値",
 				"gamepad_trigger_threshold": "トリガー閾値",
 				"gamepad_vibration": "振動",
 				"disable_gamepad_sticks": "スティックを無効化",

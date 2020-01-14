@@ -216,6 +216,7 @@
 				"gamepad_layout": "Configurar mando",
 				"disable_gamepad": "Desconectar mando",
 				"gamepad_stick_threshold": "Sensibilidad de los sticks del mando",
+				"gamepad_stick_threshold_nintendo": "Sensibilidad de los sticks del mando",
 				"gamepad_trigger_threshold": "Sensibilidad de los gatillos del mando",
 				"gamepad_vibration": "Vibración del mando",
 				"disable_gamepad_sticks": "Disable Gamepad Sticks",
