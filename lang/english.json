@@ -144,6 +144,10 @@
 	"menu": {
 		"settings": {
 			"restore_default": "Restore Default Settings",
+
+			"main": {
+				"show_network_errors": "Show Network Errors"
+			},
 			
 			"gameplay": {
 				"title": "Gameplay",

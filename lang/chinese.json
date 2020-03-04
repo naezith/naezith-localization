@@ -144,6 +144,10 @@
 	"menu": {
 		"settings": {
 			"restore_default": "恢复初始设定",
+
+			"main": {
+				"show_network_errors": "显示网络错误"
+			},
 			
 			"gameplay": {
 				"title": "游戏",

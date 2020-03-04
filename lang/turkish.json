@@ -144,6 +144,10 @@
 	"menu": {
 		"settings": {
 			"restore_default": "Ayarları Sıfırla",
+
+			"main": {
+				"show_network_errors": "Ağ Hatalarını Göster"
+			},
 			
 			"gameplay": {
 				"title": "Oynanış",

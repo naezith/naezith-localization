@@ -144,6 +144,10 @@
 	"menu": {
 		"settings": {
 			"restore_default": "Palauta oletusasetukset ",
+
+			"main": {
+				"show_network_errors": "Näytä verkkovirheet"
+			},
 			
 			"gameplay": {
 				"title": "Gameplay",

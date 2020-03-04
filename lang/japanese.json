@@ -145,6 +145,10 @@
 		"settings": {
 			"restore_default": "デフォルトに戻す",
 
+			"main": {
+				"show_network_errors": "ネットワークエラーを表示する"
+			},
+
 			"gameplay": {
 				"title": "ゲームプレイ",
 				"camera_ignores_borders": "プレイヤーを常に中央に表示",
