@@ -245,7 +245,7 @@
 	"page": "ページ",
 	"cancel": "キャンセル",
 	"loading": "読み込み中",
-	"trying_to_connect_ns_network": "Nintendo Switch Networkに接続しようとしています",
+	"trying_to_connect_ns_network": "ネットワークに接続しようとしています",
 	"initializing": "初期化中",
 	"loading_assets": "アセットを読み込み中",
 	"fetching_user_data": "ユーザーデータ適用中",

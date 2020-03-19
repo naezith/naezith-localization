@@ -245,7 +245,7 @@
 	"page": "Page",
 	"cancel": "Annuler",
 	"loading": "Chargement",
-	"trying_to_connect_ns_network": "Essayer de se connecter au réseau Nintendo Switch",
+	"trying_to_connect_ns_network": "Essayer de se connecter au réseau",
 	"initializing": "Initialisation",
 	"loading_assets": "Chargement des données",
 	"fetching_user_data": "Récupération des données utilisateur",

@@ -245,7 +245,7 @@
 	"page": "Страница",
 	"cancel": "Отмена",
 	"loading": "Загрузка",
-	"trying_to_connect_ns_network": "Попытка подключиться к сети Nintendo Switch",
+	"trying_to_connect_ns_network": "Попытка подключиться к сети",
 	"initializing": "Подготовка",
 	"loading_assets": "Загрузка компонентов",
 	"fetching_user_data": "Запрос данных игрока",
