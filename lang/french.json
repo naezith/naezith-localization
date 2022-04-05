@@ -144,7 +144,7 @@
 
 	"menu": {
 		"settings": {
-			"restore_default": "Restorer les paramètres par défaut",
+			"restore_default": "Réinitialiser aux Valeurs par Défaut",
 
 			"main": {
 				"show_network_errors": "Afficher les erreurs réseau"
@@ -185,16 +185,16 @@
 				"shuffle_playlist": "Playlist Aléatoire",
 				"now_playing": "En cours de lecture",
 				"master_volume": "Volume Principal",
-				"sfx_volume": "Volume Effets Sonores",
-				"music_volume": "Volume Musique"
+				"sfx_volume": "Volume des Bruitages",
+				"music_volume": "Volume de la Musique"
 			},
 
 			"graphics": {
-				"title": "Vidéo",
-				"display_mode": "Mode d'affichage",
+				"title": "Graphismes",
+				"display_mode": "Mode d'Affichage",
 				"fullscreen_resolution": "Résolution Plein Écran",
 				"windowed_mode_resolution": "Résolution Fenêtré",
-				"vertical_sync": "Synchronisation Verticale",
+				"vertical_sync": "Synchro Verticale",
 				"view_height": "Hauteur de Caméra",
 				"rendertexture_height": "Haut rendu des textures",
 				"fps_cap": "Limitation du framerate",
@@ -214,7 +214,7 @@
 				"hide_waterfalls": "Masquer les cascades",
 
 				"windowed": "Fenêtré",
-				"borderless": "Sans bordures",
+				"borderless": "Sans Bordure",
 				"fullscreen": "Plein Écran"
 			},
 
