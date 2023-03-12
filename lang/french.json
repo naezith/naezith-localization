@@ -159,6 +159,7 @@
 				"energy_as_number": "Énergie en tant que nombre",
 				"ghost_replay": "Fantôme",
 				"ghost_visibility": "Visibilité du Fantôme",
+				"show_ghosts_only_on_replays": "Fantômes Uniquement sur les Rediffusions",
 				"hook_indicator": "Indicateur du Chemin du Grappin",
 				"dash_bar": "Barre de rechargement du Dash",
 				"minimap": "Mini-map",

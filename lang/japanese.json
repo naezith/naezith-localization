@@ -159,6 +159,7 @@
 				"energy_as_number": "エナジーを数字で表示",
 				"ghost_replay": "ゴーストの種類",
 				"ghost_visibility": "ゴーストの不透明度",
+				"show_ghosts_only_on_replays": "リプレイのみのゴースト",
 				"hook_indicator": "フック箇所のインジケータ",
 				"dash_bar": "ダッシュゲージ",
 				"minimap": "ミニマップ",

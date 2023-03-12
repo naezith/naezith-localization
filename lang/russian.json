@@ -159,6 +159,7 @@
 				"energy_as_number": "Энергия числом",
 				"ghost_replay": "Режим \"призрака\"",
 				"ghost_visibility": "Прозрачность \"призрака\"",
+				"show_ghosts_only_on_replays": "Призраки только на повторах",
 				"hook_indicator": "Визуализация пути крюка",
 				"dash_bar": "Индикатор рывка",
 				"minimap": "Мини-карта",

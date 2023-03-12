@@ -159,6 +159,7 @@
 				"energy_as_number": "能量用数字表示",
 				"ghost_replay": "幽灵回放",
 				"ghost_visibility": "幽灵可见度",
+				"show_ghosts_only_on_replays": "幽灵可见度",
 				"hook_indicator": "钩爪轨迹显示",
 				"dash_bar": "冲刺能量条",
 				"minimap": "小地图",

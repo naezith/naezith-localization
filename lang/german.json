@@ -159,6 +159,7 @@
 				"energy_as_number": "Energie als Nummer",
 				"ghost_replay": "Geister-Wiederholung",
 				"ghost_visibility": "Geist Sichtbarkeit",
+				"show_ghosts_only_on_replays": "Geister nur bei Wiederholungen",
 				"hook_indicator": "Hookpfad Indikator",
 				"dash_bar": "Dash Leiste",
 				"minimap": "Mini-map",

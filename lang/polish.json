@@ -159,6 +159,7 @@
 				"energy_as_number": "Energia w Formie Liczbowej",
 				"ghost_replay": "Powtórka Ducha",
 				"ghost_visibility": "Widoczność Ducha",
+				"show_ghosts_only_on_replays": "Duchy Tylko w Powtórkach",
 				"hook_indicator": "Wskaźnik Trajektorii Haka",
 				"dash_bar": "Wskaźnik Sprintu",
 				"minimap": "Mini-mapa",

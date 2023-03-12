@@ -159,6 +159,7 @@
 				"energy_as_number": "Energy as Number",
 				"ghost_replay": "Ghost Replay",
 				"ghost_visibility": "Ghost Visibility",
+				"show_ghosts_only_on_replays": "Show Ghosts Only On Replays",
 				"hook_indicator": "Hook Path Indicator",
 				"dash_bar": "Dash Bar",
 				"minimap": "Mini-map",

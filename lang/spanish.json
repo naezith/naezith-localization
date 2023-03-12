@@ -159,6 +159,7 @@
 				"energy_as_number": "Energía en cifras",
 				"ghost_replay": "Corredor fantasma",
 				"ghost_visibility": "Nitidez del corredor fantasma",
+				"show_ghosts_only_on_replays": "Fantasmas solo en las repeticiones",
 				"hook_indicator": "Retícula del garfio",
 				"dash_bar": "Medidor de aceleración",
 				"minimap": "Minimapa",

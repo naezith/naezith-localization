@@ -159,6 +159,7 @@
 				"energy_as_number": "에너지 양",
 				"ghost_replay": "고스트 리플레이",
 				"ghost_visibility": "고스트 투명도",
+				"show_ghosts_only_on_replays": "고스트 전용 리플레이",
 				"hook_indicator": "갈고리 방향 미리보기",
 				"dash_bar": "대쉬 바",
 				"minimap": "미니맵",
