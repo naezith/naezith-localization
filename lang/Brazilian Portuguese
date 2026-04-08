@@ -1,0 +1,477 @@
+{
+	"lang_name_short": "PT-BR",
+	"lang_name_english": "Brasilian Portuguese",
+	"lang_name_localized": "Português Brasileiro",
+
+	"language": "Língua",
+
+	"parental_control": "Controle Parental",
+	"try_to_connect": "Tentar Conectar",
+
+	"age": "Idade",
+	"date": "Data",
+	"player": "Jogador",
+
+	"auto": "Auto",
+	"paused": "Pausado",
+	"main_menu": "Menu Principal",
+	"purge_the_remnants": "Destrua os Vestígios",
+	"practice_lair": "Zona de Treinamento",
+	"speedrun": "Speedrun",
+	"custom_levels": "Níveis da Comunidade",
+	"global_rankings": "Placar Global",
+	"settings": "Configurações",
+	"credits": "Créditos",
+	"level_editor": "Editor de Níveis",
+	"quit": "Sair",
+
+	"level_selection": "Seleção de Nível",
+	"speedrun_selection": "Seleção de Speedrun",
+	"speedrun_lb": "Placar de Speedrun",
+	
+	"window_is_out_of_focus": "Janela Desfocada",
+
+	"tutorial": "Tutorial",
+	"tutorial_texts": {
+		"hold_hook_to_swing": "Segure GANCHO para BALANÇAR",
+		"hold_hook_and_jump_to_pull": "Segure GANCHO + PULO para IMPULSIONAR",
+		"dash_jump": "ARRANCADA + PULO para SALTAR COM IMPULSO",
+		"dash_to_surf": "ARRANCADA para DESLIZAR",
+		"jump_during_surf": "PULO durante DESLIZAR",
+		"dash_during_swing" : "ARRANCADA durante DESLIZAR para ganhar velocidade e altura"
+	},
+	"hold": "Segure",
+	"click": "Clique",
+	"click_and_hold": "Clique e segure",
+	
+	"pop_up_texts" : [
+		"Preparar", "Vai", "Retroceder", "Reiniciar", "Regressar",
+		"Completo", "Falhou", "Nome"
+	],
+	
+	"tips" : [
+		"Aterrisar com o gancho permite realizar um pulo duplo.",
+		"Pule durante a arrancada para pular mais alto.",
+		"Quanto maior o feiche de luz do gancho, mais velocidade você ganhará ao balançar.",
+		"Solte o gancho quando estiver na metade do balanço para ganhar mais velocidade horizontal.",
+		"User a arrancada durante o balanço é mais eficiente quando você está na metade do balanço, ganhando velocidade e altura.",
+		"Use seu pulo duplo o mais tarde possível, você pode acabar precisando dele a qualquer hora."
+	],
+
+	"global_ranks": {
+		"descendant": "Descendente de Naezith",
+		"inhuman": "Inumano",
+		"grandmaster": "Grão-Mestre",
+		"master": "Mestre",
+		"expert": "Especialista",
+		"veteran": "Veterano",
+		"adept": "Adepto",
+		"apprentice": "Aprendiz",
+		"novice": "Novato"
+	},
+
+	"yes": "Sim",
+	"no": "Não",
+	"enabled": "Habilitado",
+	"disabled": "Desabilitado",
+	"on": "Ligado",
+	"off": "Desligado",
+	"all": "Tudo",
+	"bottom": "Baixo",
+	"middle": "Meio",
+	"personal_best": "Recorde Pessoal",
+	"shadow": "Sombra",
+	"done": "Concluído",
+	"failed": "Falhou",
+	"low": "Baixo",
+	"high": "Alto",
+
+	"secret_unlocked" : "Segredo Desbloqueado",
+	"secret_level_unlocked" : "Nível Secreto Desbloqueado",
+	"only_in_replays": "Apenas em Replays",
+	"only_in_speedrun": "Apenas em Speedrun",
+	"better_than_me": "Um jogador melhor que eu",
+	"line": "Linha",
+	"lightning": "Relâmpago",
+	"line_and_lightning": "Linha & Relâmpago",
+
+	"action": {
+		"LEFT": "Esquerda",
+		"RIGHT": "Direita",
+		"JUMP": "Pulo",
+		"HOOK": "Gancho",
+		"DASH": "Arrancada",
+		"RESET": "Reiniciar",
+		"RECALL": "Recuperar",
+		"APPLY": "Aplicar",
+		"PAUSE": "Pausar",
+		"BACK": "Voltar",
+		"MENU UP": "Menu de Cima",
+		"MENU DOWN": "Menu Debaixo",
+		"MENU LEFT": "Menu da Esquerda",
+		"MENU RIGHT": "Menu da Direita",
+		"LEADERBOARD": "Classificações",
+		"LEVEL SEARCH": "Buscar Nível",
+		"SKIP TRACK": "Pular Nível",
+
+		"WATCH": "Observar",
+		"APPLY CHANGES": "Aplicar Mudanças",
+		"CHANGE SPEED": "Mudar Velocidade",
+		"RESTART REPLAY": "Reiniciar Replay"
+	},
+
+	"promoted": "Promovido",
+	"demoted": "Rebaixado",
+
+	"inspect": "Inspecionar",
+	"inspecting": "Inspecionando",
+	"complete_the_chapter": "Complete o capítulo",
+	"complete_a_chapter": "Complete um capítulo",
+
+	"purged": "Eliminado",
+	"name": "Nome",
+	"rating": "Pontuação",
+	"rank": "Classificação",
+	"time": "Tempo",
+	"your_time": "Seu Tempo",
+	"mastery_time": "Tempo de Domínio",
+	"total_time": "Tempo Total",
+	"dominance": "Domínio",
+	"locked": "Bloqueado",
+	"author": "Autor",
+	
+	"hud": "HUD",
+
+	"menu": {
+		"settings": {
+			"restore_default": "Restaurar Configuração Padrão",
+
+			"main": {
+				"show_network_errors": "Mostrar Erros de Conexão"
+			},
+			
+			"gameplay": {
+				"title": "Jogabilidade",
+				"camera_ignores_borders": "Câmera Ignora Bordas",
+				"input_indicator": "Indicador de Entrada",
+				"allow_checkpoints": "Habilitar Checkpoints",
+				"speedometer": "Velocímetro",
+				"energy_as_number": "Energia como Número",
+				"ghost_replay": "Replay Fantasma",
+				"ghost_visibility": "Visibilidade do Fantasma",
+				"show_ghosts_only_on_replays": "Mostrar Fantasmas Apenas Em Replays",
+				"hook_indicator": "Retícula do Gancho",
+				"dash_bar": "Barra de Arrancada",
+				"minimap": "Mini-mapa",
+				"skip_intro": "Pular Introdução",
+				"skip_ending": "Pular Cinemática Final",
+				"download_ghost": "Baixar Fantasma",
+				"always_show_mastery_ghost": "Sempre Mostrar Maestria do Fantasma",
+				"fade_ghost": "Ocultar Fantasma",
+				"shadow_ghost": "Sombra Fantasma",
+				"short_list": "Encurtar Lista",
+				"speedrun_levels_listing": "Lista de Níveis de Speedrun"
+			},
+
+			"customization": {
+				"title": "Customização",
+				"beam_style": "Estilo de Raio do Gancho",
+				"main_color": "Cor Principal",
+				"secondary_color": "Cor Secundária",
+				"ignore_replay_style": "Ignorar Estilo de Repelay"
+			},
+
+			"sound": {
+				"title": "Som",
+				"shuffle_playlist": "Playlist Aleatória",
+				"now_playing": "Tocando Agora",
+				"master_volume": "Volume Principal",
+				"sfx_volume": "Volume dos Efeitos Sonoros",
+				"music_volume": "Volume da Música"
+			},
+
+			"graphics": {
+				"title": "Gráficos",
+				"display_mode": "Modo de Visualização",
+				"fullscreen_resolution": "Tela Cheia",
+				"windowed_mode_resolution": "Modo Janela",
+				"vertical_sync": "Sincronização Vertical",
+				"view_height": "Distância da Câmera",
+				"rendertexture_height": "Distância de Renderização das Texturas",
+				"fps_cap": "Limite de FPS",
+				"show_fps": "Exibir FPS",
+				"bloom": "Bloom",
+				"background_blur": "Desfoque de Fundo",
+				"menu_blur": "Desfoque do Menu",
+				"ambient_coloring": "Coloração Ambiente",
+				"rgb_split": "Aberração Cromática",
+				"vignette_rgb_split": "Vinheta & Aberração Cromática",
+				"show_out_of_focus_overlay": "Exibir Desfoque",
+				"render_parallax_layers": "Exibir Efeito Paralax",
+				"texture_smoothing_filter": "Filtro Suavizador de Texturas",
+				"respawn_effect": "Efeito de Renascimento",
+				"texture_quality": "Qualidade da Textura",
+				"water_quality": "Qualidade da Água",
+				"hide_waterfalls": "Esconder Cachoeiras",
+
+				"windowed": "Modo Janela",
+				"borderless": "Modo Janela Sem Borda",
+				"fullscreen": "Tela Cheia"
+			},
+
+			"controls": {
+				"title": "Controles",
+				"gamepad_layout": "Configurar Controle",
+				"disable_gamepad": "Desabilitar Controle",
+				"gamepad_stick_threshold": "Sensibilidade do Analógico",
+				"gamepad_stick_threshold_nintendo": "Sensibilidade do Analógico",
+				"gamepad_trigger_threshold": "Sensibilidade dos Gatilhos",
+				"gamepad_vibration": "Vibração do Controle",
+				"disable_gamepad_sticks": "Desabilitar Analógicos do Controle",
+
+				"xbox": "Xbox",
+				"dualshock": "Dualshock"
+			},
+
+			"search_settings": {
+				"title": "Pesquisar Configurações"
+			}
+		}
+	},
+
+	"offline": "OFFLINE",
+	"offline_mode": "MODO OFFLINE",
+	"offline_mode_warning": "AVISO: Sua pontuação não ficará registrada no modo offline!",
+
+	"new": "Nova partida",
+	"page": "Página",
+	"cancel": "Cancelar",
+	"loading": "Carregando",
+	"trying_to_connect_ns_network": "Buscando conexão com a internet",
+	"initializing": "Inicializando",
+	"loading_assets": "Carregando dados",
+	"fetching_user_data": "Recuperando dados de usuário",
+	"resume": "Retomar",
+	"restart": "Reiniciar",
+	"refresh": "Atualizar",
+	"retry": "Tentar Novamente",
+	"play": "Jogar",
+	"search": "Pesquisar",
+	"scroll": "Deslocar",
+	"rotate": "Rotacionar",
+	"scale": "Ampliar",
+	"boost": "Acelerar",
+	"recording": "Gravar",
+	"upload": "Compartilhar",
+	"save": "Salvar",
+	"load": "Carregar",
+	"resize": "Ajustar Tamanho",
+	"create": "Criar",
+	"delete": "Deletar",
+
+	"show_top_players": "Mostrar melhores jogadores",
+	"player_rank_text": ["Você é o #", " de ", " jogadores!"],
+	"lb_disabled_offline": "Classificações estão desabilitadas no MODO OFFLINE",
+	"no_record": "Você não possui novo recorde",
+
+	"best": "Melhor Tempo",
+	"best_player": "Melhor Jogador",
+	"next_level": "Próximo Nível",
+	"rate_this_level": "Avalie esse nível",
+	"rated": "Avaliado",
+	"already_rated_level": ["Você já avaliou este nível com um ", "!  Mudar para "],
+	"finish_first": "Termine o nível uma vez para poder avaliá-lo!",
+	"watch_last_run": "Ver minha última tentativa",
+	"race_against_ghost": "Corra contra um fantasma",
+	"mastered_the_level": "Dominou",
+	"mastery_ghost_is_beaten": "Fantasma de Maestria Derrotado!",
+
+	"all_levels": "Todos os Níveis",
+	"everyone": "Todo Mundo",
+	"sort_property": "Configurar Filtro",
+	"most_played": "Mais jogado",
+	"most_recent": "Mais recente",
+	"most_voted": "Mais votado",
+	"default": "Padrão",
+	"hide_finished": "Ocultar Finalizados",
+	"show_finished": "Mostrar Finalizados",
+
+	"order": "Ordem",
+	"ascending": "Crescente",
+	"descending": "Decrescente",
+
+	"gr_info": "Atualizar Classificação ",
+	"hourly": "a cada hora",
+	"daily": "diáriamente",
+	"monthly": "mensalmente",
+	"every": "a cada",
+	"hours": "hora",
+	"days": "dia",
+	"months": "mês",
+	"today": "Hoje",
+	"yesterday": "Ontem",
+
+	"capped": "limitado",
+	"non_capped": "sem limite",
+
+	"expired_session": {
+		"connection_lost": "Conexão Perdida",
+		"new_patch": "Provavelmente há uma nova atualização",
+		"restart": "Por favor, reinicie o jogo"
+	},
+
+	"width": "Largura",
+	"height": "Altura",
+	"front": "Frente",
+	"behind": "Trás",
+	"first": "Primeiro",
+	"second": "Segundo",
+	"both": "Ambos",
+	"properties": "Propriedades",
+	"accel": "Aceleração",
+	"speed": "Velocidade",
+	"rotation": "Rotação",
+	"working": "Funcionando",
+	"movement": "Movimento",
+	"radius": "Raio",
+	"in": "Entrada",
+	"out": "Saída",
+	"add": "Adicionar",
+	"set": "Definir",
+	"type": "Tipo",
+	"gravity": "Gravidade",
+	"rectangle": "Reângulo",
+	"circle": "Círculo",
+	"direction": "Direção",
+	"size": "Tamanho",
+	"range": "Alcance",
+	"offset": "Deslocamento",
+
+	"editor": {
+		"hide_layers": "Ocultar Camadas",
+		"show_layers": "Mostrar Camadas",
+
+		"stick": "Aderir",
+
+		"homing": "Guiado",
+		"straight": "Direto",
+		"rotating": "Giratório",
+		"toggling": "Alternante",
+		"tracking": "Rastreio",
+
+		"active_time": "Tempo Ativo",
+		"passive_time": "Tempo Passivo",
+		"max_length": "Comprimento Máximo",
+		"iter_count": "Contagem de Iteração",
+		"start_delay": "Atraso Inicial",
+		"phase_offset": "Deslocamento de Fase",
+		"height_diff": "Diferença de Altura",
+		"linear": "Linear",
+		"ease": "Suavização",
+
+		"tiles": "Blocos",
+		"objects": "Objetos",
+		"curr_size": "Tamanho Atual",
+
+		"snap": "Ajustar à Grade",
+
+		"helper_ghost_will_draw": "Desenhar um triângulo ativará o replay de FANTASMA que você acabou de gravar",
+		"helper_ghost_record": "Pressione U durante o teste para gravar um replay de FANTASMA",
+		"helper_ghost_stop_record": "Pressione U para parar de gravar e salvar o replay de FANTASMA",
+
+		"tile_names": {
+			"earth": "Terra",
+			"no_grap": "Sem Gancho",
+			"spike": "Espinho",
+			"limited_grap": "Gancho Limitado",
+			"surface": "Superfície",
+			"no_walljump": "Sem Pulo na Parede",
+			"hookable": "Enganchável",
+			"decoration": "Decoração",
+			"props": "Objetos de Cena"
+		},
+
+		"object_names": {
+			"blade": "Lâmina",
+			"turret": "Torreta",
+			"killer_bomb": "Bomba Assassina",
+			"walter_bomb": "Bomba Walter",
+			"laser": "Laser",
+			"accelerator": "Acelerador",
+			"water": "Água",
+			"waterfall": "Cachoeira",
+			"jump_pad": "Plataforma de Salto",
+			"checkpoint": "Ponto de Controle",
+			"player_spawn": "Surgimento do Jogador",
+			"end_remnant": "Remanescente Final"
+		},
+
+		"binds": {
+			"coordinate": "Coordenada",
+			"zoom": "Zoom",
+			"undo": "Desfazer",
+			"redo": "Refazer",
+			"toggle_grid": "Alternar Grade",
+			"change_category": "Alternar Categoria",
+			"hide_gui": "Ocultar Interface",
+			"toggle_ai_update": "Alternar Atualização de IA",
+			"boost_camera_speed": "Câmera Rápida",
+			"move_camera": "Mover Câmera",
+			"drag_object": "Arrastar Objeto",
+			"copy_object_properties": "Copiar Propriedades do Objeto",
+			"area_fill": "Preencher Área",
+			"quick_save": "Salvamento Rápido",
+	
+			"rotate_object": "Rotacionar",
+			"play": "Jogar",
+			"obj_portal": "Portal",
+			"obj_hook_band": "Limite do Gancho",
+			"obj_colorize": "Colorir Nível",
+			"record_ghost": "Gravar Fantasma",
+
+			"select_playground_tile_layer": "Área de Jogo",
+			"select_static_bg_tile_layer": "Fundo Estático",
+			"select_parallax_bg1_tile_layer": "Fundo Parallax nº 1",
+			"select_parallax_bg2_tile_layer": "Fundo Parallax nº #2",
+			"select_playground_deco_tile_layer": "Camada Frontal"
+		},
+
+		"file_name": "Nome do Arquivo",
+		"level_name": "Nome do Nível",
+
+		"upload_level": "Enviar Nível",
+		"upload_level_warning": "Aviso de Envio de Nível",
+		"upload_level_label1": "Aviso: O placar será limpo se você atualizar o nível.",
+		"upload_level_label2": "Você deve completar o nível uma vez para enviar.",
+
+		"clear_everything": "Limpar Tudo",
+		"save_level": "Salvar Nível",
+		"load_level": "Carregar Nível",
+		"load_level_label1": "Aviso: O nome do arquivo é uma combinação do nome de usuário do autor e o nome do nível.",
+		"load_level_label2": ["ex.: \"nomedousuário-nomedafase\" como \"naezith-Stalactites\" (O arquivo deve estar na pasta ", " .)"],
+
+		"resize_level": "Redimensionar Nível",
+		"new_size": "Novo Tamanho",
+		"new_level": "Novo Nível",
+		"delete_uploaded_level": "Excluir Nível Enviado"
+	},
+
+	"intro" : [
+		"Lendas contam sobre um poderoso dragão do trovão chamado Naezith, que outrora vagu por estas terras.",
+		"Dizia-se que após sua morte, remanescentes do corpo do dragão que ainda detinham imenso poder",
+		"foram lentamente dispersos pelo mundo por eventos naturais. Mas Naezith não queria compartilhar o poder que ainda considerava seu.",
+		"E assim, sua alma ainda perdurava, tentando encontrar uma maneira de pugar os remanescentes de sua magia.",
+		"Milhares de anos depois, um aventureiro chamado Kayra",
+		"ouviu rumores de um remanescente escondido dentro de uma caverna e mergulhou usando sua corda e seu fiel gancho.",
+		"Mas o gancho era velho e acabou cedendo, fazendo com que Kayra caísse",
+		"em um abismo aparentemente sem fim...",
+		"Ele acordou aterrorizado e encontrou duas garras brilhantes magicamente presas às suas mãos.",
+		"Louco de terror, ele balançou os braços freneticamente, mas o feitiço não quebrou.",
+		"Em vez disso, a garra disparou, cravando-se firmemente na parede de pedra. Um raio mágico ainda ligava as garras às suas mãos, funcionando de forma muito parecida com seu antigo gancho.",
+		"De repente, Naezith apareceu para Kayra e disse que precisava de um corpo físico para alcançar seus objetivos.",
+		"Sob a promessa de tesouros ilimitados, Kayra aceitou a oferta do Dragão de possuir parcialmente seu corpo e usar seus poderes, iniciando sua jornada para purgar os…"
+	],
+	
+	"translation": "Tradução",
+	"translated_by": " Guilherme Abrão (Liguerme) "
+}
